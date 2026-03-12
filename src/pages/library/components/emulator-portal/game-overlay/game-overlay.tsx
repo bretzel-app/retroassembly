@@ -29,10 +29,13 @@ export function GameOverlay() {
     () =>
       Gamepad.onPress(
         debounce(async (event) => {
+          const pauseButtons = gamepadMapping.$pause?.split(',') ?? []
+          if (pauseButtons.length === 0) {
+            return
+          }
           const { buttons } = event.gamepad
-          const expectedButtons = [gamepadMapping.input_player1_l1_btn, gamepadMapping.input_player1_r1_btn]
-          const areExpectedButtonPressed = expectedButtons.every((code) => buttons[code].pressed)
-          if (areExpectedButtonPressed) {
+          const allPressed = pauseButtons.every((code) => buttons[Number(code)]?.pressed)
+          if (allPressed) {
             await toggle()
           }
         }, 100),
