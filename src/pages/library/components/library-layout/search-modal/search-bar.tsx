@@ -26,7 +26,7 @@ export function SearchBar() {
   const [selectedResult, setSelectedResult] = useSelectedResult()
 
   const { data, isLoading: isMutating } = useSWR(
-    query ? { endpoint: 'roms/search', query: { page_size: '10', query } } : null,
+    query ? { endpoint: 'roms/search', query: { page_size: '100', query } } : null,
     ({ query }) => parseResponse($get({ query })),
     { dedupingInterval: 5 * 60 * 1000, keepPreviousData: true, revalidateOnFocus: false, revalidateOnReconnect: false },
   )
