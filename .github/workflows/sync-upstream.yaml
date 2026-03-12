@@ -1,0 +1,22 @@
+name: Sync Fork with Upstream
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # daily at 6am UTC
+  workflow_dispatch: # allow manual trigger
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Sync fork
+        run: gh repo sync "$GITHUB_REPOSITORY" --source arianrhodsandlot/retroassembly --branch main
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
