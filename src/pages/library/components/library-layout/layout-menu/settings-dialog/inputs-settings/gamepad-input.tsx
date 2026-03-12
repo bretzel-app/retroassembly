@@ -25,7 +25,7 @@ export function GamepadInput({ button }: Readonly<GamepadInputProps>) {
   const gamepadMapping = useGamepadMapping()
 
   const value = gamepadMapping[button.name]
-  const disabled = button.name.startsWith('$')
+  const disabled = button.name.startsWith('$') && button.name !== '$pause'
   const clearable = !disabled && Boolean(value)
 
   async function handleClickClear() {
