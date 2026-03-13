@@ -358,5 +358,6 @@
   "to test your gamepad and see the button names.": "per testare il tuo controller e vedere i nomi dei pulsanti.",
   "uploadRomsToGetStarted": "<1></1> alcune ROM per iniziare.",
   "…and more": "…e altro",
-  "🎉 {{successCount}}/{{totalCount}} ROM(s) have been uploaded.": "🎉 {{successCount}}/{{totalCount}} ROM sono state caricate."
+  "🎉 {{successCount}}/{{totalCount}} ROM(s) have been uploaded.": "🎉 {{successCount}}/{{totalCount}} ROM sono state caricate.",
+  "platform_ps1_note": "The PlayStation (also known as PS1 or PSX) is a home video game console developed and marketed by Sony Computer Entertainment. It was first released in Japan on December 3, 1994, and later worldwide. The PlayStation revolutionized the gaming industry by introducing CD-ROM-based gaming to a mass audience, enabling 3D graphics and expansive game worlds. It became one of the best-selling consoles of all time with over 100 million units sold."
 }

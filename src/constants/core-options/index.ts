@@ -12,6 +12,7 @@ import { mednafenVbOptions } from './mednafen-vb.ts'
 import { mednafenWswanOptions } from './mednafen-wswan.ts'
 import { mgbaOptions } from './mgba.ts'
 import { nestopiaOptions } from './nestopia.ts'
+import { pcsxRearmedOptions } from './pcsx-rearmed.ts'
 import { picodriveOptions } from './picodrive.ts'
 import { prosystemOptions } from './prosystem.ts'
 import { quicknesOptions } from './quicknes.ts'
@@ -34,6 +35,7 @@ export const coreOptionsMap = {
   mednafen_wswan: mednafenWswanOptions,
   mgba: mgbaOptions,
   nestopia: nestopiaOptions,
+  pcsx_rearmed: pcsxRearmedOptions,
   picodrive: picodriveOptions,
   prosystem: prosystemOptions,
   quicknes: quicknesOptions,

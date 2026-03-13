@@ -4518,5 +4518,507 @@
       "originalName": "Rendering Ranger R2",
       "rank": 100
     }
+  ],
+  "ps1": [
+    {
+      "name": "ace combat 2",
+      "originalName": "Ace Combat 2",
+      "rank": 1
+    },
+    {
+      "name": "alundra",
+      "originalName": "Alundra",
+      "rank": 2
+    },
+    {
+      "name": "ape escape",
+      "originalName": "Ape Escape",
+      "rank": 3
+    },
+    {
+      "name": "blood omen legacy of kain",
+      "originalName": "Blood Omen: Legacy of Kain",
+      "rank": 4
+    },
+    {
+      "name": "brave fencer musashi",
+      "originalName": "Brave Fencer Musashi",
+      "rank": 5
+    },
+    {
+      "name": "breath of fire iii",
+      "originalName": "Breath of Fire III",
+      "rank": 6
+    },
+    {
+      "name": "breath of fire iv",
+      "originalName": "Breath of Fire IV",
+      "rank": 7
+    },
+    {
+      "name": "bushido blade",
+      "originalName": "Bushido Blade",
+      "rank": 8
+    },
+    {
+      "name": "castlevania symphony of the night",
+      "originalName": "Castlevania: Symphony of the Night",
+      "rank": 9
+    },
+    {
+      "name": "chocobo racing",
+      "originalName": "Chocobo Racing",
+      "rank": 10
+    },
+    {
+      "name": "chrono cross",
+      "originalName": "Chrono Cross",
+      "rank": 11
+    },
+    {
+      "name": "colony wars",
+      "originalName": "Colony Wars",
+      "rank": 12
+    },
+    {
+      "name": "cool boarders 2",
+      "originalName": "Cool Boarders 2",
+      "rank": 13
+    },
+    {
+      "name": "crash bandicoot",
+      "originalName": "Crash Bandicoot",
+      "rank": 14
+    },
+    {
+      "name": "crash bandicoot 2 cortex strikes back",
+      "originalName": "Crash Bandicoot 2: Cortex Strikes Back",
+      "rank": 15
+    },
+    {
+      "name": "crash bandicoot warped",
+      "originalName": "Crash Bandicoot: Warped",
+      "rank": 16
+    },
+    {
+      "name": "crash team racing",
+      "originalName": "Crash Team Racing",
+      "rank": 17
+    },
+    {
+      "name": "destruction derby 2",
+      "originalName": "Destruction Derby 2",
+      "rank": 18
+    },
+    {
+      "name": "dino crisis",
+      "originalName": "Dino Crisis",
+      "rank": 19
+    },
+    {
+      "name": "dino crisis 2",
+      "originalName": "Dino Crisis 2",
+      "rank": 20
+    },
+    {
+      "name": "doom",
+      "originalName": "Doom",
+      "rank": 21
+    },
+    {
+      "name": "driver",
+      "originalName": "Driver",
+      "rank": 22
+    },
+    {
+      "name": "einhander",
+      "originalName": "Einhander",
+      "rank": 23
+    },
+    {
+      "name": "fear effect",
+      "originalName": "Fear Effect",
+      "rank": 24
+    },
+    {
+      "name": "final fantasy ix",
+      "originalName": "Final Fantasy IX",
+      "rank": 25
+    },
+    {
+      "name": "final fantasy tactics",
+      "originalName": "Final Fantasy Tactics",
+      "rank": 26
+    },
+    {
+      "name": "final fantasy vii",
+      "originalName": "Final Fantasy VII",
+      "rank": 27
+    },
+    {
+      "name": "final fantasy viii",
+      "originalName": "Final Fantasy VIII",
+      "rank": 28
+    },
+    {
+      "name": "front mission 3",
+      "originalName": "Front Mission 3",
+      "rank": 29
+    },
+    {
+      "name": "gran turismo",
+      "originalName": "Gran Turismo",
+      "rank": 30
+    },
+    {
+      "name": "gran turismo 2",
+      "originalName": "Gran Turismo 2",
+      "rank": 31
+    },
+    {
+      "name": "grand theft auto 2",
+      "originalName": "Grand Theft Auto 2",
+      "rank": 32
+    },
+    {
+      "name": "harvest moon back to nature",
+      "originalName": "Harvest Moon: Back to Nature",
+      "rank": 33
+    },
+    {
+      "name": "hot shots golf 2",
+      "originalName": "Hot Shots Golf 2",
+      "rank": 34
+    },
+    {
+      "name": "intelligent qube",
+      "originalName": "Intelligent Qube",
+      "rank": 35
+    },
+    {
+      "name": "jet moto 2",
+      "originalName": "Jet Moto 2",
+      "rank": 36
+    },
+    {
+      "name": "klonoa door to phantomile",
+      "originalName": "Klonoa: Door to Phantomile",
+      "rank": 37
+    },
+    {
+      "name": "legacy of kain soul reaver",
+      "originalName": "Legacy of Kain: Soul Reaver",
+      "rank": 38
+    },
+    {
+      "name": "legend of mana",
+      "originalName": "Legend of Mana",
+      "rank": 39
+    },
+    {
+      "name": "lunar 2 eternal blue complete",
+      "originalName": "Lunar 2: Eternal Blue Complete",
+      "rank": 40
+    },
+    {
+      "name": "lunar silver star story complete",
+      "originalName": "Lunar: Silver Star Story Complete",
+      "rank": 41
+    },
+    {
+      "name": "marvel vs capcom clash of super heroes",
+      "originalName": "Marvel vs. Capcom: Clash of Super Heroes",
+      "rank": 42
+    },
+    {
+      "name": "medal of honor",
+      "originalName": "Medal of Honor",
+      "rank": 43
+    },
+    {
+      "name": "medal of honor underground",
+      "originalName": "Medal of Honor: Underground",
+      "rank": 44
+    },
+    {
+      "name": "mega man legends",
+      "originalName": "Mega Man Legends",
+      "rank": 45
+    },
+    {
+      "name": "mega man x5",
+      "originalName": "Mega Man X5",
+      "rank": 46
+    },
+    {
+      "name": "metal gear solid",
+      "originalName": "Metal Gear Solid",
+      "rank": 47
+    },
+    {
+      "name": "metal slug x",
+      "originalName": "Metal Slug X",
+      "rank": 48
+    },
+    {
+      "name": "monster rancher 2",
+      "originalName": "Monster Rancher 2",
+      "rank": 49
+    },
+    {
+      "name": "oddworld abes exoddus",
+      "originalName": "Oddworld: Abe's Exoddus",
+      "rank": 50
+    },
+    {
+      "name": "oddworld abes oddysee",
+      "originalName": "Oddworld: Abe's Oddysee",
+      "rank": 51
+    },
+    {
+      "name": "omega boost",
+      "originalName": "Omega Boost",
+      "rank": 52
+    },
+    {
+      "name": "parappa the rapper",
+      "originalName": "PaRappa the Rapper",
+      "rank": 53
+    },
+    {
+      "name": "pac man world",
+      "originalName": "Pac-Man World",
+      "rank": 54
+    },
+    {
+      "name": "parasite eve",
+      "originalName": "Parasite Eve",
+      "rank": 55
+    },
+    {
+      "name": "parasite eve ii",
+      "originalName": "Parasite Eve II",
+      "rank": 56
+    },
+    {
+      "name": "persona 2 eternal punishment",
+      "originalName": "Persona 2: Eternal Punishment",
+      "rank": 57
+    },
+    {
+      "name": "r type delta",
+      "originalName": "R-Type Delta",
+      "rank": 58
+    },
+    {
+      "name": "rayman",
+      "originalName": "Rayman",
+      "rank": 59
+    },
+    {
+      "name": "resident evil",
+      "originalName": "Resident Evil",
+      "rank": 60
+    },
+    {
+      "name": "resident evil 2",
+      "originalName": "Resident Evil 2",
+      "rank": 61
+    },
+    {
+      "name": "resident evil 3 nemesis",
+      "originalName": "Resident Evil 3: Nemesis",
+      "rank": 62
+    },
+    {
+      "name": "ridge racer type 4",
+      "originalName": "Ridge Racer Type 4",
+      "rank": 63
+    },
+    {
+      "name": "saga frontier",
+      "originalName": "SaGa Frontier",
+      "rank": 64
+    },
+    {
+      "name": "silent hill",
+      "originalName": "Silent Hill",
+      "rank": 65
+    },
+    {
+      "name": "spider man",
+      "originalName": "Spider-Man",
+      "rank": 66
+    },
+    {
+      "name": "spyro 2 riptos rage",
+      "originalName": "Spyro 2: Ripto's Rage!",
+      "rank": 67
+    },
+    {
+      "name": "spyro the dragon",
+      "originalName": "Spyro the Dragon",
+      "rank": 68
+    },
+    {
+      "name": "spyro year of the dragon",
+      "originalName": "Spyro: Year of the Dragon",
+      "rank": 69
+    },
+    {
+      "name": "star ocean the second story",
+      "originalName": "Star Ocean: The Second Story",
+      "rank": 70
+    },
+    {
+      "name": "street fighter alpha 3",
+      "originalName": "Street Fighter Alpha 3",
+      "rank": 71
+    },
+    {
+      "name": "suikoden",
+      "originalName": "Suikoden",
+      "rank": 72
+    },
+    {
+      "name": "suikoden ii",
+      "originalName": "Suikoden II",
+      "rank": 73
+    },
+    {
+      "name": "syphon filter",
+      "originalName": "Syphon Filter",
+      "rank": 74
+    },
+    {
+      "name": "syphon filter 2",
+      "originalName": "Syphon Filter 2",
+      "rank": 75
+    },
+    {
+      "name": "tekken 3",
+      "originalName": "Tekken 3",
+      "rank": 76
+    },
+    {
+      "name": "tenchu stealth assassins",
+      "originalName": "Tenchu: Stealth Assassins",
+      "rank": 77
+    },
+    {
+      "name": "the legend of dragoon",
+      "originalName": "The Legend of Dragoon",
+      "rank": 78
+    },
+    {
+      "name": "theme hospital",
+      "originalName": "Theme Hospital",
+      "rank": 79
+    },
+    {
+      "name": "threads of fate",
+      "originalName": "Threads of Fate",
+      "rank": 80
+    },
+    {
+      "name": "time crisis",
+      "originalName": "Time Crisis",
+      "rank": 81
+    },
+    {
+      "name": "tomb raider",
+      "originalName": "Tomb Raider",
+      "rank": 82
+    },
+    {
+      "name": "tomb raider ii",
+      "originalName": "Tomb Raider II",
+      "rank": 83
+    },
+    {
+      "name": "tomb raider iii",
+      "originalName": "Tomb Raider III",
+      "rank": 84
+    },
+    {
+      "name": "tomba",
+      "originalName": "Tomba!",
+      "rank": 85
+    },
+    {
+      "name": "tony hawks pro skater",
+      "originalName": "Tony Hawk's Pro Skater",
+      "rank": 86
+    },
+    {
+      "name": "tony hawks pro skater 2",
+      "originalName": "Tony Hawk's Pro Skater 2",
+      "rank": 87
+    },
+    {
+      "name": "twisted metal",
+      "originalName": "Twisted Metal",
+      "rank": 88
+    },
+    {
+      "name": "twisted metal 2",
+      "originalName": "Twisted Metal 2",
+      "rank": 89
+    },
+    {
+      "name": "um jammer lammy",
+      "originalName": "Um Jammer Lammy",
+      "rank": 90
+    },
+    {
+      "name": "vagrant story",
+      "originalName": "Vagrant Story",
+      "rank": 91
+    },
+    {
+      "name": "valkyrie profile",
+      "originalName": "Valkyrie Profile",
+      "rank": 92
+    },
+    {
+      "name": "vandal hearts",
+      "originalName": "Vandal Hearts",
+      "rank": 93
+    },
+    {
+      "name": "wwf smackdown 2 know your role",
+      "originalName": "WWF SmackDown! 2: Know Your Role",
+      "rank": 94
+    },
+    {
+      "name": "wild arms",
+      "originalName": "Wild Arms",
+      "rank": 95
+    },
+    {
+      "name": "wipeout xl",
+      "originalName": "WipEout XL",
+      "rank": 96
+    },
+    {
+      "name": "wipeout 3",
+      "originalName": "Wipeout 3",
+      "rank": 97
+    },
+    {
+      "name": "worms armageddon",
+      "originalName": "Worms Armageddon",
+      "rank": 98
+    },
+    {
+      "name": "x men vs street fighter",
+      "originalName": "X-Men vs. Street Fighter",
+      "rank": 99
+    },
+    {
+      "name": "xenogears",
+      "originalName": "Xenogears",
+      "rank": 100
+    }
   ]
 }

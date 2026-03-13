@@ -330,6 +330,19 @@ const basePlatformMap = {
     },
     libretroName: 'NEC - PC Engine - TurboGrafx 16',
   },
+  ps1: {
+    bioses: [{ md5: '924e392ed05558ffdb115408c263dccf', name: 'scph5501.bin', required: true }],
+    cores: ['pcsx_rearmed'],
+    displayName: 'PlayStation',
+    fileExtensions: ['.bin', '.cue', '.img', '.mdf', '.pbp', '.toc', '.cbn', '.m3u', '.ccd', '.chd', '.zip'],
+    info: {
+      developer: 'Sony Computer Entertainment',
+      manufacturer: 'Sony Corporation',
+      notesI18nKey: 'platform_ps1_note',
+      releaseDate: '1994-12-03T00:00:00+09:00',
+    },
+    libretroName: 'Sony - PlayStation',
+  },
   sega32x: {
     cores: ['picodrive'],
     displayName: 'Sega 32X',
