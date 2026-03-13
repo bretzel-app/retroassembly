@@ -74,7 +74,7 @@ export function getRomLibretroThumbnail(
 }
 
 const localPlatformAssets: Record<string, { banner?: string; gameIcon?: string; icon?: string }> = {
-  ps1: { icon: '/assets/platforms/icons/ps1.png' },
+  ps1: { gameIcon: '/assets/platforms/contents/ps1.svg', icon: '/assets/platforms/icons/ps1.png' },
 }
 
 export function getPlatformIcon(platform: string) {
