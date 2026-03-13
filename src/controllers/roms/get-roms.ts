@@ -1,7 +1,7 @@
 import { and, count, desc, eq, inArray, isNotNull, sql } from 'drizzle-orm'
 import { getContext } from 'hono/context-storage'
 import type { PlatformName } from '#@/constants/platform.ts'
-import { favoriteTable, romTable, statusEnum } from '#@/databases/schema.ts'
+import { favoriteTable, romTable, statusEnum, top100RankTable } from '#@/databases/schema.ts'
 
 type GetRomsReturning = Awaited<ReturnType<typeof getRoms>>
 export type Roms = GetRomsReturning['roms']
@@ -12,7 +12,7 @@ interface GetRomsParams {
   direction?: 'asc' | 'desc'
   favorite?: boolean
   id?: string
-  orderBy?: 'added' | 'name' | 'released'
+  orderBy?: 'added' | 'name' | 'released' | 'top100'
   page?: number
   pageSize?: number
   platform?: PlatformName
@@ -43,31 +43,50 @@ export async function getRoms({
   const where = and(...conditions)
 
   const offset = (page - 1) * pageSize
-  const columnMap = {
-    added: romTable.createdAt,
-    name: sql`LOWER(${romTable.fileName})`,
-    released: romTable.gameReleaseDate,
-  }
-  const column = columnMap[orderBy]
-  const columns = [sql`${column} IS NULL`, direction === 'desc' ? desc(column) : column]
-  if (orderBy !== 'name') {
-    columns.push(columnMap.name)
-  }
+
   const favoriteJoinCondition = and(
     eq(favoriteTable.romId, romTable.id),
     eq(favoriteTable.userId, currentUser.id),
     eq(favoriteTable.status, statusEnum.normal),
   )
 
+  // Normalize gameName to match top100 data format:
+  // lowercase, strip : - – — ' ! . , replace & with 'and', collapse spaces
+  const normalizedGameName = sql`TRIM(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(LOWER(${romTable.gameName}), ':', ' '), '-', ' '), '''', ''), '!', ''), '.', ''), '&', 'and'), '  ', ' '), '  ', ' '))`
+
+  const top100JoinCondition = and(
+    eq(top100RankTable.platform, romTable.platform),
+    eq(top100RankTable.normalizedName, normalizedGameName),
+  )
+
   const baseQuery = library
     .select({
       isFavorite: sql<boolean>`CASE WHEN ${favoriteTable.id} IS NOT NULL THEN 1 ELSE 0 END`,
       rom: romTable,
+      top100Rank: top100RankTable.rank,
     })
     .from(romTable)
     .leftJoin(favoriteTable, favoriteJoinCondition)
+    .leftJoin(top100RankTable, top100JoinCondition)
 
   const favoriteWhere = favorite ? and(where, isNotNull(favoriteTable.id)) : where
+
+  let columns: any[]
+  if (orderBy === 'top100') {
+    // Ranked games first (by rank ASC), then unranked (by name)
+    columns = [sql`${top100RankTable.rank} IS NULL`, top100RankTable.rank, sql`LOWER(${romTable.fileName})`]
+  } else {
+    const columnMap = {
+      added: romTable.createdAt,
+      name: sql`LOWER(${romTable.fileName})`,
+      released: romTable.gameReleaseDate,
+    }
+    const column = columnMap[orderBy]
+    columns = [sql`${column} IS NULL`, direction === 'desc' ? desc(column) : column]
+    if (orderBy !== 'name') {
+      columns.push(columnMap.name)
+    }
+  }
 
   const romsRaw = await baseQuery
     .orderBy(...columns)
@@ -75,7 +94,9 @@ export async function getRoms({
     .offset(offset)
     .limit(pageSize)
 
-  const roms = romsRaw.map(({ isFavorite, rom }) => Object.assign(rom, { isFavorite: Boolean(isFavorite) }))
+  const roms = romsRaw.map(({ isFavorite, rom, top100Rank }) =>
+    Object.assign(rom, { isFavorite: Boolean(isFavorite), top100Rank: top100Rank ?? null }),
+  )
 
   const [{ total }] = await library
     .select({ total: count() })
