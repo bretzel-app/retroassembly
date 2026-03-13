@@ -12,7 +12,9 @@ export function seedTop100() {
   const rows: (typeof top100RankTable.$inferInsert)[] = []
 
   for (const [platform, entries] of Object.entries(top100Data)) {
-    if (!entries) continue
+    if (!entries) {
+      continue
+    }
     for (const entry of entries) {
       rows.push({
         createdAt: now,
@@ -30,6 +32,4 @@ export function seedTop100() {
     const chunk = rows.slice(i, i + 50)
     db.insert(top100RankTable).values(chunk).run()
   }
-
-  console.log(`Seeded top100_ranks with ${rows.length} entries`)
 }
