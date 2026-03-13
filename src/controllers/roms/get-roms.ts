@@ -60,7 +60,7 @@ export async function getRoms({
 
   const top100JoinCondition = and(
     eq(top100RankTable.platform, romTable.platform),
-    eq(top100RankTable.normalizedName, normalizedGameName),
+    sql`${top100RankTable.normalizedName} = ${normalizedGameName}`,
   )
 
   const baseQuery = library
