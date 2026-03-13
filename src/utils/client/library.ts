@@ -73,16 +73,23 @@ export function getRomLibretroThumbnail(
   return getLibretroThumbnail({ host, name, platform, type })
 }
 
+const platformIconAliases: Record<string, string> = {
+  ps1: 'psx',
+}
+
 export function getPlatformIcon(platform: string) {
-  return getCDNUrl('arianrhodsandlot/retroassembly-assets', `platforms/icons/${platform}.png`)
+  const iconName = platformIconAliases[platform] || platform
+  return getCDNUrl('arianrhodsandlot/retroassembly-assets', `platforms/icons/${iconName}.png`)
 }
 
 export function getPlatformGameIcon(platform: string) {
-  return getCDNUrl('arianrhodsandlot/retroassembly-assets', `platforms/contents/${platform}.svg`)
+  const iconName = platformIconAliases[platform] || platform
+  return getCDNUrl('arianrhodsandlot/retroassembly-assets', `platforms/contents/${iconName}.svg`)
 }
 
 export function getPlatformBanner(platform: string) {
-  return getCDNUrl('arianrhodsandlot/retroassembly-assets', `platforms/logos/${platform}.svg`)
+  const iconName = platformIconAliases[platform] || platform
+  return getCDNUrl('arianrhodsandlot/retroassembly-assets', `platforms/logos/${iconName}.svg`)
 }
 
 export function getPlatformDevicePhoto(platform: string) {
