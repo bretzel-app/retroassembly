@@ -51,8 +51,12 @@ export async function getRoms({
   )
 
   // Normalize gameName to match top100 data format:
-  // lowercase, strip : - – — ' ! . , replace & with 'and', collapse spaces
-  const normalizedGameName = sql`TRIM(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(LOWER(${romTable.gameName}), ':', ' '), '-', ' '), '''', ''), '!', ''), '.', ''), '&', 'and'), '  ', ' '), '  ', ' '))`
+  // 1. Strip parenthetical tags like (USA), (Rev 1), etc.
+  // 2. Lowercase and strip punctuation: : - ' ! . & → space/and
+  // 3. Handle "Name, The" → "The Name" format
+  const strippedParens = sql`CASE WHEN INSTR(${romTable.gameName}, '(') > 0 THEN TRIM(SUBSTR(${romTable.gameName}, 1, INSTR(${romTable.gameName}, '(') - 1)) ELSE ${romTable.gameName} END`
+  const cleaned = sql`TRIM(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(LOWER(${strippedParens}), ':', ' '), '-', ' '), '''', ''), '!', ''), '.', ''), '&', 'and'), '  ', ' '), '  ', ' '))`
+  const normalizedGameName = sql`CASE WHEN ${cleaned} LIKE '%, the %' THEN 'the ' || TRIM(SUBSTR(${cleaned}, 1, INSTR(${cleaned}, ', the ') - 1)) || ' ' || TRIM(SUBSTR(${cleaned}, INSTR(${cleaned}, ', the ') + 6)) WHEN ${cleaned} LIKE '%, the' THEN 'the ' || TRIM(SUBSTR(${cleaned}, 1, INSTR(${cleaned}, ', the') - 1)) ELSE ${cleaned} END`
 
   const top100JoinCondition = and(
     eq(top100RankTable.platform, romTable.platform),
