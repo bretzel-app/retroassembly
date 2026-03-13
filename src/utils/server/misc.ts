@@ -37,7 +37,7 @@ export function getRomsQuery() {
     /* eslint-disable promise/prefer-await-to-then */
     direction: z.enum(['asc', 'desc']).catch('asc').parse(direction),
     favorite: favorite === '1',
-    orderBy: z.enum(['added', 'name', 'released', 'top100']).catch('name').parse(orderBy),
+    orderBy: z.enum(['added', 'name', 'released', 'top100']).catch('top100').parse(orderBy),
     page: z.coerce.number().min(1).catch(1).parse(searchParams.get('page')),
     /* eslint-enable promise/prefer-await-to-then */
   }
