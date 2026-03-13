@@ -331,7 +331,7 @@ const basePlatformMap = {
     libretroName: 'NEC - PC Engine - TurboGrafx 16',
   },
   ps1: {
-    bioses: [{ md5: '924e392ed05558ffdb115408c263dccf', name: 'scph5501.bin', required: true }],
+    bioses: [{ md5: '490f666e1afb15b7362b406ed1cea246', name: 'scph5501.bin', required: true }],
     cores: ['pcsx_rearmed'],
     displayName: 'PlayStation',
     fileExtensions: ['.bin', '.cue', '.img', '.mdf', '.pbp', '.toc', '.cbn', '.m3u', '.ccd', '.chd', '.zip'],
