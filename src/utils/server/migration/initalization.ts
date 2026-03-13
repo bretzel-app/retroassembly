@@ -4,6 +4,7 @@ import { getRuntimeKey } from 'hono/adapter'
 import isDocker from 'is-docker'
 import { getDirectories } from '../../../constants/env.ts'
 import { createDrizzle } from '../drizzle.ts'
+import { seedTop100 } from './seed-top100.ts'
 
 async function testDataDirectory() {
   const { dataDirectory } = getDirectories()
@@ -40,6 +41,7 @@ async function main() {
 
   await testDataDirectory()
   migrateDatabase()
+  seedTop100()
 }
 
 await main()
