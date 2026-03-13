@@ -5,603 +5,147 @@
       "originalName": "The Legend of Zelda: Link's Awakening",
       "rank": 1
     },
-    {
-      "name": "pokemon red",
-      "originalName": "Pokemon Red",
-      "rank": 2
-    },
-    {
-      "name": "pokemon blue",
-      "originalName": "Pokemon Blue",
-      "rank": 3
-    },
-    {
-      "name": "tetris",
-      "originalName": "Tetris",
-      "rank": 4
-    },
-    {
-      "name": "super mario land 2 6 golden coins",
-      "originalName": "Super Mario Land 2: 6 Golden Coins",
-      "rank": 5
-    },
-    {
-      "name": "metroid ii return of samus",
-      "originalName": "Metroid II: Return of Samus",
-      "rank": 6
-    },
-    {
-      "name": "kirbys dream land 2",
-      "originalName": "Kirby's Dream Land 2",
-      "rank": 7
-    },
-    {
-      "name": "wario land super mario land 3",
-      "originalName": "Wario Land: Super Mario Land 3",
-      "rank": 8
-    },
-    {
-      "name": "donkey kong",
-      "originalName": "Donkey Kong",
-      "rank": 9
-    },
-    {
-      "name": "pokemon yellow",
-      "originalName": "Pokemon Yellow",
-      "rank": 10
-    },
-    {
-      "name": "kirbys dream land",
-      "originalName": "Kirby's Dream Land",
-      "rank": 11
-    },
-    {
-      "name": "super mario land",
-      "originalName": "Super Mario Land",
-      "rank": 12
-    },
-    {
-      "name": "mega man v",
-      "originalName": "Mega Man V",
-      "rank": 13
-    },
-    {
-      "name": "gargoyles quest",
-      "originalName": "Gargoyle's Quest",
-      "rank": 14
-    },
-    {
-      "name": "final fantasy legend iii",
-      "originalName": "Final Fantasy Legend III",
-      "rank": 15
-    },
-    {
-      "name": "final fantasy adventure",
-      "originalName": "Final Fantasy Adventure",
-      "rank": 16
-    },
-    {
-      "name": "mega man iv",
-      "originalName": "Mega Man IV",
-      "rank": 17
-    },
-    {
-      "name": "kid icarus of myths and monsters",
-      "originalName": "Kid Icarus: Of Myths and Monsters",
-      "rank": 18
-    },
-    {
-      "name": "donkey kong land 2",
-      "originalName": "Donkey Kong Land 2",
-      "rank": 19
-    },
-    {
-      "name": "final fantasy legend ii",
-      "originalName": "Final Fantasy Legend II",
-      "rank": 20
-    },
-    {
-      "name": "mega man iii",
-      "originalName": "Mega Man III",
-      "rank": 21
-    },
+    { "name": "pokemon red", "originalName": "Pokemon Red", "rank": 2 },
+    { "name": "pokemon blue", "originalName": "Pokemon Blue", "rank": 3 },
+    { "name": "tetris", "originalName": "Tetris", "rank": 4 },
+    { "name": "super mario land 2 6 golden coins", "originalName": "Super Mario Land 2: 6 Golden Coins", "rank": 5 },
+    { "name": "metroid ii return of samus", "originalName": "Metroid II: Return of Samus", "rank": 6 },
+    { "name": "kirbys dream land 2", "originalName": "Kirby's Dream Land 2", "rank": 7 },
+    { "name": "wario land super mario land 3", "originalName": "Wario Land: Super Mario Land 3", "rank": 8 },
+    { "name": "donkey kong", "originalName": "Donkey Kong", "rank": 9 },
+    { "name": "pokemon yellow", "originalName": "Pokemon Yellow", "rank": 10 },
+    { "name": "kirbys dream land", "originalName": "Kirby's Dream Land", "rank": 11 },
+    { "name": "super mario land", "originalName": "Super Mario Land", "rank": 12 },
+    { "name": "mega man v", "originalName": "Mega Man V", "rank": 13 },
+    { "name": "gargoyles quest", "originalName": "Gargoyle's Quest", "rank": 14 },
+    { "name": "final fantasy legend iii", "originalName": "Final Fantasy Legend III", "rank": 15 },
+    { "name": "final fantasy adventure", "originalName": "Final Fantasy Adventure", "rank": 16 },
+    { "name": "mega man iv", "originalName": "Mega Man IV", "rank": 17 },
+    { "name": "kid icarus of myths and monsters", "originalName": "Kid Icarus: Of Myths and Monsters", "rank": 18 },
+    { "name": "donkey kong land 2", "originalName": "Donkey Kong Land 2", "rank": 19 },
+    { "name": "final fantasy legend ii", "originalName": "Final Fantasy Legend II", "rank": 20 },
+    { "name": "mega man iii", "originalName": "Mega Man III", "rank": 21 },
     {
       "name": "the legend of zelda links awakening dx",
       "originalName": "The Legend of Zelda: Link's Awakening DX",
       "rank": 22
     },
-    {
-      "name": "batman the video game",
-      "originalName": "Batman: The Video Game",
-      "rank": 23
-    },
-    {
-      "name": "castlevania the adventure",
-      "originalName": "Castlevania: The Adventure",
-      "rank": 24
-    },
-    {
-      "name": "donkey kong land",
-      "originalName": "Donkey Kong Land",
-      "rank": 25
-    },
-    {
-      "name": "kirbys pinball land",
-      "originalName": "Kirby's Pinball Land",
-      "rank": 26
-    },
-    {
-      "name": "mega man ii",
-      "originalName": "Mega Man II",
-      "rank": 27
-    },
-    {
-      "name": "pokemon pinball",
-      "originalName": "Pokemon Pinball",
-      "rank": 28
-    },
-    {
-      "name": "wario land ii",
-      "originalName": "Wario Land II",
-      "rank": 29
-    },
-    {
-      "name": "mole mania",
-      "originalName": "Mole Mania",
-      "rank": 30
-    },
-    {
-      "name": "trip world",
-      "originalName": "Trip World",
-      "rank": 31
-    },
-    {
-      "name": "r type",
-      "originalName": "R-Type",
-      "rank": 32
-    },
-    {
-      "name": "operation c",
-      "originalName": "Operation C",
-      "rank": 33
-    },
-    {
-      "name": "bionic commando elite forces",
-      "originalName": "Bionic Commando: Elite Forces",
-      "rank": 34
-    },
-    {
-      "name": "castlevania ii belmonts revenge",
-      "originalName": "Castlevania II: Belmont's Revenge",
-      "rank": 35
-    },
-    {
-      "name": "harvest moon gb",
-      "originalName": "Harvest Moon GB",
-      "rank": 36
-    },
-    {
-      "name": "dragon warrior monsters",
-      "originalName": "Dragon Warrior Monsters",
-      "rank": 37
-    },
-    {
-      "name": "marios picross",
-      "originalName": "Mario's Picross",
-      "rank": 38
-    },
-    {
-      "name": "tetris 2",
-      "originalName": "Tetris 2",
-      "rank": 39
-    },
-    {
-      "name": "contra the alien wars",
-      "originalName": "Contra: The Alien Wars",
-      "rank": 40
-    },
-    {
-      "name": "bubble bobble",
-      "originalName": "Bubble Bobble",
-      "rank": 41
-    },
-    {
-      "name": "game and watch gallery 2",
-      "originalName": "Game & Watch Gallery 2",
-      "rank": 42
-    },
-    {
-      "name": "game and watch gallery 3",
-      "originalName": "Game & Watch Gallery 3",
-      "rank": 43
-    },
-    {
-      "name": "donkey kong land iii",
-      "originalName": "Donkey Kong Land III",
-      "rank": 44
-    },
+    { "name": "batman the video game", "originalName": "Batman: The Video Game", "rank": 23 },
+    { "name": "castlevania the adventure", "originalName": "Castlevania: The Adventure", "rank": 24 },
+    { "name": "donkey kong land", "originalName": "Donkey Kong Land", "rank": 25 },
+    { "name": "kirbys pinball land", "originalName": "Kirby's Pinball Land", "rank": 26 },
+    { "name": "mega man ii", "originalName": "Mega Man II", "rank": 27 },
+    { "name": "pokemon pinball", "originalName": "Pokemon Pinball", "rank": 28 },
+    { "name": "wario land ii", "originalName": "Wario Land II", "rank": 29 },
+    { "name": "mole mania", "originalName": "Mole Mania", "rank": 30 },
+    { "name": "trip world", "originalName": "Trip World", "rank": 31 },
+    { "name": "r type", "originalName": "R-Type", "rank": 32 },
+    { "name": "operation c", "originalName": "Operation C", "rank": 33 },
+    { "name": "bionic commando elite forces", "originalName": "Bionic Commando: Elite Forces", "rank": 34 },
+    { "name": "castlevania ii belmonts revenge", "originalName": "Castlevania II: Belmont's Revenge", "rank": 35 },
+    { "name": "harvest moon gb", "originalName": "Harvest Moon GB", "rank": 36 },
+    { "name": "dragon warrior monsters", "originalName": "Dragon Warrior Monsters", "rank": 37 },
+    { "name": "marios picross", "originalName": "Mario's Picross", "rank": 38 },
+    { "name": "tetris 2", "originalName": "Tetris 2", "rank": 39 },
+    { "name": "contra the alien wars", "originalName": "Contra: The Alien Wars", "rank": 40 },
+    { "name": "bubble bobble", "originalName": "Bubble Bobble", "rank": 41 },
+    { "name": "game and watch gallery 2", "originalName": "Game & Watch Gallery 2", "rank": 42 },
+    { "name": "game and watch gallery 3", "originalName": "Game & Watch Gallery 3", "rank": 43 },
+    { "name": "donkey kong land iii", "originalName": "Donkey Kong Land III", "rank": 44 },
     {
       "name": "teenage mutant ninja turtles fall of the foot clan",
       "originalName": "Teenage Mutant Ninja Turtles: Fall of the Foot Clan",
       "rank": 45
     },
-    {
-      "name": "dragon warrior i and ii",
-      "originalName": "Dragon Warrior I & II",
-      "rank": 46
-    },
-    {
-      "name": "bomberman gb",
-      "originalName": "Bomberman GB",
-      "rank": 47
-    },
-    {
-      "name": "kid dracula",
-      "originalName": "Kid Dracula",
-      "rank": 48
-    },
-    {
-      "name": "kwirk",
-      "originalName": "Kwirk",
-      "rank": 49
-    },
-    {
-      "name": "nemesis",
-      "originalName": "Nemesis",
-      "rank": 50
-    },
-    {
-      "name": "final fantasy legend",
-      "originalName": "Final Fantasy Legend",
-      "rank": 51
-    },
-    {
-      "name": "mega man dr wilys revenge",
-      "originalName": "Mega Man: Dr. Wily's Revenge",
-      "rank": 52
-    },
-    {
-      "name": "qix",
-      "originalName": "Qix",
-      "rank": 53
-    },
-    {
-      "name": "avenging spirit",
-      "originalName": "Avenging Spirit",
-      "rank": 54
-    },
-    {
-      "name": "for the frog the bell tolls",
-      "originalName": "For the Frog the Bell Tolls",
-      "rank": 55
-    },
-    {
-      "name": "survival kids",
-      "originalName": "Survival Kids",
-      "rank": 56
-    },
-    {
-      "name": "pokemon trading card game",
-      "originalName": "Pokemon Trading Card Game",
-      "rank": 57
-    },
-    {
-      "name": "game and watch gallery",
-      "originalName": "Game & Watch Gallery",
-      "rank": 58
-    },
-    {
-      "name": "tetris attack",
-      "originalName": "Tetris Attack",
-      "rank": 59
-    },
-    {
-      "name": "dr mario",
-      "originalName": "Dr. Mario",
-      "rank": 60
-    },
-    {
-      "name": "mystic quest",
-      "originalName": "Mystic Quest",
-      "rank": 61
-    },
-    {
-      "name": "saga 2 hihou densetsu",
-      "originalName": "SaGa 2: Hihou Densetsu",
-      "rank": 62
-    },
-    {
-      "name": "catrap",
-      "originalName": "Catrap",
-      "rank": 63
-    },
-    {
-      "name": "parodius da",
-      "originalName": "Parodius Da!",
-      "rank": 64
-    },
-    {
-      "name": "motocross maniacs",
-      "originalName": "Motocross Maniacs",
-      "rank": 65
-    },
-    {
-      "name": "battle arena toshinden",
-      "originalName": "Battle Arena Toshinden",
-      "rank": 66
-    },
-    {
-      "name": "wario blast featuring bomberman",
-      "originalName": "Wario Blast: Featuring Bomberman!",
-      "rank": 67
-    },
-    {
-      "name": "kirbys block ball",
-      "originalName": "Kirby's Block Ball",
-      "rank": 68
-    },
-    {
-      "name": "kirbys star stacker",
-      "originalName": "Kirby's Star Stacker",
-      "rank": 69
-    },
-    {
-      "name": "balloon kid",
-      "originalName": "Balloon Kid",
-      "rank": 70
-    },
-    {
-      "name": "ninja gaiden shadow",
-      "originalName": "Ninja Gaiden Shadow",
-      "rank": 71
-    },
-    {
-      "name": "double dragon",
-      "originalName": "Double Dragon",
-      "rank": 72
-    },
-    {
-      "name": "battletoads",
-      "originalName": "Battletoads",
-      "rank": 73
-    },
-    {
-      "name": "solar striker",
-      "originalName": "Solar Striker",
-      "rank": 74
-    },
-    {
-      "name": "alleyway",
-      "originalName": "Alleyway",
-      "rank": 75
-    },
-    {
-      "name": "pokemon puzzle challenge",
-      "originalName": "Pokemon Puzzle Challenge",
-      "rank": 76
-    },
-    {
-      "name": "mario tennis",
-      "originalName": "Mario Tennis",
-      "rank": 77
-    },
-    {
-      "name": "pocket bomberman",
-      "originalName": "Pocket Bomberman",
-      "rank": 78
-    },
-    {
-      "name": "adventure island",
-      "originalName": "Adventure Island",
-      "rank": 79
-    },
-    {
-      "name": "asteroids",
-      "originalName": "Asteroids",
-      "rank": 80
-    },
-    {
-      "name": "space invaders",
-      "originalName": "Space Invaders",
-      "rank": 81
-    },
-    {
-      "name": "gradius the interstellar assault",
-      "originalName": "Gradius: The Interstellar Assault",
-      "rank": 82
-    },
-    {
-      "name": "batman return of the joker",
-      "originalName": "Batman: Return of the Joker",
-      "rank": 83
-    },
-    {
-      "name": "blaster master boy",
-      "originalName": "Blaster Master Boy",
-      "rank": 84
-    },
-    {
-      "name": "tennis",
-      "originalName": "Tennis",
-      "rank": 85
-    },
-    {
-      "name": "golf",
-      "originalName": "Golf",
-      "rank": 86
-    },
-    {
-      "name": "pac man",
-      "originalName": "Pac-Man",
-      "rank": 87
-    },
-    {
-      "name": "track and field",
-      "originalName": "Track & Field",
-      "rank": 88
-    },
-    {
-      "name": "bo jackson two games in one",
-      "originalName": "Bo Jackson: Two Games in One",
-      "rank": 89
-    },
-    {
-      "name": "wave race",
-      "originalName": "Wave Race",
-      "rank": 90
-    },
-    {
-      "name": "mercenary force",
-      "originalName": "Mercenary Force",
-      "rank": 91
-    },
-    {
-      "name": "shantae",
-      "originalName": "Shantae",
-      "rank": 92
-    },
-    {
-      "name": "legend of the river king",
-      "originalName": "Legend of the River King",
-      "rank": 93
-    },
+    { "name": "dragon warrior i and ii", "originalName": "Dragon Warrior I & II", "rank": 46 },
+    { "name": "bomberman gb", "originalName": "Bomberman GB", "rank": 47 },
+    { "name": "kid dracula", "originalName": "Kid Dracula", "rank": 48 },
+    { "name": "kwirk", "originalName": "Kwirk", "rank": 49 },
+    { "name": "nemesis", "originalName": "Nemesis", "rank": 50 },
+    { "name": "final fantasy legend", "originalName": "Final Fantasy Legend", "rank": 51 },
+    { "name": "mega man dr wilys revenge", "originalName": "Mega Man: Dr. Wily's Revenge", "rank": 52 },
+    { "name": "qix", "originalName": "Qix", "rank": 53 },
+    { "name": "avenging spirit", "originalName": "Avenging Spirit", "rank": 54 },
+    { "name": "for the frog the bell tolls", "originalName": "For the Frog the Bell Tolls", "rank": 55 },
+    { "name": "survival kids", "originalName": "Survival Kids", "rank": 56 },
+    { "name": "pokemon trading card game", "originalName": "Pokemon Trading Card Game", "rank": 57 },
+    { "name": "game and watch gallery", "originalName": "Game & Watch Gallery", "rank": 58 },
+    { "name": "tetris attack", "originalName": "Tetris Attack", "rank": 59 },
+    { "name": "dr mario", "originalName": "Dr. Mario", "rank": 60 },
+    { "name": "mystic quest", "originalName": "Mystic Quest", "rank": 61 },
+    { "name": "saga 2 hihou densetsu", "originalName": "SaGa 2: Hihou Densetsu", "rank": 62 },
+    { "name": "catrap", "originalName": "Catrap", "rank": 63 },
+    { "name": "parodius da", "originalName": "Parodius Da!", "rank": 64 },
+    { "name": "motocross maniacs", "originalName": "Motocross Maniacs", "rank": 65 },
+    { "name": "battle arena toshinden", "originalName": "Battle Arena Toshinden", "rank": 66 },
+    { "name": "wario blast featuring bomberman", "originalName": "Wario Blast: Featuring Bomberman!", "rank": 67 },
+    { "name": "kirbys block ball", "originalName": "Kirby's Block Ball", "rank": 68 },
+    { "name": "kirbys star stacker", "originalName": "Kirby's Star Stacker", "rank": 69 },
+    { "name": "balloon kid", "originalName": "Balloon Kid", "rank": 70 },
+    { "name": "ninja gaiden shadow", "originalName": "Ninja Gaiden Shadow", "rank": 71 },
+    { "name": "double dragon", "originalName": "Double Dragon", "rank": 72 },
+    { "name": "battletoads", "originalName": "Battletoads", "rank": 73 },
+    { "name": "solar striker", "originalName": "Solar Striker", "rank": 74 },
+    { "name": "alleyway", "originalName": "Alleyway", "rank": 75 },
+    { "name": "pokemon puzzle challenge", "originalName": "Pokemon Puzzle Challenge", "rank": 76 },
+    { "name": "mario tennis", "originalName": "Mario Tennis", "rank": 77 },
+    { "name": "pocket bomberman", "originalName": "Pocket Bomberman", "rank": 78 },
+    { "name": "adventure island", "originalName": "Adventure Island", "rank": 79 },
+    { "name": "asteroids", "originalName": "Asteroids", "rank": 80 },
+    { "name": "space invaders", "originalName": "Space Invaders", "rank": 81 },
+    { "name": "gradius the interstellar assault", "originalName": "Gradius: The Interstellar Assault", "rank": 82 },
+    { "name": "batman return of the joker", "originalName": "Batman: Return of the Joker", "rank": 83 },
+    { "name": "blaster master boy", "originalName": "Blaster Master Boy", "rank": 84 },
+    { "name": "tennis", "originalName": "Tennis", "rank": 85 },
+    { "name": "golf", "originalName": "Golf", "rank": 86 },
+    { "name": "pac man", "originalName": "Pac-Man", "rank": 87 },
+    { "name": "track and field", "originalName": "Track & Field", "rank": 88 },
+    { "name": "bo jackson two games in one", "originalName": "Bo Jackson: Two Games in One", "rank": 89 },
+    { "name": "wave race", "originalName": "Wave Race", "rank": 90 },
+    { "name": "mercenary force", "originalName": "Mercenary Force", "rank": 91 },
+    { "name": "shantae", "originalName": "Shantae", "rank": 92 },
+    { "name": "legend of the river king", "originalName": "Legend of the River King", "rank": 93 },
     {
       "name": "hammerin harry ghost building company",
       "originalName": "Hammerin' Harry: Ghost Building Company",
       "rank": 94
     },
-    {
-      "name": "james bond 007",
-      "originalName": "James Bond 007",
-      "rank": 95
-    },
+    { "name": "james bond 007", "originalName": "James Bond 007", "rank": 95 },
     {
       "name": "alien vs predator the last of his clan",
       "originalName": "Alien vs Predator: The Last of His Clan",
       "rank": 96
     },
-    {
-      "name": "tail gator",
-      "originalName": "Tail 'Gator",
-      "rank": 97
-    },
-    {
-      "name": "revenge of the gator",
-      "originalName": "Revenge of the Gator",
-      "rank": 98
-    },
-    {
-      "name": "amazing penguin",
-      "originalName": "Amazing Penguin",
-      "rank": 99
-    },
-    {
-      "name": "stop that roach",
-      "originalName": "Stop That Roach!",
-      "rank": 100
-    }
+    { "name": "tail gator", "originalName": "Tail 'Gator", "rank": 97 },
+    { "name": "revenge of the gator", "originalName": "Revenge of the Gator", "rank": 98 },
+    { "name": "amazing penguin", "originalName": "Amazing Penguin", "rank": 99 },
+    { "name": "stop that roach", "originalName": "Stop That Roach!", "rank": 100 }
   ],
   "gba": [
-    {
-      "name": "the legend of zelda the minish cap",
-      "originalName": "The Legend of Zelda: The Minish Cap",
-      "rank": 1
-    },
-    {
-      "name": "metroid fusion",
-      "originalName": "Metroid Fusion",
-      "rank": 2
-    },
-    {
-      "name": "metroid zero mission",
-      "originalName": "Metroid: Zero Mission",
-      "rank": 3
-    },
-    {
-      "name": "pokemon emerald",
-      "originalName": "Pokemon Emerald",
-      "rank": 4
-    },
-    {
-      "name": "advance wars",
-      "originalName": "Advance Wars",
-      "rank": 5
-    },
-    {
-      "name": "advance wars 2 black hole rising",
-      "originalName": "Advance Wars 2: Black Hole Rising",
-      "rank": 6
-    },
-    {
-      "name": "final fantasy tactics advance",
-      "originalName": "Final Fantasy Tactics Advance",
-      "rank": 7
-    },
-    {
-      "name": "golden sun",
-      "originalName": "Golden Sun",
-      "rank": 8
-    },
-    {
-      "name": "golden sun the lost age",
-      "originalName": "Golden Sun: The Lost Age",
-      "rank": 9
-    },
-    {
-      "name": "fire emblem",
-      "originalName": "Fire Emblem",
-      "rank": 10
-    },
-    {
-      "name": "fire emblem the sacred stones",
-      "originalName": "Fire Emblem: The Sacred Stones",
-      "rank": 11
-    },
-    {
-      "name": "castlevania aria of sorrow",
-      "originalName": "Castlevania: Aria of Sorrow",
-      "rank": 12
-    },
-    {
-      "name": "castlevania circle of the moon",
-      "originalName": "Castlevania: Circle of the Moon",
-      "rank": 13
-    },
-    {
-      "name": "castlevania harmony of dissonance",
-      "originalName": "Castlevania: Harmony of Dissonance",
-      "rank": 14
-    },
-    {
-      "name": "mario kart super circuit",
-      "originalName": "Mario Kart: Super Circuit",
-      "rank": 15
-    },
+    { "name": "the legend of zelda the minish cap", "originalName": "The Legend of Zelda: The Minish Cap", "rank": 1 },
+    { "name": "metroid fusion", "originalName": "Metroid Fusion", "rank": 2 },
+    { "name": "metroid zero mission", "originalName": "Metroid: Zero Mission", "rank": 3 },
+    { "name": "pokemon emerald", "originalName": "Pokemon Emerald", "rank": 4 },
+    { "name": "advance wars", "originalName": "Advance Wars", "rank": 5 },
+    { "name": "advance wars 2 black hole rising", "originalName": "Advance Wars 2: Black Hole Rising", "rank": 6 },
+    { "name": "final fantasy tactics advance", "originalName": "Final Fantasy Tactics Advance", "rank": 7 },
+    { "name": "golden sun", "originalName": "Golden Sun", "rank": 8 },
+    { "name": "golden sun the lost age", "originalName": "Golden Sun: The Lost Age", "rank": 9 },
+    { "name": "fire emblem", "originalName": "Fire Emblem", "rank": 10 },
+    { "name": "fire emblem the sacred stones", "originalName": "Fire Emblem: The Sacred Stones", "rank": 11 },
+    { "name": "castlevania aria of sorrow", "originalName": "Castlevania: Aria of Sorrow", "rank": 12 },
+    { "name": "castlevania circle of the moon", "originalName": "Castlevania: Circle of the Moon", "rank": 13 },
+    { "name": "castlevania harmony of dissonance", "originalName": "Castlevania: Harmony of Dissonance", "rank": 14 },
+    { "name": "mario kart super circuit", "originalName": "Mario Kart: Super Circuit", "rank": 15 },
     {
       "name": "the legend of zelda a link to the past and four swords",
       "originalName": "The Legend of Zelda: A Link to the Past & Four Swords",
       "rank": 16
     },
-    {
-      "name": "pokemon firered",
-      "originalName": "Pokemon FireRed",
-      "rank": 17
-    },
-    {
-      "name": "pokemon leafgreen",
-      "originalName": "Pokemon LeafGreen",
-      "rank": 18
-    },
-    {
-      "name": "pokemon ruby",
-      "originalName": "Pokemon Ruby",
-      "rank": 19
-    },
-    {
-      "name": "pokemon sapphire",
-      "originalName": "Pokemon Sapphire",
-      "rank": 20
-    },
+    { "name": "pokemon firered", "originalName": "Pokemon FireRed", "rank": 17 },
+    { "name": "pokemon leafgreen", "originalName": "Pokemon LeafGreen", "rank": 18 },
+    { "name": "pokemon ruby", "originalName": "Pokemon Ruby", "rank": 19 },
+    { "name": "pokemon sapphire", "originalName": "Pokemon Sapphire", "rank": 20 },
     {
       "name": "super mario advance 4 super mario bros 3",
       "originalName": "Super Mario Advance 4: Super Mario Bros. 3",
@@ -617,126 +161,34 @@
       "originalName": "Super Mario Advance 3: Yoshi's Island",
       "rank": 23
     },
-    {
-      "name": "super mario advance",
-      "originalName": "Super Mario Advance",
-      "rank": 24
-    },
-    {
-      "name": "kirby and the amazing mirror",
-      "originalName": "Kirby & the Amazing Mirror",
-      "rank": 25
-    },
-    {
-      "name": "kirby nightmare in dream land",
-      "originalName": "Kirby: Nightmare in Dream Land",
-      "rank": 26
-    },
-    {
-      "name": "wario land 4",
-      "originalName": "Wario Land 4",
-      "rank": 27
-    },
-    {
-      "name": "warioware, inc mega microgames",
-      "originalName": "WarioWare, Inc.: Mega Microgames!",
-      "rank": 28
-    },
-    {
-      "name": "warioware twisted",
-      "originalName": "WarioWare: Twisted!",
-      "rank": 29
-    },
-    {
-      "name": "mario and luigi superstar saga",
-      "originalName": "Mario & Luigi: Superstar Saga",
-      "rank": 30
-    },
-    {
-      "name": "mega man zero",
-      "originalName": "Mega Man Zero",
-      "rank": 31
-    },
-    {
-      "name": "mega man zero 2",
-      "originalName": "Mega Man Zero 2",
-      "rank": 32
-    },
-    {
-      "name": "mega man zero 3",
-      "originalName": "Mega Man Zero 3",
-      "rank": 33
-    },
-    {
-      "name": "mega man zero 4",
-      "originalName": "Mega Man Zero 4",
-      "rank": 34
-    },
-    {
-      "name": "mega man battle network 3 blue",
-      "originalName": "Mega Man Battle Network 3: Blue",
-      "rank": 35
-    },
-    {
-      "name": "mega man battle network 2",
-      "originalName": "Mega Man Battle Network 2",
-      "rank": 36
-    },
+    { "name": "super mario advance", "originalName": "Super Mario Advance", "rank": 24 },
+    { "name": "kirby and the amazing mirror", "originalName": "Kirby & the Amazing Mirror", "rank": 25 },
+    { "name": "kirby nightmare in dream land", "originalName": "Kirby: Nightmare in Dream Land", "rank": 26 },
+    { "name": "wario land 4", "originalName": "Wario Land 4", "rank": 27 },
+    { "name": "warioware, inc mega microgames", "originalName": "WarioWare, Inc.: Mega Microgames!", "rank": 28 },
+    { "name": "warioware twisted", "originalName": "WarioWare: Twisted!", "rank": 29 },
+    { "name": "mario and luigi superstar saga", "originalName": "Mario & Luigi: Superstar Saga", "rank": 30 },
+    { "name": "mega man zero", "originalName": "Mega Man Zero", "rank": 31 },
+    { "name": "mega man zero 2", "originalName": "Mega Man Zero 2", "rank": 32 },
+    { "name": "mega man zero 3", "originalName": "Mega Man Zero 3", "rank": 33 },
+    { "name": "mega man zero 4", "originalName": "Mega Man Zero 4", "rank": 34 },
+    { "name": "mega man battle network 3 blue", "originalName": "Mega Man Battle Network 3: Blue", "rank": 35 },
+    { "name": "mega man battle network 2", "originalName": "Mega Man Battle Network 2", "rank": 36 },
     {
       "name": "mega man battle network 6 cybeast gregar",
       "originalName": "Mega Man Battle Network 6: Cybeast Gregar",
       "rank": 37
     },
-    {
-      "name": "astro boy omega factor",
-      "originalName": "Astro Boy: Omega Factor",
-      "rank": 38
-    },
-    {
-      "name": "sonic advance",
-      "originalName": "Sonic Advance",
-      "rank": 39
-    },
-    {
-      "name": "sonic advance 2",
-      "originalName": "Sonic Advance 2",
-      "rank": 40
-    },
-    {
-      "name": "sonic advance 3",
-      "originalName": "Sonic Advance 3",
-      "rank": 41
-    },
-    {
-      "name": "drill dozer",
-      "originalName": "Drill Dozer",
-      "rank": 42
-    },
-    {
-      "name": "mother 3",
-      "originalName": "Mother 3",
-      "rank": 43
-    },
-    {
-      "name": "tactics ogre the knight of lodis",
-      "originalName": "Tactics Ogre: The Knight of Lodis",
-      "rank": 44
-    },
-    {
-      "name": "final fantasy vi advance",
-      "originalName": "Final Fantasy VI Advance",
-      "rank": 45
-    },
-    {
-      "name": "final fantasy v advance",
-      "originalName": "Final Fantasy V Advance",
-      "rank": 46
-    },
-    {
-      "name": "final fantasy iv advance",
-      "originalName": "Final Fantasy IV Advance",
-      "rank": 47
-    },
+    { "name": "astro boy omega factor", "originalName": "Astro Boy: Omega Factor", "rank": 38 },
+    { "name": "sonic advance", "originalName": "Sonic Advance", "rank": 39 },
+    { "name": "sonic advance 2", "originalName": "Sonic Advance 2", "rank": 40 },
+    { "name": "sonic advance 3", "originalName": "Sonic Advance 3", "rank": 41 },
+    { "name": "drill dozer", "originalName": "Drill Dozer", "rank": 42 },
+    { "name": "mother 3", "originalName": "Mother 3", "rank": 43 },
+    { "name": "tactics ogre the knight of lodis", "originalName": "Tactics Ogre: The Knight of Lodis", "rank": 44 },
+    { "name": "final fantasy vi advance", "originalName": "Final Fantasy VI Advance", "rank": 45 },
+    { "name": "final fantasy v advance", "originalName": "Final Fantasy V Advance", "rank": 46 },
+    { "name": "final fantasy iv advance", "originalName": "Final Fantasy IV Advance", "rank": 47 },
     {
       "name": "final fantasy i and ii dawn of souls",
       "originalName": "Final Fantasy I & II: Dawn of Souls",
@@ -752,171 +204,43 @@
       "originalName": "Harvest Moon: More Friends of Mineral Town",
       "rank": 50
     },
-    {
-      "name": "mario vs donkey kong",
-      "originalName": "Mario vs. Donkey Kong",
-      "rank": 51
-    },
-    {
-      "name": "donkey kong country",
-      "originalName": "Donkey Kong Country",
-      "rank": 52
-    },
-    {
-      "name": "donkey kong country 2",
-      "originalName": "Donkey Kong Country 2",
-      "rank": 53
-    },
-    {
-      "name": "donkey kong country 3",
-      "originalName": "Donkey Kong Country 3",
-      "rank": 54
-    },
-    {
-      "name": "f zero maximum velocity",
-      "originalName": "F-Zero: Maximum Velocity",
-      "rank": 55
-    },
-    {
-      "name": "f zero gp legend",
-      "originalName": "F-Zero: GP Legend",
-      "rank": 56
-    },
-    {
-      "name": "gunstar super heroes",
-      "originalName": "Gunstar Super Heroes",
-      "rank": 57
-    },
-    {
-      "name": "mario tennis power tour",
-      "originalName": "Mario Tennis: Power Tour",
-      "rank": 58
-    },
-    {
-      "name": "mario golf advance tour",
-      "originalName": "Mario Golf: Advance Tour",
-      "rank": 59
-    },
-    {
-      "name": "riviera the promised land",
-      "originalName": "Riviera: The Promised Land",
-      "rank": 60
-    },
-    {
-      "name": "yggdra union",
-      "originalName": "Yggdra Union",
-      "rank": 61
-    },
-    {
-      "name": "summon night swordcraft story",
-      "originalName": "Summon Night: Swordcraft Story",
-      "rank": 62
-    },
-    {
-      "name": "summon night swordcraft story 2",
-      "originalName": "Summon Night: Swordcraft Story 2",
-      "rank": 63
-    },
-    {
-      "name": "boktai the sun is in your hand",
-      "originalName": "Boktai: The Sun Is in Your Hand",
-      "rank": 64
-    },
-    {
-      "name": "boktai 2 solar boy django",
-      "originalName": "Boktai 2: Solar Boy Django",
-      "rank": 65
-    },
-    {
-      "name": "ninja five o",
-      "originalName": "Ninja Five-O",
-      "rank": 66
-    },
-    {
-      "name": "sigma star saga",
-      "originalName": "Sigma Star Saga",
-      "rank": 67
-    },
-    {
-      "name": "kingdom hearts chain of memories",
-      "originalName": "Kingdom Hearts: Chain of Memories",
-      "rank": 68
-    },
-    {
-      "name": "lunar legend",
-      "originalName": "Lunar Legend",
-      "rank": 69
-    },
-    {
-      "name": "breath of fire",
-      "originalName": "Breath of Fire",
-      "rank": 70
-    },
-    {
-      "name": "breath of fire ii",
-      "originalName": "Breath of Fire II",
-      "rank": 71
-    },
-    {
-      "name": "sword of mana",
-      "originalName": "Sword of Mana",
-      "rank": 72
-    },
-    {
-      "name": "mega man battle network",
-      "originalName": "Mega Man Battle Network",
-      "rank": 73
-    },
-    {
-      "name": "mega man battle network 4 red sun",
-      "originalName": "Mega Man Battle Network 4: Red Sun",
-      "rank": 74
-    },
-    {
-      "name": "rhythm tengoku",
-      "originalName": "Rhythm Tengoku",
-      "rank": 75
-    },
-    {
-      "name": "kuru kuru kururin",
-      "originalName": "Kuru Kuru Kururin",
-      "rank": 76
-    },
-    {
-      "name": "lady sia",
-      "originalName": "Lady Sia",
-      "rank": 77
-    },
-    {
-      "name": "iridion ii",
-      "originalName": "Iridion II",
-      "rank": 78
-    },
-    {
-      "name": "car battler joe",
-      "originalName": "Car Battler Joe",
-      "rank": 79
-    },
-    {
-      "name": "klonoa empire of dreams",
-      "originalName": "Klonoa: Empire of Dreams",
-      "rank": 80
-    },
-    {
-      "name": "klonoa 2 dream champ tournament",
-      "originalName": "Klonoa 2: Dream Champ Tournament",
-      "rank": 81
-    },
+    { "name": "mario vs donkey kong", "originalName": "Mario vs. Donkey Kong", "rank": 51 },
+    { "name": "donkey kong country", "originalName": "Donkey Kong Country", "rank": 52 },
+    { "name": "donkey kong country 2", "originalName": "Donkey Kong Country 2", "rank": 53 },
+    { "name": "donkey kong country 3", "originalName": "Donkey Kong Country 3", "rank": 54 },
+    { "name": "f zero maximum velocity", "originalName": "F-Zero: Maximum Velocity", "rank": 55 },
+    { "name": "f zero gp legend", "originalName": "F-Zero: GP Legend", "rank": 56 },
+    { "name": "gunstar super heroes", "originalName": "Gunstar Super Heroes", "rank": 57 },
+    { "name": "mario tennis power tour", "originalName": "Mario Tennis: Power Tour", "rank": 58 },
+    { "name": "mario golf advance tour", "originalName": "Mario Golf: Advance Tour", "rank": 59 },
+    { "name": "riviera the promised land", "originalName": "Riviera: The Promised Land", "rank": 60 },
+    { "name": "yggdra union", "originalName": "Yggdra Union", "rank": 61 },
+    { "name": "summon night swordcraft story", "originalName": "Summon Night: Swordcraft Story", "rank": 62 },
+    { "name": "summon night swordcraft story 2", "originalName": "Summon Night: Swordcraft Story 2", "rank": 63 },
+    { "name": "boktai the sun is in your hand", "originalName": "Boktai: The Sun Is in Your Hand", "rank": 64 },
+    { "name": "boktai 2 solar boy django", "originalName": "Boktai 2: Solar Boy Django", "rank": 65 },
+    { "name": "ninja five o", "originalName": "Ninja Five-O", "rank": 66 },
+    { "name": "sigma star saga", "originalName": "Sigma Star Saga", "rank": 67 },
+    { "name": "kingdom hearts chain of memories", "originalName": "Kingdom Hearts: Chain of Memories", "rank": 68 },
+    { "name": "lunar legend", "originalName": "Lunar Legend", "rank": 69 },
+    { "name": "breath of fire", "originalName": "Breath of Fire", "rank": 70 },
+    { "name": "breath of fire ii", "originalName": "Breath of Fire II", "rank": 71 },
+    { "name": "sword of mana", "originalName": "Sword of Mana", "rank": 72 },
+    { "name": "mega man battle network", "originalName": "Mega Man Battle Network", "rank": 73 },
+    { "name": "mega man battle network 4 red sun", "originalName": "Mega Man Battle Network 4: Red Sun", "rank": 74 },
+    { "name": "rhythm tengoku", "originalName": "Rhythm Tengoku", "rank": 75 },
+    { "name": "kuru kuru kururin", "originalName": "Kuru Kuru Kururin", "rank": 76 },
+    { "name": "lady sia", "originalName": "Lady Sia", "rank": 77 },
+    { "name": "iridion ii", "originalName": "Iridion II", "rank": 78 },
+    { "name": "car battler joe", "originalName": "Car Battler Joe", "rank": 79 },
+    { "name": "klonoa empire of dreams", "originalName": "Klonoa: Empire of Dreams", "rank": 80 },
+    { "name": "klonoa 2 dream champ tournament", "originalName": "Klonoa 2: Dream Champ Tournament", "rank": 81 },
     {
       "name": "zone of the enders the fist of mars",
       "originalName": "Zone of the Enders: The Fist of Mars",
       "rank": 82
     },
-    {
-      "name": "shining soul ii",
-      "originalName": "Shining Soul II",
-      "rank": 83
-    },
+    { "name": "shining soul ii", "originalName": "Shining Soul II", "rank": 83 },
     {
       "name": "shining force resurrection of the dark dragon",
       "originalName": "Shining Force: Resurrection of the Dark Dragon",
@@ -927,81 +251,25 @@
       "originalName": "Dragon Ball Z: The Legacy of Goku II",
       "rank": 85
     },
-    {
-      "name": "medabots metabee",
-      "originalName": "Medabots: Metabee",
-      "rank": 86
-    },
-    {
-      "name": "mega man and bass",
-      "originalName": "Mega Man & Bass",
-      "rank": 87
-    },
-    {
-      "name": "metal slug advance",
-      "originalName": "Metal Slug Advance",
-      "rank": 88
-    },
-    {
-      "name": "street fighter alpha 3 upper",
-      "originalName": "Street Fighter Alpha 3 Upper",
-      "rank": 89
-    },
+    { "name": "medabots metabee", "originalName": "Medabots: Metabee", "rank": 86 },
+    { "name": "mega man and bass", "originalName": "Mega Man & Bass", "rank": 87 },
+    { "name": "metal slug advance", "originalName": "Metal Slug Advance", "rank": 88 },
+    { "name": "street fighter alpha 3 upper", "originalName": "Street Fighter Alpha 3 Upper", "rank": 89 },
     {
       "name": "super street fighter ii turbo revival",
       "originalName": "Super Street Fighter II Turbo Revival",
       "rank": 90
     },
-    {
-      "name": "tekken advance",
-      "originalName": "Tekken Advance",
-      "rank": 91
-    },
-    {
-      "name": "tony hawks pro skater 2",
-      "originalName": "Tony Hawk's Pro Skater 2",
-      "rank": 92
-    },
-    {
-      "name": "v rally 3",
-      "originalName": "V-Rally 3",
-      "rank": 93
-    },
-    {
-      "name": "max payne",
-      "originalName": "Max Payne",
-      "rank": 94
-    },
-    {
-      "name": "racing gears advance",
-      "originalName": "Racing Gears Advance",
-      "rank": 95
-    },
-    {
-      "name": "pocky and rocky with becky",
-      "originalName": "Pocky & Rocky with Becky",
-      "rank": 96
-    },
-    {
-      "name": "chu chu rocket",
-      "originalName": "Chu Chu Rocket",
-      "rank": 97
-    },
-    {
-      "name": "puyo pop fever",
-      "originalName": "Puyo Pop Fever",
-      "rank": 98
-    },
-    {
-      "name": "rebelstar tactical command",
-      "originalName": "Rebelstar: Tactical Command",
-      "rank": 99
-    },
-    {
-      "name": "phantasy star collection",
-      "originalName": "Phantasy Star Collection",
-      "rank": 100
-    }
+    { "name": "tekken advance", "originalName": "Tekken Advance", "rank": 91 },
+    { "name": "tony hawks pro skater 2", "originalName": "Tony Hawk's Pro Skater 2", "rank": 92 },
+    { "name": "v rally 3", "originalName": "V-Rally 3", "rank": 93 },
+    { "name": "max payne", "originalName": "Max Payne", "rank": 94 },
+    { "name": "racing gears advance", "originalName": "Racing Gears Advance", "rank": 95 },
+    { "name": "pocky and rocky with becky", "originalName": "Pocky & Rocky with Becky", "rank": 96 },
+    { "name": "chu chu rocket", "originalName": "Chu Chu Rocket", "rank": 97 },
+    { "name": "puyo pop fever", "originalName": "Puyo Pop Fever", "rank": 98 },
+    { "name": "rebelstar tactical command", "originalName": "Rebelstar: Tactical Command", "rank": 99 },
+    { "name": "phantasy star collection", "originalName": "Phantasy Star Collection", "rank": 100 }
   ],
   "gbc": [
     {
@@ -1009,61 +277,21 @@
       "originalName": "The Legend of Zelda: Oracle of Seasons",
       "rank": 1
     },
-    {
-      "name": "the legend of zelda oracle of ages",
-      "originalName": "The Legend of Zelda: Oracle of Ages",
-      "rank": 2
-    },
-    {
-      "name": "pokemon crystal",
-      "originalName": "Pokemon Crystal",
-      "rank": 3
-    },
-    {
-      "name": "pokemon gold",
-      "originalName": "Pokemon Gold",
-      "rank": 4
-    },
-    {
-      "name": "pokemon silver",
-      "originalName": "Pokemon Silver",
-      "rank": 5
-    },
-    {
-      "name": "dragon warrior iii",
-      "originalName": "Dragon Warrior III",
-      "rank": 6
-    },
-    {
-      "name": "wario land 3",
-      "originalName": "Wario Land 3",
-      "rank": 7
-    },
-    {
-      "name": "metal gear solid",
-      "originalName": "Metal Gear Solid",
-      "rank": 8
-    },
-    {
-      "name": "shantae",
-      "originalName": "Shantae",
-      "rank": 9
-    },
+    { "name": "the legend of zelda oracle of ages", "originalName": "The Legend of Zelda: Oracle of Ages", "rank": 2 },
+    { "name": "pokemon crystal", "originalName": "Pokemon Crystal", "rank": 3 },
+    { "name": "pokemon gold", "originalName": "Pokemon Gold", "rank": 4 },
+    { "name": "pokemon silver", "originalName": "Pokemon Silver", "rank": 5 },
+    { "name": "dragon warrior iii", "originalName": "Dragon Warrior III", "rank": 6 },
+    { "name": "wario land 3", "originalName": "Wario Land 3", "rank": 7 },
+    { "name": "metal gear solid", "originalName": "Metal Gear Solid", "rank": 8 },
+    { "name": "shantae", "originalName": "Shantae", "rank": 9 },
     {
       "name": "the legend of zelda links awakening dx",
       "originalName": "The Legend of Zelda: Link's Awakening DX",
       "rank": 10
     },
-    {
-      "name": "mario tennis",
-      "originalName": "Mario Tennis",
-      "rank": 11
-    },
-    {
-      "name": "mario golf",
-      "originalName": "Mario Golf",
-      "rank": 12
-    },
+    { "name": "mario tennis", "originalName": "Mario Tennis", "rank": 11 },
+    { "name": "mario golf", "originalName": "Mario Golf", "rank": 12 },
     {
       "name": "dragon warrior monsters 2 cobis journey",
       "originalName": "Dragon Warrior Monsters 2: Cobi's Journey",
@@ -1074,381 +302,89 @@
       "originalName": "Dragon Warrior Monsters 2: Tara's Adventure",
       "rank": 14
     },
-    {
-      "name": "dragon warrior monsters",
-      "originalName": "Dragon Warrior Monsters",
-      "rank": 15
-    },
-    {
-      "name": "harvest moon gbc",
-      "originalName": "Harvest Moon GBC",
-      "rank": 16
-    },
-    {
-      "name": "pokemon puzzle challenge",
-      "originalName": "Pokemon Puzzle Challenge",
-      "rank": 17
-    },
-    {
-      "name": "pokemon trading card game",
-      "originalName": "Pokemon Trading Card Game",
-      "rank": 18
-    },
-    {
-      "name": "pokemon pinball",
-      "originalName": "Pokemon Pinball",
-      "rank": 19
-    },
-    {
-      "name": "wario land ii",
-      "originalName": "Wario Land II",
-      "rank": 20
-    },
-    {
-      "name": "mega man xtreme 2",
-      "originalName": "Mega Man Xtreme 2",
-      "rank": 21
-    },
-    {
-      "name": "mega man xtreme",
-      "originalName": "Mega Man Xtreme",
-      "rank": 22
-    },
-    {
-      "name": "super mario bros deluxe",
-      "originalName": "Super Mario Bros. Deluxe",
-      "rank": 23
-    },
-    {
-      "name": "r type dx",
-      "originalName": "R-Type DX",
-      "rank": 24
-    },
-    {
-      "name": "bionic commando elite forces",
-      "originalName": "Bionic Commando: Elite Forces",
-      "rank": 25
-    },
-    {
-      "name": "survival kids",
-      "originalName": "Survival Kids",
-      "rank": 26
-    },
-    {
-      "name": "azure dreams",
-      "originalName": "Azure Dreams",
-      "rank": 27
-    },
-    {
-      "name": "resident evil gaiden",
-      "originalName": "Resident Evil Gaiden",
-      "rank": 28
-    },
-    {
-      "name": "crystalis",
-      "originalName": "Crystalis",
-      "rank": 29
-    },
-    {
-      "name": "perfect dark",
-      "originalName": "Perfect Dark",
-      "rank": 30
-    },
-    {
-      "name": "lufia the legend returns",
-      "originalName": "Lufia: The Legend Returns",
-      "rank": 31
-    },
+    { "name": "dragon warrior monsters", "originalName": "Dragon Warrior Monsters", "rank": 15 },
+    { "name": "harvest moon gbc", "originalName": "Harvest Moon GBC", "rank": 16 },
+    { "name": "pokemon puzzle challenge", "originalName": "Pokemon Puzzle Challenge", "rank": 17 },
+    { "name": "pokemon trading card game", "originalName": "Pokemon Trading Card Game", "rank": 18 },
+    { "name": "pokemon pinball", "originalName": "Pokemon Pinball", "rank": 19 },
+    { "name": "wario land ii", "originalName": "Wario Land II", "rank": 20 },
+    { "name": "mega man xtreme 2", "originalName": "Mega Man Xtreme 2", "rank": 21 },
+    { "name": "mega man xtreme", "originalName": "Mega Man Xtreme", "rank": 22 },
+    { "name": "super mario bros deluxe", "originalName": "Super Mario Bros. Deluxe", "rank": 23 },
+    { "name": "r type dx", "originalName": "R-Type DX", "rank": 24 },
+    { "name": "bionic commando elite forces", "originalName": "Bionic Commando: Elite Forces", "rank": 25 },
+    { "name": "survival kids", "originalName": "Survival Kids", "rank": 26 },
+    { "name": "azure dreams", "originalName": "Azure Dreams", "rank": 27 },
+    { "name": "resident evil gaiden", "originalName": "Resident Evil Gaiden", "rank": 28 },
+    { "name": "crystalis", "originalName": "Crystalis", "rank": 29 },
+    { "name": "perfect dark", "originalName": "Perfect Dark", "rank": 30 },
+    { "name": "lufia the legend returns", "originalName": "Lufia: The Legend Returns", "rank": 31 },
     {
       "name": "alone in the dark the new nightmare",
       "originalName": "Alone in the Dark: The New Nightmare",
       "rank": 32
     },
-    {
-      "name": "tomb raider",
-      "originalName": "Tomb Raider",
-      "rank": 33
-    },
-    {
-      "name": "tomb raider curse of the sword",
-      "originalName": "Tomb Raider: Curse of the Sword",
-      "rank": 34
-    },
-    {
-      "name": "legend of the river king 2",
-      "originalName": "Legend of the River King 2",
-      "rank": 35
-    },
-    {
-      "name": "dragon warrior i and ii",
-      "originalName": "Dragon Warrior I & II",
-      "rank": 36
-    },
-    {
-      "name": "magi nation",
-      "originalName": "Magi Nation",
-      "rank": 37
-    },
-    {
-      "name": "game and watch gallery 2",
-      "originalName": "Game & Watch Gallery 2",
-      "rank": 38
-    },
-    {
-      "name": "game and watch gallery 3",
-      "originalName": "Game & Watch Gallery 3",
-      "rank": 39
-    },
-    {
-      "name": "tetris dx",
-      "originalName": "Tetris DX",
-      "rank": 40
-    },
-    {
-      "name": "revelations the demon slayer",
-      "originalName": "Revelations: The Demon Slayer",
-      "rank": 41
-    },
-    {
-      "name": "robopon sun version",
-      "originalName": "Robopon Sun Version",
-      "rank": 42
-    },
-    {
-      "name": "star ocean blue sphere",
-      "originalName": "Star Ocean: Blue Sphere",
-      "rank": 43
-    },
-    {
-      "name": "cannon fodder",
-      "originalName": "Cannon Fodder",
-      "rank": 44
-    },
-    {
-      "name": "project s 11",
-      "originalName": "Project S-11",
-      "rank": 45
-    },
-    {
-      "name": "wendy every witch way",
-      "originalName": "Wendy: Every Witch Way",
-      "rank": 46
-    },
-    {
-      "name": "ghosts n goblins",
-      "originalName": "Ghosts 'n Goblins",
-      "rank": 47
-    },
-    {
-      "name": "bomberman max blue champion",
-      "originalName": "Bomberman Max: Blue Champion",
-      "rank": 48
-    },
-    {
-      "name": "bomberman quest",
-      "originalName": "Bomberman Quest",
-      "rank": 49
-    },
-    {
-      "name": "kirby tilt n tumble",
-      "originalName": "Kirby Tilt 'n' Tumble",
-      "rank": 50
-    },
-    {
-      "name": "power quest",
-      "originalName": "Power Quest",
-      "rank": 51
-    },
-    {
-      "name": "shadowgate classic",
-      "originalName": "Shadowgate Classic",
-      "rank": 52
-    },
-    {
-      "name": "xtreme sports",
-      "originalName": "Xtreme Sports",
-      "rank": 53
-    },
-    {
-      "name": "top gear pocket 2",
-      "originalName": "Top Gear Pocket 2",
-      "rank": 54
-    },
-    {
-      "name": "blaster master enemy below",
-      "originalName": "Blaster Master: Enemy Below",
-      "rank": 55
-    },
-    {
-      "name": "metal walker",
-      "originalName": "Metal Walker",
-      "rank": 56
-    },
-    {
-      "name": "dinosaurus",
-      "originalName": "Dinosaur'us",
-      "rank": 57
-    },
-    {
-      "name": "magical chase gb",
-      "originalName": "Magical Chase GB",
-      "rank": 58
-    },
-    {
-      "name": "trip world dx",
-      "originalName": "Trip World DX",
-      "rank": 59
-    },
-    {
-      "name": "konami gb collection vol 1",
-      "originalName": "Konami GB Collection Vol. 1",
-      "rank": 60
-    },
-    {
-      "name": "konami gb collection vol 2",
-      "originalName": "Konami GB Collection Vol. 2",
-      "rank": 61
-    },
-    {
-      "name": "konami gb collection vol 3",
-      "originalName": "Konami GB Collection Vol. 3",
-      "rank": 62
-    },
-    {
-      "name": "konami gb collection vol 4",
-      "originalName": "Konami GB Collection Vol. 4",
-      "rank": 63
-    },
-    {
-      "name": "spy vs spy",
-      "originalName": "Spy vs Spy",
-      "rank": 64
-    },
-    {
-      "name": "space marauder",
-      "originalName": "Space Marauder",
-      "rank": 65
-    },
-    {
-      "name": "commander keen",
-      "originalName": "Commander Keen",
-      "rank": 66
-    },
-    {
-      "name": "harvest moon gbc 2",
-      "originalName": "Harvest Moon GBC 2",
-      "rank": 67
-    },
-    {
-      "name": "heroes of might and magic",
-      "originalName": "Heroes of Might and Magic",
-      "rank": 68
-    },
-    {
-      "name": "heroes of might and magic ii",
-      "originalName": "Heroes of Might and Magic II",
-      "rank": 69
-    },
-    {
-      "name": "daikatana",
-      "originalName": "Daikatana",
-      "rank": 70
-    },
-    {
-      "name": "tomb raider iii",
-      "originalName": "Tomb Raider III",
-      "rank": 71
-    },
-    {
-      "name": "missile command",
-      "originalName": "Missile Command",
-      "rank": 72
-    },
-    {
-      "name": "street fighter alpha",
-      "originalName": "Street Fighter Alpha",
-      "rank": 73
-    },
-    {
-      "name": "croc",
-      "originalName": "Croc",
-      "rank": 74
-    },
-    {
-      "name": "croc 2",
-      "originalName": "Croc 2",
-      "rank": 75
-    },
-    {
-      "name": "rayman",
-      "originalName": "Rayman",
-      "rank": 76
-    },
-    {
-      "name": "rayman 2",
-      "originalName": "Rayman 2",
-      "rank": 77
-    },
-    {
-      "name": "frogger 2",
-      "originalName": "Frogger 2",
-      "rank": 78
-    },
-    {
-      "name": "looney tunes",
-      "originalName": "Looney Tunes",
-      "rank": 79
-    },
-    {
-      "name": "test drive 6",
-      "originalName": "Test Drive 6",
-      "rank": 80
-    },
-    {
-      "name": "donkey kong country",
-      "originalName": "Donkey Kong Country",
-      "rank": 81
-    },
-    {
-      "name": "the fish files",
-      "originalName": "The Fish Files",
-      "rank": 82
-    },
-    {
-      "name": "catwoman",
-      "originalName": "Catwoman",
-      "rank": 83
-    },
+    { "name": "tomb raider", "originalName": "Tomb Raider", "rank": 33 },
+    { "name": "tomb raider curse of the sword", "originalName": "Tomb Raider: Curse of the Sword", "rank": 34 },
+    { "name": "legend of the river king 2", "originalName": "Legend of the River King 2", "rank": 35 },
+    { "name": "dragon warrior i and ii", "originalName": "Dragon Warrior I & II", "rank": 36 },
+    { "name": "magi nation", "originalName": "Magi Nation", "rank": 37 },
+    { "name": "game and watch gallery 2", "originalName": "Game & Watch Gallery 2", "rank": 38 },
+    { "name": "game and watch gallery 3", "originalName": "Game & Watch Gallery 3", "rank": 39 },
+    { "name": "tetris dx", "originalName": "Tetris DX", "rank": 40 },
+    { "name": "revelations the demon slayer", "originalName": "Revelations: The Demon Slayer", "rank": 41 },
+    { "name": "robopon sun version", "originalName": "Robopon Sun Version", "rank": 42 },
+    { "name": "star ocean blue sphere", "originalName": "Star Ocean: Blue Sphere", "rank": 43 },
+    { "name": "cannon fodder", "originalName": "Cannon Fodder", "rank": 44 },
+    { "name": "project s 11", "originalName": "Project S-11", "rank": 45 },
+    { "name": "wendy every witch way", "originalName": "Wendy: Every Witch Way", "rank": 46 },
+    { "name": "ghosts n goblins", "originalName": "Ghosts 'n Goblins", "rank": 47 },
+    { "name": "bomberman max blue champion", "originalName": "Bomberman Max: Blue Champion", "rank": 48 },
+    { "name": "bomberman quest", "originalName": "Bomberman Quest", "rank": 49 },
+    { "name": "kirby tilt n tumble", "originalName": "Kirby Tilt 'n' Tumble", "rank": 50 },
+    { "name": "power quest", "originalName": "Power Quest", "rank": 51 },
+    { "name": "shadowgate classic", "originalName": "Shadowgate Classic", "rank": 52 },
+    { "name": "xtreme sports", "originalName": "Xtreme Sports", "rank": 53 },
+    { "name": "top gear pocket 2", "originalName": "Top Gear Pocket 2", "rank": 54 },
+    { "name": "blaster master enemy below", "originalName": "Blaster Master: Enemy Below", "rank": 55 },
+    { "name": "metal walker", "originalName": "Metal Walker", "rank": 56 },
+    { "name": "dinosaurus", "originalName": "Dinosaur'us", "rank": 57 },
+    { "name": "magical chase gb", "originalName": "Magical Chase GB", "rank": 58 },
+    { "name": "trip world dx", "originalName": "Trip World DX", "rank": 59 },
+    { "name": "konami gb collection vol 1", "originalName": "Konami GB Collection Vol. 1", "rank": 60 },
+    { "name": "konami gb collection vol 2", "originalName": "Konami GB Collection Vol. 2", "rank": 61 },
+    { "name": "konami gb collection vol 3", "originalName": "Konami GB Collection Vol. 3", "rank": 62 },
+    { "name": "konami gb collection vol 4", "originalName": "Konami GB Collection Vol. 4", "rank": 63 },
+    { "name": "spy vs spy", "originalName": "Spy vs Spy", "rank": 64 },
+    { "name": "space marauder", "originalName": "Space Marauder", "rank": 65 },
+    { "name": "commander keen", "originalName": "Commander Keen", "rank": 66 },
+    { "name": "harvest moon gbc 2", "originalName": "Harvest Moon GBC 2", "rank": 67 },
+    { "name": "heroes of might and magic", "originalName": "Heroes of Might and Magic", "rank": 68 },
+    { "name": "heroes of might and magic ii", "originalName": "Heroes of Might and Magic II", "rank": 69 },
+    { "name": "daikatana", "originalName": "Daikatana", "rank": 70 },
+    { "name": "tomb raider iii", "originalName": "Tomb Raider III", "rank": 71 },
+    { "name": "missile command", "originalName": "Missile Command", "rank": 72 },
+    { "name": "street fighter alpha", "originalName": "Street Fighter Alpha", "rank": 73 },
+    { "name": "croc", "originalName": "Croc", "rank": 74 },
+    { "name": "croc 2", "originalName": "Croc 2", "rank": 75 },
+    { "name": "rayman", "originalName": "Rayman", "rank": 76 },
+    { "name": "rayman 2", "originalName": "Rayman 2", "rank": 77 },
+    { "name": "frogger 2", "originalName": "Frogger 2", "rank": 78 },
+    { "name": "looney tunes", "originalName": "Looney Tunes", "rank": 79 },
+    { "name": "test drive 6", "originalName": "Test Drive 6", "rank": 80 },
+    { "name": "donkey kong country", "originalName": "Donkey Kong Country", "rank": 81 },
+    { "name": "the fish files", "originalName": "The Fish Files", "rank": 82 },
+    { "name": "catwoman", "originalName": "Catwoman", "rank": 83 },
     {
       "name": "dragon ball z legendary super warriors",
       "originalName": "Dragon Ball Z: Legendary Super Warriors",
       "rank": 84
     },
-    {
-      "name": "quest for camelot",
-      "originalName": "Quest for Camelot",
-      "rank": 85
-    },
-    {
-      "name": "hamtaro ham hams unite",
-      "originalName": "Hamtaro: Ham-Hams Unite!",
-      "rank": 86
-    },
-    {
-      "name": "nascar challenge",
-      "originalName": "NASCAR Challenge",
-      "rank": 87
-    },
-    {
-      "name": "animorphs",
-      "originalName": "Animorphs",
-      "rank": 88
-    },
-    {
-      "name": "yu gi oh dark duel stories",
-      "originalName": "Yu-Gi-Oh! Dark Duel Stories",
-      "rank": 89
-    },
+    { "name": "quest for camelot", "originalName": "Quest for Camelot", "rank": 85 },
+    { "name": "hamtaro ham hams unite", "originalName": "Hamtaro: Ham-Hams Unite!", "rank": 86 },
+    { "name": "nascar challenge", "originalName": "NASCAR Challenge", "rank": 87 },
+    { "name": "animorphs", "originalName": "Animorphs", "rank": 88 },
+    { "name": "yu gi oh dark duel stories", "originalName": "Yu-Gi-Oh! Dark Duel Stories", "rank": 89 },
     {
       "name": "harry potter and the sorcerers stone",
       "originalName": "Harry Potter and the Sorcerer's Stone",
@@ -1459,193 +395,57 @@
       "originalName": "Harry Potter and the Chamber of Secrets",
       "rank": 91
     },
-    {
-      "name": "déjà vu i and ii",
-      "originalName": "Déjà Vu I & II",
-      "rank": 92
-    },
-    {
-      "name": "montezumas return",
-      "originalName": "Montezuma's Return",
-      "rank": 93
-    },
-    {
-      "name": "lemmings",
-      "originalName": "Lemmings",
-      "rank": 94
-    },
-    {
-      "name": "the new addams family",
-      "originalName": "The New Addams Family",
-      "rank": 95
-    },
-    {
-      "name": "vigilante 8",
-      "originalName": "Vigilante 8",
-      "rank": 96
-    },
-    {
-      "name": "dave mirra freestyle bmx",
-      "originalName": "Dave Mirra Freestyle BMX",
-      "rank": 97
-    },
-    {
-      "name": "gift",
-      "originalName": "Gift",
-      "rank": 98
-    },
-    {
-      "name": "monkey puncher",
-      "originalName": "Monkey Puncher",
-      "rank": 99
-    },
-    {
-      "name": "snoopy tennis",
-      "originalName": "Snoopy Tennis",
-      "rank": 100
-    }
+    { "name": "déjà vu i and ii", "originalName": "Déjà Vu I & II", "rank": 92 },
+    { "name": "montezumas return", "originalName": "Montezuma's Return", "rank": 93 },
+    { "name": "lemmings", "originalName": "Lemmings", "rank": 94 },
+    { "name": "the new addams family", "originalName": "The New Addams Family", "rank": 95 },
+    { "name": "vigilante 8", "originalName": "Vigilante 8", "rank": 96 },
+    { "name": "dave mirra freestyle bmx", "originalName": "Dave Mirra Freestyle BMX", "rank": 97 },
+    { "name": "gift", "originalName": "Gift", "rank": 98 },
+    { "name": "monkey puncher", "originalName": "Monkey Puncher", "rank": 99 },
+    { "name": "snoopy tennis", "originalName": "Snoopy Tennis", "rank": 100 }
   ],
   "genesis": [
-    {
-      "name": "sonic the hedgehog 2",
-      "originalName": "Sonic the Hedgehog 2",
-      "rank": 1
-    },
-    {
-      "name": "sonic the hedgehog 3 and knuckles",
-      "originalName": "Sonic the Hedgehog 3 & Knuckles",
-      "rank": 2
-    },
-    {
-      "name": "streets of rage 2",
-      "originalName": "Streets of Rage 2",
-      "rank": 3
-    },
-    {
-      "name": "gunstar heroes",
-      "originalName": "Gunstar Heroes",
-      "rank": 4
-    },
+    { "name": "sonic the hedgehog 2", "originalName": "Sonic the Hedgehog 2", "rank": 1 },
+    { "name": "sonic the hedgehog 3 and knuckles", "originalName": "Sonic the Hedgehog 3 & Knuckles", "rank": 2 },
+    { "name": "streets of rage 2", "originalName": "Streets of Rage 2", "rank": 3 },
+    { "name": "gunstar heroes", "originalName": "Gunstar Heroes", "rank": 4 },
     {
       "name": "phantasy star iv the end of the millennium",
       "originalName": "Phantasy Star IV: The End of the Millennium",
       "rank": 5
     },
-    {
-      "name": "shining force ii",
-      "originalName": "Shining Force II",
-      "rank": 6
-    },
-    {
-      "name": "sonic the hedgehog",
-      "originalName": "Sonic the Hedgehog",
-      "rank": 7
-    },
+    { "name": "shining force ii", "originalName": "Shining Force II", "rank": 6 },
+    { "name": "sonic the hedgehog", "originalName": "Sonic the Hedgehog", "rank": 7 },
     {
       "name": "street fighter ii special champion edition",
       "originalName": "Street Fighter II: Special Champion Edition",
       "rank": 8
     },
-    {
-      "name": "castlevania bloodlines",
-      "originalName": "Castlevania: Bloodlines",
-      "rank": 9
-    },
+    { "name": "castlevania bloodlines", "originalName": "Castlevania: Bloodlines", "rank": 9 },
     {
       "name": "shinobi iii return of the ninja master",
       "originalName": "Shinobi III: Return of the Ninja Master",
       "rank": 10
     },
-    {
-      "name": "thunder force iv",
-      "originalName": "Thunder Force IV",
-      "rank": 11
-    },
-    {
-      "name": "contra hard corps",
-      "originalName": "Contra: Hard Corps",
-      "rank": 12
-    },
-    {
-      "name": "comix zone",
-      "originalName": "Comix Zone",
-      "rank": 13
-    },
-    {
-      "name": "rocket knight adventures",
-      "originalName": "Rocket Knight Adventures",
-      "rank": 14
-    },
-    {
-      "name": "landstalker",
-      "originalName": "Landstalker",
-      "rank": 15
-    },
-    {
-      "name": "beyond oasis",
-      "originalName": "Beyond Oasis",
-      "rank": 16
-    },
-    {
-      "name": "phantasy star ii",
-      "originalName": "Phantasy Star II",
-      "rank": 17
-    },
-    {
-      "name": "shining force",
-      "originalName": "Shining Force",
-      "rank": 18
-    },
-    {
-      "name": "toejam and earl",
-      "originalName": "ToeJam & Earl",
-      "rank": 19
-    },
-    {
-      "name": "streets of rage",
-      "originalName": "Streets of Rage",
-      "rank": 20
-    },
-    {
-      "name": "streets of rage 3",
-      "originalName": "Streets of Rage 3",
-      "rank": 21
-    },
-    {
-      "name": "ecco the dolphin",
-      "originalName": "Ecco the Dolphin",
-      "rank": 22
-    },
-    {
-      "name": "ecco the tides of time",
-      "originalName": "Ecco: The Tides of Time",
-      "rank": 23
-    },
-    {
-      "name": "golden axe",
-      "originalName": "Golden Axe",
-      "rank": 24
-    },
-    {
-      "name": "vectorman",
-      "originalName": "Vectorman",
-      "rank": 25
-    },
-    {
-      "name": "vectorman 2",
-      "originalName": "Vectorman 2",
-      "rank": 26
-    },
-    {
-      "name": "aladdin",
-      "originalName": "Aladdin",
-      "rank": 27
-    },
-    {
-      "name": "the lion king",
-      "originalName": "The Lion King",
-      "rank": 28
-    },
+    { "name": "thunder force iv", "originalName": "Thunder Force IV", "rank": 11 },
+    { "name": "contra hard corps", "originalName": "Contra: Hard Corps", "rank": 12 },
+    { "name": "comix zone", "originalName": "Comix Zone", "rank": 13 },
+    { "name": "rocket knight adventures", "originalName": "Rocket Knight Adventures", "rank": 14 },
+    { "name": "landstalker", "originalName": "Landstalker", "rank": 15 },
+    { "name": "beyond oasis", "originalName": "Beyond Oasis", "rank": 16 },
+    { "name": "phantasy star ii", "originalName": "Phantasy Star II", "rank": 17 },
+    { "name": "shining force", "originalName": "Shining Force", "rank": 18 },
+    { "name": "toejam and earl", "originalName": "ToeJam & Earl", "rank": 19 },
+    { "name": "streets of rage", "originalName": "Streets of Rage", "rank": 20 },
+    { "name": "streets of rage 3", "originalName": "Streets of Rage 3", "rank": 21 },
+    { "name": "ecco the dolphin", "originalName": "Ecco the Dolphin", "rank": 22 },
+    { "name": "ecco the tides of time", "originalName": "Ecco: The Tides of Time", "rank": 23 },
+    { "name": "golden axe", "originalName": "Golden Axe", "rank": 24 },
+    { "name": "vectorman", "originalName": "Vectorman", "rank": 25 },
+    { "name": "vectorman 2", "originalName": "Vectorman 2", "rank": 26 },
+    { "name": "aladdin", "originalName": "Aladdin", "rank": 27 },
+    { "name": "the lion king", "originalName": "The Lion King", "rank": 28 },
     {
       "name": "world of illusion starring mickey mouse and donald duck",
       "originalName": "World of Illusion Starring Mickey Mouse and Donald Duck",
@@ -1656,498 +456,134 @@
       "originalName": "Castle of Illusion Starring Mickey Mouse",
       "rank": 30
     },
-    {
-      "name": "quackshot starring donald duck",
-      "originalName": "Quackshot Starring Donald Duck",
-      "rank": 31
-    },
-    {
-      "name": "earthworm jim",
-      "originalName": "Earthworm Jim",
-      "rank": 32
-    },
-    {
-      "name": "earthworm jim 2",
-      "originalName": "Earthworm Jim 2",
-      "rank": 33
-    },
-    {
-      "name": "ristar",
-      "originalName": "Ristar",
-      "rank": 34
-    },
-    {
-      "name": "dynamite headdy",
-      "originalName": "Dynamite Headdy",
-      "rank": 35
-    },
+    { "name": "quackshot starring donald duck", "originalName": "Quackshot Starring Donald Duck", "rank": 31 },
+    { "name": "earthworm jim", "originalName": "Earthworm Jim", "rank": 32 },
+    { "name": "earthworm jim 2", "originalName": "Earthworm Jim 2", "rank": 33 },
+    { "name": "ristar", "originalName": "Ristar", "rank": 34 },
+    { "name": "dynamite headdy", "originalName": "Dynamite Headdy", "rank": 35 },
     {
       "name": "treasures mcdonalds treasure land adventure",
       "originalName": "Treasure's McDonald's Treasure Land Adventure",
       "rank": 36
     },
-    {
-      "name": "mega turrican",
-      "originalName": "Mega Turrican",
-      "rank": 37
-    },
-    {
-      "name": "alien soldier",
-      "originalName": "Alien Soldier",
-      "rank": 38
-    },
-    {
-      "name": "ranger x",
-      "originalName": "Ranger-X",
-      "rank": 39
-    },
-    {
-      "name": "pulseman",
-      "originalName": "Pulseman",
-      "rank": 40
-    },
-    {
-      "name": "panorama cotton",
-      "originalName": "Panorama Cotton",
-      "rank": 41
-    },
-    {
-      "name": "musha",
-      "originalName": "Musha",
-      "rank": 42
-    },
-    {
-      "name": "thunder force iii",
-      "originalName": "Thunder Force III",
-      "rank": 43
-    },
-    {
-      "name": "gley lancer",
-      "originalName": "Gley Lancer",
-      "rank": 44
-    },
-    {
-      "name": "eliminate down",
-      "originalName": "Eliminate Down",
-      "rank": 45
-    },
+    { "name": "mega turrican", "originalName": "Mega Turrican", "rank": 37 },
+    { "name": "alien soldier", "originalName": "Alien Soldier", "rank": 38 },
+    { "name": "ranger x", "originalName": "Ranger-X", "rank": 39 },
+    { "name": "pulseman", "originalName": "Pulseman", "rank": 40 },
+    { "name": "panorama cotton", "originalName": "Panorama Cotton", "rank": 41 },
+    { "name": "musha", "originalName": "Musha", "rank": 42 },
+    { "name": "thunder force iii", "originalName": "Thunder Force III", "rank": 43 },
+    { "name": "gley lancer", "originalName": "Gley Lancer", "rank": 44 },
+    { "name": "eliminate down", "originalName": "Eliminate Down", "rank": 45 },
     {
       "name": "lightening force quest for the darkstar",
       "originalName": "Lightening Force: Quest for the Darkstar",
       "rank": 46
     },
-    {
-      "name": "herzog zwei",
-      "originalName": "Herzog Zwei",
-      "rank": 47
-    },
-    {
-      "name": "dune ii the battle for arrakis",
-      "originalName": "Dune II: The Battle for Arrakis",
-      "rank": 48
-    },
-    {
-      "name": "general chaos",
-      "originalName": "General Chaos",
-      "rank": 49
-    },
-    {
-      "name": "nhl 94",
-      "originalName": "NHL '94",
-      "rank": 50
-    },
-    {
-      "name": "madden nfl 94",
-      "originalName": "Madden NFL '94",
-      "rank": 51
-    },
-    {
-      "name": "nba jam",
-      "originalName": "NBA Jam",
-      "rank": 52
-    },
-    {
-      "name": "nba jam tournament edition",
-      "originalName": "NBA Jam: Tournament Edition",
-      "rank": 53
-    },
-    {
-      "name": "sensible soccer",
-      "originalName": "Sensible Soccer",
-      "rank": 54
-    },
-    {
-      "name": "super hang on",
-      "originalName": "Super Hang-On",
-      "rank": 55
-    },
-    {
-      "name": "road rash ii",
-      "originalName": "Road Rash II",
-      "rank": 56
-    },
-    {
-      "name": "road rash 3",
-      "originalName": "Road Rash 3",
-      "rank": 57
-    },
-    {
-      "name": "outrun",
-      "originalName": "OutRun",
-      "rank": 58
-    },
-    {
-      "name": "micro machines 2 turbo tournament",
-      "originalName": "Micro Machines 2: Turbo Tournament",
-      "rank": 59
-    },
-    {
-      "name": "sonic spinball",
-      "originalName": "Sonic Spinball",
-      "rank": 60
-    },
-    {
-      "name": "dr robotniks mean bean machine",
-      "originalName": "Dr. Robotnik's Mean Bean Machine",
-      "rank": 61
-    },
-    {
-      "name": "columns",
-      "originalName": "Columns",
-      "rank": 62
-    },
-    {
-      "name": "puyo puyo",
-      "originalName": "Puyo Puyo",
-      "rank": 63
-    },
-    {
-      "name": "puyo puyo tsu",
-      "originalName": "Puyo Puyo Tsu",
-      "rank": 64
-    },
-    {
-      "name": "tetris",
-      "originalName": "Tetris",
-      "rank": 65
-    },
+    { "name": "herzog zwei", "originalName": "Herzog Zwei", "rank": 47 },
+    { "name": "dune ii the battle for arrakis", "originalName": "Dune II: The Battle for Arrakis", "rank": 48 },
+    { "name": "general chaos", "originalName": "General Chaos", "rank": 49 },
+    { "name": "nhl 94", "originalName": "NHL '94", "rank": 50 },
+    { "name": "madden nfl 94", "originalName": "Madden NFL '94", "rank": 51 },
+    { "name": "nba jam", "originalName": "NBA Jam", "rank": 52 },
+    { "name": "nba jam tournament edition", "originalName": "NBA Jam: Tournament Edition", "rank": 53 },
+    { "name": "sensible soccer", "originalName": "Sensible Soccer", "rank": 54 },
+    { "name": "super hang on", "originalName": "Super Hang-On", "rank": 55 },
+    { "name": "road rash ii", "originalName": "Road Rash II", "rank": 56 },
+    { "name": "road rash 3", "originalName": "Road Rash 3", "rank": 57 },
+    { "name": "outrun", "originalName": "OutRun", "rank": 58 },
+    { "name": "micro machines 2 turbo tournament", "originalName": "Micro Machines 2: Turbo Tournament", "rank": 59 },
+    { "name": "sonic spinball", "originalName": "Sonic Spinball", "rank": 60 },
+    { "name": "dr robotniks mean bean machine", "originalName": "Dr. Robotnik's Mean Bean Machine", "rank": 61 },
+    { "name": "columns", "originalName": "Columns", "rank": 62 },
+    { "name": "puyo puyo", "originalName": "Puyo Puyo", "rank": 63 },
+    { "name": "puyo puyo tsu", "originalName": "Puyo Puyo Tsu", "rank": 64 },
+    { "name": "tetris", "originalName": "Tetris", "rank": 65 },
     {
       "name": "toejam and earl in panic on funkotron",
       "originalName": "Toejam & Earl in Panic on Funkotron",
       "rank": 66
     },
-    {
-      "name": "bare knuckle iii",
-      "originalName": "Bare Knuckle III",
-      "rank": 67
-    },
-    {
-      "name": "golden axe ii",
-      "originalName": "Golden Axe II",
-      "rank": 68
-    },
-    {
-      "name": "altered beast",
-      "originalName": "Altered Beast",
-      "rank": 69
-    },
-    {
-      "name": "kid chameleon",
-      "originalName": "Kid Chameleon",
-      "rank": 70
-    },
-    {
-      "name": "gain ground",
-      "originalName": "Gain Ground",
-      "rank": 71
-    },
-    {
-      "name": "decap attack",
-      "originalName": "Decap Attack",
-      "rank": 72
-    },
-    {
-      "name": "splatterhouse 2",
-      "originalName": "Splatterhouse 2",
-      "rank": 73
-    },
-    {
-      "name": "splatterhouse 3",
-      "originalName": "Splatterhouse 3",
-      "rank": 74
-    },
-    {
-      "name": "zombies ate my neighbors",
-      "originalName": "Zombies Ate My Neighbors",
-      "rank": 75
-    },
-    {
-      "name": "shadowrun",
-      "originalName": "Shadowrun",
-      "rank": 76
-    },
-    {
-      "name": "light crusader",
-      "originalName": "Light Crusader",
-      "rank": 77
-    },
-    {
-      "name": "crusader of centy",
-      "originalName": "Crusader of Centy",
-      "rank": 78
-    },
-    {
-      "name": "story of thor 2",
-      "originalName": "Story of Thor 2",
-      "rank": 79
-    },
-    {
-      "name": "shining in the darkness",
-      "originalName": "Shining in the Darkness",
-      "rank": 80
-    },
-    {
-      "name": "phantasy star iii",
-      "originalName": "Phantasy Star III",
-      "rank": 81
-    },
-    {
-      "name": "sword of vermilion",
-      "originalName": "Sword of Vermilion",
-      "rank": 82
-    },
-    {
-      "name": "warsong",
-      "originalName": "Warsong",
-      "rank": 83
-    },
-    {
-      "name": "langrisser ii",
-      "originalName": "Langrisser II",
-      "rank": 84
-    },
-    {
-      "name": "fire shark",
-      "originalName": "Fire Shark",
-      "rank": 85
-    },
-    {
-      "name": "battle mania daiginjou",
-      "originalName": "Battle Mania Daiginjou",
-      "rank": 86
-    },
-    {
-      "name": "monster world iv",
-      "originalName": "Monster World IV",
-      "rank": 87
-    },
-    {
-      "name": "wonder boy in monster world",
-      "originalName": "Wonder Boy in Monster World",
-      "rank": 88
-    },
-    {
-      "name": "the revenge of shinobi",
-      "originalName": "The Revenge of Shinobi",
-      "rank": 89
-    },
+    { "name": "bare knuckle iii", "originalName": "Bare Knuckle III", "rank": 67 },
+    { "name": "golden axe ii", "originalName": "Golden Axe II", "rank": 68 },
+    { "name": "altered beast", "originalName": "Altered Beast", "rank": 69 },
+    { "name": "kid chameleon", "originalName": "Kid Chameleon", "rank": 70 },
+    { "name": "gain ground", "originalName": "Gain Ground", "rank": 71 },
+    { "name": "decap attack", "originalName": "Decap Attack", "rank": 72 },
+    { "name": "splatterhouse 2", "originalName": "Splatterhouse 2", "rank": 73 },
+    { "name": "splatterhouse 3", "originalName": "Splatterhouse 3", "rank": 74 },
+    { "name": "zombies ate my neighbors", "originalName": "Zombies Ate My Neighbors", "rank": 75 },
+    { "name": "shadowrun", "originalName": "Shadowrun", "rank": 76 },
+    { "name": "light crusader", "originalName": "Light Crusader", "rank": 77 },
+    { "name": "crusader of centy", "originalName": "Crusader of Centy", "rank": 78 },
+    { "name": "story of thor 2", "originalName": "Story of Thor 2", "rank": 79 },
+    { "name": "shining in the darkness", "originalName": "Shining in the Darkness", "rank": 80 },
+    { "name": "phantasy star iii", "originalName": "Phantasy Star III", "rank": 81 },
+    { "name": "sword of vermilion", "originalName": "Sword of Vermilion", "rank": 82 },
+    { "name": "warsong", "originalName": "Warsong", "rank": 83 },
+    { "name": "langrisser ii", "originalName": "Langrisser II", "rank": 84 },
+    { "name": "fire shark", "originalName": "Fire Shark", "rank": 85 },
+    { "name": "battle mania daiginjou", "originalName": "Battle Mania Daiginjou", "rank": 86 },
+    { "name": "monster world iv", "originalName": "Monster World IV", "rank": 87 },
+    { "name": "wonder boy in monster world", "originalName": "Wonder Boy in Monster World", "rank": 88 },
+    { "name": "the revenge of shinobi", "originalName": "The Revenge of Shinobi", "rank": 89 },
     {
       "name": "shadow dancer the secret of shinobi",
       "originalName": "Shadow Dancer: The Secret of Shinobi",
       "rank": 90
     },
-    {
-      "name": "strider",
-      "originalName": "Strider",
-      "rank": 91
-    },
-    {
-      "name": "sonic 3d blast",
-      "originalName": "Sonic 3D Blast",
-      "rank": 92
-    },
-    {
-      "name": "sparkster",
-      "originalName": "Sparkster",
-      "rank": 93
-    },
-    {
-      "name": "bonanza bros",
-      "originalName": "Bonanza Bros.",
-      "rank": 94
-    },
-    {
-      "name": "ghostbusters",
-      "originalName": "Ghostbusters",
-      "rank": 95
-    },
-    {
-      "name": "michael jacksons moonwalker",
-      "originalName": "Michael Jackson's Moonwalker",
-      "rank": 96
-    },
-    {
-      "name": "mega man the wily wars",
-      "originalName": "Mega Man: The Wily Wars",
-      "rank": 97
-    },
-    {
-      "name": "sonic and knuckles",
-      "originalName": "Sonic & Knuckles",
-      "rank": 98
-    },
-    {
-      "name": "virtua racing",
-      "originalName": "Virtua Racing",
-      "rank": 99
-    },
-    {
-      "name": "yu yu hakusho makyou toitsusen",
-      "originalName": "Yu Yu Hakusho: Makyou Toitsusen",
-      "rank": 100
-    }
+    { "name": "strider", "originalName": "Strider", "rank": 91 },
+    { "name": "sonic 3d blast", "originalName": "Sonic 3D Blast", "rank": 92 },
+    { "name": "sparkster", "originalName": "Sparkster", "rank": 93 },
+    { "name": "bonanza bros", "originalName": "Bonanza Bros.", "rank": 94 },
+    { "name": "ghostbusters", "originalName": "Ghostbusters", "rank": 95 },
+    { "name": "michael jacksons moonwalker", "originalName": "Michael Jackson's Moonwalker", "rank": 96 },
+    { "name": "mega man the wily wars", "originalName": "Mega Man: The Wily Wars", "rank": 97 },
+    { "name": "sonic and knuckles", "originalName": "Sonic & Knuckles", "rank": 98 },
+    { "name": "virtua racing", "originalName": "Virtua Racing", "rank": 99 },
+    { "name": "yu yu hakusho makyou toitsusen", "originalName": "Yu Yu Hakusho: Makyou Toitsusen", "rank": 100 }
   ],
   "megadrive": [
-    {
-      "name": "sonic the hedgehog 2",
-      "originalName": "Sonic the Hedgehog 2",
-      "rank": 1
-    },
-    {
-      "name": "sonic the hedgehog 3 and knuckles",
-      "originalName": "Sonic the Hedgehog 3 & Knuckles",
-      "rank": 2
-    },
-    {
-      "name": "streets of rage 2",
-      "originalName": "Streets of Rage 2",
-      "rank": 3
-    },
-    {
-      "name": "gunstar heroes",
-      "originalName": "Gunstar Heroes",
-      "rank": 4
-    },
+    { "name": "sonic the hedgehog 2", "originalName": "Sonic the Hedgehog 2", "rank": 1 },
+    { "name": "sonic the hedgehog 3 and knuckles", "originalName": "Sonic the Hedgehog 3 & Knuckles", "rank": 2 },
+    { "name": "streets of rage 2", "originalName": "Streets of Rage 2", "rank": 3 },
+    { "name": "gunstar heroes", "originalName": "Gunstar Heroes", "rank": 4 },
     {
       "name": "phantasy star iv the end of the millennium",
       "originalName": "Phantasy Star IV: The End of the Millennium",
       "rank": 5
     },
-    {
-      "name": "shining force ii",
-      "originalName": "Shining Force II",
-      "rank": 6
-    },
-    {
-      "name": "sonic the hedgehog",
-      "originalName": "Sonic the Hedgehog",
-      "rank": 7
-    },
+    { "name": "shining force ii", "originalName": "Shining Force II", "rank": 6 },
+    { "name": "sonic the hedgehog", "originalName": "Sonic the Hedgehog", "rank": 7 },
     {
       "name": "street fighter ii special champion edition",
       "originalName": "Street Fighter II: Special Champion Edition",
       "rank": 8
     },
-    {
-      "name": "castlevania bloodlines",
-      "originalName": "Castlevania: Bloodlines",
-      "rank": 9
-    },
+    { "name": "castlevania bloodlines", "originalName": "Castlevania: Bloodlines", "rank": 9 },
     {
       "name": "shinobi iii return of the ninja master",
       "originalName": "Shinobi III: Return of the Ninja Master",
       "rank": 10
     },
-    {
-      "name": "thunder force iv",
-      "originalName": "Thunder Force IV",
-      "rank": 11
-    },
-    {
-      "name": "contra hard corps",
-      "originalName": "Contra: Hard Corps",
-      "rank": 12
-    },
-    {
-      "name": "comix zone",
-      "originalName": "Comix Zone",
-      "rank": 13
-    },
-    {
-      "name": "rocket knight adventures",
-      "originalName": "Rocket Knight Adventures",
-      "rank": 14
-    },
-    {
-      "name": "landstalker",
-      "originalName": "Landstalker",
-      "rank": 15
-    },
-    {
-      "name": "beyond oasis",
-      "originalName": "Beyond Oasis",
-      "rank": 16
-    },
-    {
-      "name": "phantasy star ii",
-      "originalName": "Phantasy Star II",
-      "rank": 17
-    },
-    {
-      "name": "shining force",
-      "originalName": "Shining Force",
-      "rank": 18
-    },
-    {
-      "name": "toejam and earl",
-      "originalName": "ToeJam & Earl",
-      "rank": 19
-    },
-    {
-      "name": "streets of rage",
-      "originalName": "Streets of Rage",
-      "rank": 20
-    },
-    {
-      "name": "streets of rage 3",
-      "originalName": "Streets of Rage 3",
-      "rank": 21
-    },
-    {
-      "name": "ecco the dolphin",
-      "originalName": "Ecco the Dolphin",
-      "rank": 22
-    },
-    {
-      "name": "ecco the tides of time",
-      "originalName": "Ecco: The Tides of Time",
-      "rank": 23
-    },
-    {
-      "name": "golden axe",
-      "originalName": "Golden Axe",
-      "rank": 24
-    },
-    {
-      "name": "vectorman",
-      "originalName": "Vectorman",
-      "rank": 25
-    },
-    {
-      "name": "vectorman 2",
-      "originalName": "Vectorman 2",
-      "rank": 26
-    },
-    {
-      "name": "aladdin",
-      "originalName": "Aladdin",
-      "rank": 27
-    },
-    {
-      "name": "the lion king",
-      "originalName": "The Lion King",
-      "rank": 28
-    },
+    { "name": "thunder force iv", "originalName": "Thunder Force IV", "rank": 11 },
+    { "name": "contra hard corps", "originalName": "Contra: Hard Corps", "rank": 12 },
+    { "name": "comix zone", "originalName": "Comix Zone", "rank": 13 },
+    { "name": "rocket knight adventures", "originalName": "Rocket Knight Adventures", "rank": 14 },
+    { "name": "landstalker", "originalName": "Landstalker", "rank": 15 },
+    { "name": "beyond oasis", "originalName": "Beyond Oasis", "rank": 16 },
+    { "name": "phantasy star ii", "originalName": "Phantasy Star II", "rank": 17 },
+    { "name": "shining force", "originalName": "Shining Force", "rank": 18 },
+    { "name": "toejam and earl", "originalName": "ToeJam & Earl", "rank": 19 },
+    { "name": "streets of rage", "originalName": "Streets of Rage", "rank": 20 },
+    { "name": "streets of rage 3", "originalName": "Streets of Rage 3", "rank": 21 },
+    { "name": "ecco the dolphin", "originalName": "Ecco the Dolphin", "rank": 22 },
+    { "name": "ecco the tides of time", "originalName": "Ecco: The Tides of Time", "rank": 23 },
+    { "name": "golden axe", "originalName": "Golden Axe", "rank": 24 },
+    { "name": "vectorman", "originalName": "Vectorman", "rank": 25 },
+    { "name": "vectorman 2", "originalName": "Vectorman 2", "rank": 26 },
+    { "name": "aladdin", "originalName": "Aladdin", "rank": 27 },
+    { "name": "the lion king", "originalName": "The Lion King", "rank": 28 },
     {
       "name": "world of illusion starring mickey mouse and donald duck",
       "originalName": "World of Illusion Starring Mickey Mouse and Donald Duck",
@@ -2158,356 +594,92 @@
       "originalName": "Castle of Illusion Starring Mickey Mouse",
       "rank": 30
     },
-    {
-      "name": "quackshot starring donald duck",
-      "originalName": "Quackshot Starring Donald Duck",
-      "rank": 31
-    },
-    {
-      "name": "earthworm jim",
-      "originalName": "Earthworm Jim",
-      "rank": 32
-    },
-    {
-      "name": "earthworm jim 2",
-      "originalName": "Earthworm Jim 2",
-      "rank": 33
-    },
-    {
-      "name": "ristar",
-      "originalName": "Ristar",
-      "rank": 34
-    },
-    {
-      "name": "dynamite headdy",
-      "originalName": "Dynamite Headdy",
-      "rank": 35
-    },
+    { "name": "quackshot starring donald duck", "originalName": "Quackshot Starring Donald Duck", "rank": 31 },
+    { "name": "earthworm jim", "originalName": "Earthworm Jim", "rank": 32 },
+    { "name": "earthworm jim 2", "originalName": "Earthworm Jim 2", "rank": 33 },
+    { "name": "ristar", "originalName": "Ristar", "rank": 34 },
+    { "name": "dynamite headdy", "originalName": "Dynamite Headdy", "rank": 35 },
     {
       "name": "treasures mcdonalds treasure land adventure",
       "originalName": "Treasure's McDonald's Treasure Land Adventure",
       "rank": 36
     },
-    {
-      "name": "mega turrican",
-      "originalName": "Mega Turrican",
-      "rank": 37
-    },
-    {
-      "name": "alien soldier",
-      "originalName": "Alien Soldier",
-      "rank": 38
-    },
-    {
-      "name": "ranger x",
-      "originalName": "Ranger-X",
-      "rank": 39
-    },
-    {
-      "name": "pulseman",
-      "originalName": "Pulseman",
-      "rank": 40
-    },
-    {
-      "name": "panorama cotton",
-      "originalName": "Panorama Cotton",
-      "rank": 41
-    },
-    {
-      "name": "musha",
-      "originalName": "Musha",
-      "rank": 42
-    },
-    {
-      "name": "thunder force iii",
-      "originalName": "Thunder Force III",
-      "rank": 43
-    },
-    {
-      "name": "gley lancer",
-      "originalName": "Gley Lancer",
-      "rank": 44
-    },
-    {
-      "name": "eliminate down",
-      "originalName": "Eliminate Down",
-      "rank": 45
-    },
+    { "name": "mega turrican", "originalName": "Mega Turrican", "rank": 37 },
+    { "name": "alien soldier", "originalName": "Alien Soldier", "rank": 38 },
+    { "name": "ranger x", "originalName": "Ranger-X", "rank": 39 },
+    { "name": "pulseman", "originalName": "Pulseman", "rank": 40 },
+    { "name": "panorama cotton", "originalName": "Panorama Cotton", "rank": 41 },
+    { "name": "musha", "originalName": "Musha", "rank": 42 },
+    { "name": "thunder force iii", "originalName": "Thunder Force III", "rank": 43 },
+    { "name": "gley lancer", "originalName": "Gley Lancer", "rank": 44 },
+    { "name": "eliminate down", "originalName": "Eliminate Down", "rank": 45 },
     {
       "name": "lightening force quest for the darkstar",
       "originalName": "Lightening Force: Quest for the Darkstar",
       "rank": 46
     },
-    {
-      "name": "herzog zwei",
-      "originalName": "Herzog Zwei",
-      "rank": 47
-    },
-    {
-      "name": "dune ii the battle for arrakis",
-      "originalName": "Dune II: The Battle for Arrakis",
-      "rank": 48
-    },
-    {
-      "name": "general chaos",
-      "originalName": "General Chaos",
-      "rank": 49
-    },
-    {
-      "name": "nhl 94",
-      "originalName": "NHL '94",
-      "rank": 50
-    },
-    {
-      "name": "madden nfl 94",
-      "originalName": "Madden NFL '94",
-      "rank": 51
-    },
-    {
-      "name": "nba jam",
-      "originalName": "NBA Jam",
-      "rank": 52
-    },
-    {
-      "name": "nba jam tournament edition",
-      "originalName": "NBA Jam: Tournament Edition",
-      "rank": 53
-    },
-    {
-      "name": "sensible soccer",
-      "originalName": "Sensible Soccer",
-      "rank": 54
-    },
-    {
-      "name": "super hang on",
-      "originalName": "Super Hang-On",
-      "rank": 55
-    },
-    {
-      "name": "road rash ii",
-      "originalName": "Road Rash II",
-      "rank": 56
-    },
-    {
-      "name": "road rash 3",
-      "originalName": "Road Rash 3",
-      "rank": 57
-    },
-    {
-      "name": "outrun",
-      "originalName": "OutRun",
-      "rank": 58
-    },
-    {
-      "name": "micro machines 2 turbo tournament",
-      "originalName": "Micro Machines 2: Turbo Tournament",
-      "rank": 59
-    },
-    {
-      "name": "sonic spinball",
-      "originalName": "Sonic Spinball",
-      "rank": 60
-    },
-    {
-      "name": "dr robotniks mean bean machine",
-      "originalName": "Dr. Robotnik's Mean Bean Machine",
-      "rank": 61
-    },
-    {
-      "name": "columns",
-      "originalName": "Columns",
-      "rank": 62
-    },
-    {
-      "name": "puyo puyo",
-      "originalName": "Puyo Puyo",
-      "rank": 63
-    },
-    {
-      "name": "puyo puyo tsu",
-      "originalName": "Puyo Puyo Tsu",
-      "rank": 64
-    },
-    {
-      "name": "tetris",
-      "originalName": "Tetris",
-      "rank": 65
-    },
+    { "name": "herzog zwei", "originalName": "Herzog Zwei", "rank": 47 },
+    { "name": "dune ii the battle for arrakis", "originalName": "Dune II: The Battle for Arrakis", "rank": 48 },
+    { "name": "general chaos", "originalName": "General Chaos", "rank": 49 },
+    { "name": "nhl 94", "originalName": "NHL '94", "rank": 50 },
+    { "name": "madden nfl 94", "originalName": "Madden NFL '94", "rank": 51 },
+    { "name": "nba jam", "originalName": "NBA Jam", "rank": 52 },
+    { "name": "nba jam tournament edition", "originalName": "NBA Jam: Tournament Edition", "rank": 53 },
+    { "name": "sensible soccer", "originalName": "Sensible Soccer", "rank": 54 },
+    { "name": "super hang on", "originalName": "Super Hang-On", "rank": 55 },
+    { "name": "road rash ii", "originalName": "Road Rash II", "rank": 56 },
+    { "name": "road rash 3", "originalName": "Road Rash 3", "rank": 57 },
+    { "name": "outrun", "originalName": "OutRun", "rank": 58 },
+    { "name": "micro machines 2 turbo tournament", "originalName": "Micro Machines 2: Turbo Tournament", "rank": 59 },
+    { "name": "sonic spinball", "originalName": "Sonic Spinball", "rank": 60 },
+    { "name": "dr robotniks mean bean machine", "originalName": "Dr. Robotnik's Mean Bean Machine", "rank": 61 },
+    { "name": "columns", "originalName": "Columns", "rank": 62 },
+    { "name": "puyo puyo", "originalName": "Puyo Puyo", "rank": 63 },
+    { "name": "puyo puyo tsu", "originalName": "Puyo Puyo Tsu", "rank": 64 },
+    { "name": "tetris", "originalName": "Tetris", "rank": 65 },
     {
       "name": "toejam and earl in panic on funkotron",
       "originalName": "Toejam & Earl in Panic on Funkotron",
       "rank": 66
     },
-    {
-      "name": "bare knuckle iii",
-      "originalName": "Bare Knuckle III",
-      "rank": 67
-    },
-    {
-      "name": "golden axe ii",
-      "originalName": "Golden Axe II",
-      "rank": 68
-    },
-    {
-      "name": "altered beast",
-      "originalName": "Altered Beast",
-      "rank": 69
-    },
-    {
-      "name": "kid chameleon",
-      "originalName": "Kid Chameleon",
-      "rank": 70
-    },
-    {
-      "name": "gain ground",
-      "originalName": "Gain Ground",
-      "rank": 71
-    },
-    {
-      "name": "decap attack",
-      "originalName": "Decap Attack",
-      "rank": 72
-    },
-    {
-      "name": "splatterhouse 2",
-      "originalName": "Splatterhouse 2",
-      "rank": 73
-    },
-    {
-      "name": "splatterhouse 3",
-      "originalName": "Splatterhouse 3",
-      "rank": 74
-    },
-    {
-      "name": "zombies ate my neighbors",
-      "originalName": "Zombies Ate My Neighbors",
-      "rank": 75
-    },
-    {
-      "name": "shadowrun",
-      "originalName": "Shadowrun",
-      "rank": 76
-    },
-    {
-      "name": "light crusader",
-      "originalName": "Light Crusader",
-      "rank": 77
-    },
-    {
-      "name": "crusader of centy",
-      "originalName": "Crusader of Centy",
-      "rank": 78
-    },
-    {
-      "name": "story of thor 2",
-      "originalName": "Story of Thor 2",
-      "rank": 79
-    },
-    {
-      "name": "shining in the darkness",
-      "originalName": "Shining in the Darkness",
-      "rank": 80
-    },
-    {
-      "name": "phantasy star iii",
-      "originalName": "Phantasy Star III",
-      "rank": 81
-    },
-    {
-      "name": "sword of vermilion",
-      "originalName": "Sword of Vermilion",
-      "rank": 82
-    },
-    {
-      "name": "warsong",
-      "originalName": "Warsong",
-      "rank": 83
-    },
-    {
-      "name": "langrisser ii",
-      "originalName": "Langrisser II",
-      "rank": 84
-    },
-    {
-      "name": "fire shark",
-      "originalName": "Fire Shark",
-      "rank": 85
-    },
-    {
-      "name": "battle mania daiginjou",
-      "originalName": "Battle Mania Daiginjou",
-      "rank": 86
-    },
-    {
-      "name": "monster world iv",
-      "originalName": "Monster World IV",
-      "rank": 87
-    },
-    {
-      "name": "wonder boy in monster world",
-      "originalName": "Wonder Boy in Monster World",
-      "rank": 88
-    },
-    {
-      "name": "the revenge of shinobi",
-      "originalName": "The Revenge of Shinobi",
-      "rank": 89
-    },
+    { "name": "bare knuckle iii", "originalName": "Bare Knuckle III", "rank": 67 },
+    { "name": "golden axe ii", "originalName": "Golden Axe II", "rank": 68 },
+    { "name": "altered beast", "originalName": "Altered Beast", "rank": 69 },
+    { "name": "kid chameleon", "originalName": "Kid Chameleon", "rank": 70 },
+    { "name": "gain ground", "originalName": "Gain Ground", "rank": 71 },
+    { "name": "decap attack", "originalName": "Decap Attack", "rank": 72 },
+    { "name": "splatterhouse 2", "originalName": "Splatterhouse 2", "rank": 73 },
+    { "name": "splatterhouse 3", "originalName": "Splatterhouse 3", "rank": 74 },
+    { "name": "zombies ate my neighbors", "originalName": "Zombies Ate My Neighbors", "rank": 75 },
+    { "name": "shadowrun", "originalName": "Shadowrun", "rank": 76 },
+    { "name": "light crusader", "originalName": "Light Crusader", "rank": 77 },
+    { "name": "crusader of centy", "originalName": "Crusader of Centy", "rank": 78 },
+    { "name": "story of thor 2", "originalName": "Story of Thor 2", "rank": 79 },
+    { "name": "shining in the darkness", "originalName": "Shining in the Darkness", "rank": 80 },
+    { "name": "phantasy star iii", "originalName": "Phantasy Star III", "rank": 81 },
+    { "name": "sword of vermilion", "originalName": "Sword of Vermilion", "rank": 82 },
+    { "name": "warsong", "originalName": "Warsong", "rank": 83 },
+    { "name": "langrisser ii", "originalName": "Langrisser II", "rank": 84 },
+    { "name": "fire shark", "originalName": "Fire Shark", "rank": 85 },
+    { "name": "battle mania daiginjou", "originalName": "Battle Mania Daiginjou", "rank": 86 },
+    { "name": "monster world iv", "originalName": "Monster World IV", "rank": 87 },
+    { "name": "wonder boy in monster world", "originalName": "Wonder Boy in Monster World", "rank": 88 },
+    { "name": "the revenge of shinobi", "originalName": "The Revenge of Shinobi", "rank": 89 },
     {
       "name": "shadow dancer the secret of shinobi",
       "originalName": "Shadow Dancer: The Secret of Shinobi",
       "rank": 90
     },
-    {
-      "name": "strider",
-      "originalName": "Strider",
-      "rank": 91
-    },
-    {
-      "name": "sonic 3d blast",
-      "originalName": "Sonic 3D Blast",
-      "rank": 92
-    },
-    {
-      "name": "sparkster",
-      "originalName": "Sparkster",
-      "rank": 93
-    },
-    {
-      "name": "bonanza bros",
-      "originalName": "Bonanza Bros.",
-      "rank": 94
-    },
-    {
-      "name": "ghostbusters",
-      "originalName": "Ghostbusters",
-      "rank": 95
-    },
-    {
-      "name": "michael jacksons moonwalker",
-      "originalName": "Michael Jackson's Moonwalker",
-      "rank": 96
-    },
-    {
-      "name": "mega man the wily wars",
-      "originalName": "Mega Man: The Wily Wars",
-      "rank": 97
-    },
-    {
-      "name": "sonic and knuckles",
-      "originalName": "Sonic & Knuckles",
-      "rank": 98
-    },
-    {
-      "name": "virtua racing",
-      "originalName": "Virtua Racing",
-      "rank": 99
-    },
-    {
-      "name": "yu yu hakusho makyou toitsusen",
-      "originalName": "Yu Yu Hakusho: Makyou Toitsusen",
-      "rank": 100
-    }
+    { "name": "strider", "originalName": "Strider", "rank": 91 },
+    { "name": "sonic 3d blast", "originalName": "Sonic 3D Blast", "rank": 92 },
+    { "name": "sparkster", "originalName": "Sparkster", "rank": 93 },
+    { "name": "bonanza bros", "originalName": "Bonanza Bros.", "rank": 94 },
+    { "name": "ghostbusters", "originalName": "Ghostbusters", "rank": 95 },
+    { "name": "michael jacksons moonwalker", "originalName": "Michael Jackson's Moonwalker", "rank": 96 },
+    { "name": "mega man the wily wars", "originalName": "Mega Man: The Wily Wars", "rank": 97 },
+    { "name": "sonic and knuckles", "originalName": "Sonic & Knuckles", "rank": 98 },
+    { "name": "virtua racing", "originalName": "Virtua Racing", "rank": 99 },
+    { "name": "yu yu hakusho makyou toitsusen", "originalName": "Yu Yu Hakusho: Makyou Toitsusen", "rank": 100 }
   ],
   "ngp": [
     {
@@ -2515,251 +687,71 @@
       "originalName": "SNK vs. Capcom: The Match of the Millennium",
       "rank": 1
     },
-    {
-      "name": "snk vs capcom card fighters clash",
-      "originalName": "SNK vs. Capcom: Card Fighters' Clash",
-      "rank": 2
-    },
+    { "name": "snk vs capcom card fighters clash", "originalName": "SNK vs. Capcom: Card Fighters' Clash", "rank": 2 },
     {
       "name": "sonic the hedgehog pocket adventure",
       "originalName": "Sonic the Hedgehog: Pocket Adventure",
       "rank": 3
     },
-    {
-      "name": "the last blade beyond the destiny",
-      "originalName": "The Last Blade: Beyond the Destiny",
-      "rank": 4
-    },
-    {
-      "name": "king of fighters r 2",
-      "originalName": "King of Fighters R-2",
-      "rank": 5
-    },
-    {
-      "name": "metal slug 1st mission",
-      "originalName": "Metal Slug: 1st Mission",
-      "rank": 6
-    },
-    {
-      "name": "metal slug 2nd mission",
-      "originalName": "Metal Slug: 2nd Mission",
-      "rank": 7
-    },
-    {
-      "name": "samurai shodown 2",
-      "originalName": "Samurai Shodown! 2",
-      "rank": 8
-    },
-    {
-      "name": "dark arms beast buster 1999",
-      "originalName": "Dark Arms: Beast Buster 1999",
-      "rank": 9
-    },
-    {
-      "name": "faselei",
-      "originalName": "Faselei!",
-      "rank": 10
-    },
-    {
-      "name": "cotton fantastic night dreams",
-      "originalName": "Cotton: Fantastic Night Dreams",
-      "rank": 11
-    },
-    {
-      "name": "gals fighters",
-      "originalName": "Gals' Fighters",
-      "rank": 12
-    },
-    {
-      "name": "fatal fury first contact",
-      "originalName": "Fatal Fury: First Contact",
-      "rank": 13
-    },
+    { "name": "the last blade beyond the destiny", "originalName": "The Last Blade: Beyond the Destiny", "rank": 4 },
+    { "name": "king of fighters r 2", "originalName": "King of Fighters R-2", "rank": 5 },
+    { "name": "metal slug 1st mission", "originalName": "Metal Slug: 1st Mission", "rank": 6 },
+    { "name": "metal slug 2nd mission", "originalName": "Metal Slug: 2nd Mission", "rank": 7 },
+    { "name": "samurai shodown 2", "originalName": "Samurai Shodown! 2", "rank": 8 },
+    { "name": "dark arms beast buster 1999", "originalName": "Dark Arms: Beast Buster 1999", "rank": 9 },
+    { "name": "faselei", "originalName": "Faselei!", "rank": 10 },
+    { "name": "cotton fantastic night dreams", "originalName": "Cotton: Fantastic Night Dreams", "rank": 11 },
+    { "name": "gals fighters", "originalName": "Gals' Fighters", "rank": 12 },
+    { "name": "fatal fury first contact", "originalName": "Fatal Fury: First Contact", "rank": 13 },
     {
       "name": "snk vs capcom card fighters clash 2 expand edition",
       "originalName": "SNK vs. Capcom: Card Fighters' Clash 2 Expand Edition",
       "rank": 14
     },
-    {
-      "name": "puzzle bobble mini",
-      "originalName": "Puzzle Bobble Mini",
-      "rank": 15
-    },
-    {
-      "name": "biomotor unitron",
-      "originalName": "Biomotor Unitron",
-      "rank": 16
-    },
-    {
-      "name": "dive alert beckys version",
-      "originalName": "Dive Alert: Becky's Version",
-      "rank": 17
-    },
-    {
-      "name": "dive alert matts version",
-      "originalName": "Dive Alert: Matt's Version",
-      "rank": 18
-    },
-    {
-      "name": "baseball stars color",
-      "originalName": "Baseball Stars Color",
-      "rank": 19
-    },
-    {
-      "name": "neo turf masters",
-      "originalName": "Neo Turf Masters",
-      "rank": 20
-    },
-    {
-      "name": "big tournament golf",
-      "originalName": "Big Tournament Golf",
-      "rank": 21
-    },
-    {
-      "name": "pocket tennis color",
-      "originalName": "Pocket Tennis Color",
-      "rank": 22
-    },
-    {
-      "name": "crush roller",
-      "originalName": "Crush Roller",
-      "rank": 23
-    },
-    {
-      "name": "pac man",
-      "originalName": "Pac-Man",
-      "rank": 24
-    },
-    {
-      "name": "mega man battle and fighters",
-      "originalName": "Mega Man Battle & Fighters",
-      "rank": 25
-    },
-    {
-      "name": "rockman battle and fighters",
-      "originalName": "Rockman: Battle & Fighters",
-      "rank": 26
-    },
+    { "name": "puzzle bobble mini", "originalName": "Puzzle Bobble Mini", "rank": 15 },
+    { "name": "biomotor unitron", "originalName": "Biomotor Unitron", "rank": 16 },
+    { "name": "dive alert beckys version", "originalName": "Dive Alert: Becky's Version", "rank": 17 },
+    { "name": "dive alert matts version", "originalName": "Dive Alert: Matt's Version", "rank": 18 },
+    { "name": "baseball stars color", "originalName": "Baseball Stars Color", "rank": 19 },
+    { "name": "neo turf masters", "originalName": "Neo Turf Masters", "rank": 20 },
+    { "name": "big tournament golf", "originalName": "Big Tournament Golf", "rank": 21 },
+    { "name": "pocket tennis color", "originalName": "Pocket Tennis Color", "rank": 22 },
+    { "name": "crush roller", "originalName": "Crush Roller", "rank": 23 },
+    { "name": "pac man", "originalName": "Pac-Man", "rank": 24 },
+    { "name": "mega man battle and fighters", "originalName": "Mega Man Battle & Fighters", "rank": 25 },
+    { "name": "rockman battle and fighters", "originalName": "Rockman: Battle & Fighters", "rank": 26 },
     {
       "name": "king of fighters battle de paradise",
       "originalName": "King of Fighters: Battle de Paradise",
       "rank": 27
     },
-    {
-      "name": "puyo pop",
-      "originalName": "Puyo Pop",
-      "rank": 28
-    },
-    {
-      "name": "puzzle link 2",
-      "originalName": "Puzzle Link 2",
-      "rank": 29
-    },
-    {
-      "name": "puzzle link",
-      "originalName": "Puzzle Link",
-      "rank": 30
-    },
-    {
-      "name": "snk gals fighters",
-      "originalName": "SNK Gals' Fighters",
-      "rank": 31
-    },
-    {
-      "name": "cool cool jam",
-      "originalName": "Cool Cool Jam",
-      "rank": 32
-    },
-    {
-      "name": "evolution eternal dungeons",
-      "originalName": "Evolution: Eternal Dungeons",
-      "rank": 33
-    },
+    { "name": "puyo pop", "originalName": "Puyo Pop", "rank": 28 },
+    { "name": "puzzle link 2", "originalName": "Puzzle Link 2", "rank": 29 },
+    { "name": "puzzle link", "originalName": "Puzzle Link", "rank": 30 },
+    { "name": "snk gals fighters", "originalName": "SNK Gals' Fighters", "rank": 31 },
+    { "name": "cool cool jam", "originalName": "Cool Cool Jam", "rank": 32 },
+    { "name": "evolution eternal dungeons", "originalName": "Evolution: Eternal Dungeons", "rank": 33 },
     {
       "name": "ogre battle gaiden prince of zenobia",
       "originalName": "Ogre Battle Gaiden: Prince of Zenobia",
       "rank": 34
     },
-    {
-      "name": "delta warp",
-      "originalName": "Delta Warp",
-      "rank": 35
-    },
-    {
-      "name": "dynamite slugger",
-      "originalName": "Dynamite Slugger",
-      "rank": 36
-    },
-    {
-      "name": "neo cherry master color",
-      "originalName": "Neo Cherry Master Color",
-      "rank": 37
-    },
-    {
-      "name": "neo dragons wild",
-      "originalName": "Neo Dragon's Wild",
-      "rank": 38
-    },
-    {
-      "name": "party mail",
-      "originalName": "Party Mail",
-      "rank": 39
-    },
-    {
-      "name": "densha de go 2",
-      "originalName": "Densha de Go! 2",
-      "rank": 40
-    },
-    {
-      "name": "ganbare neo poke kun",
-      "originalName": "Ganbare Neo Poke-Kun",
-      "rank": 41
-    },
-    {
-      "name": "memories off pure",
-      "originalName": "Memories Off: Pure",
-      "rank": 42
-    },
-    {
-      "name": "dokodemo mahjong",
-      "originalName": "Dokodemo Mahjong",
-      "rank": 43
-    },
-    {
-      "name": "magical drop pocket",
-      "originalName": "Magical Drop Pocket",
-      "rank": 44
-    },
-    {
-      "name": "neo poke pro yakyuu",
-      "originalName": "Neo Poke Pro Yakyuu",
-      "rank": 45
-    },
-    {
-      "name": "dive alert rebecca version",
-      "originalName": "Dive Alert: Rebecca Version",
-      "rank": 46
-    },
-    {
-      "name": "shanghai mini",
-      "originalName": "Shanghai Mini",
-      "rank": 47
-    },
-    {
-      "name": "bust a move pocket",
-      "originalName": "Bust-a-Move Pocket",
-      "rank": 48
-    },
-    {
-      "name": "picture puzzle",
-      "originalName": "Picture Puzzle",
-      "rank": 49
-    },
-    {
-      "name": "infinity cure",
-      "originalName": "Infinity Cure",
-      "rank": 50
-    }
+    { "name": "delta warp", "originalName": "Delta Warp", "rank": 35 },
+    { "name": "dynamite slugger", "originalName": "Dynamite Slugger", "rank": 36 },
+    { "name": "neo cherry master color", "originalName": "Neo Cherry Master Color", "rank": 37 },
+    { "name": "neo dragons wild", "originalName": "Neo Dragon's Wild", "rank": 38 },
+    { "name": "party mail", "originalName": "Party Mail", "rank": 39 },
+    { "name": "densha de go 2", "originalName": "Densha de Go! 2", "rank": 40 },
+    { "name": "ganbare neo poke kun", "originalName": "Ganbare Neo Poke-Kun", "rank": 41 },
+    { "name": "memories off pure", "originalName": "Memories Off: Pure", "rank": 42 },
+    { "name": "dokodemo mahjong", "originalName": "Dokodemo Mahjong", "rank": 43 },
+    { "name": "magical drop pocket", "originalName": "Magical Drop Pocket", "rank": 44 },
+    { "name": "neo poke pro yakyuu", "originalName": "Neo Poke Pro Yakyuu", "rank": 45 },
+    { "name": "dive alert rebecca version", "originalName": "Dive Alert: Rebecca Version", "rank": 46 },
+    { "name": "shanghai mini", "originalName": "Shanghai Mini", "rank": 47 },
+    { "name": "bust a move pocket", "originalName": "Bust-a-Move Pocket", "rank": 48 },
+    { "name": "picture puzzle", "originalName": "Picture Puzzle", "rank": 49 },
+    { "name": "infinity cure", "originalName": "Infinity Cure", "rank": 50 }
   ],
   "ngpc": [
     {
@@ -2767,753 +759,177 @@
       "originalName": "SNK vs. Capcom: The Match of the Millennium",
       "rank": 1
     },
-    {
-      "name": "snk vs capcom card fighters clash",
-      "originalName": "SNK vs. Capcom: Card Fighters' Clash",
-      "rank": 2
-    },
+    { "name": "snk vs capcom card fighters clash", "originalName": "SNK vs. Capcom: Card Fighters' Clash", "rank": 2 },
     {
       "name": "sonic the hedgehog pocket adventure",
       "originalName": "Sonic the Hedgehog: Pocket Adventure",
       "rank": 3
     },
-    {
-      "name": "the last blade beyond the destiny",
-      "originalName": "The Last Blade: Beyond the Destiny",
-      "rank": 4
-    },
-    {
-      "name": "king of fighters r 2",
-      "originalName": "King of Fighters R-2",
-      "rank": 5
-    },
-    {
-      "name": "metal slug 1st mission",
-      "originalName": "Metal Slug: 1st Mission",
-      "rank": 6
-    },
-    {
-      "name": "metal slug 2nd mission",
-      "originalName": "Metal Slug: 2nd Mission",
-      "rank": 7
-    },
-    {
-      "name": "samurai shodown 2",
-      "originalName": "Samurai Shodown! 2",
-      "rank": 8
-    },
-    {
-      "name": "dark arms beast buster 1999",
-      "originalName": "Dark Arms: Beast Buster 1999",
-      "rank": 9
-    },
-    {
-      "name": "faselei",
-      "originalName": "Faselei!",
-      "rank": 10
-    },
-    {
-      "name": "cotton fantastic night dreams",
-      "originalName": "Cotton: Fantastic Night Dreams",
-      "rank": 11
-    },
-    {
-      "name": "gals fighters",
-      "originalName": "Gals' Fighters",
-      "rank": 12
-    },
-    {
-      "name": "fatal fury first contact",
-      "originalName": "Fatal Fury: First Contact",
-      "rank": 13
-    },
+    { "name": "the last blade beyond the destiny", "originalName": "The Last Blade: Beyond the Destiny", "rank": 4 },
+    { "name": "king of fighters r 2", "originalName": "King of Fighters R-2", "rank": 5 },
+    { "name": "metal slug 1st mission", "originalName": "Metal Slug: 1st Mission", "rank": 6 },
+    { "name": "metal slug 2nd mission", "originalName": "Metal Slug: 2nd Mission", "rank": 7 },
+    { "name": "samurai shodown 2", "originalName": "Samurai Shodown! 2", "rank": 8 },
+    { "name": "dark arms beast buster 1999", "originalName": "Dark Arms: Beast Buster 1999", "rank": 9 },
+    { "name": "faselei", "originalName": "Faselei!", "rank": 10 },
+    { "name": "cotton fantastic night dreams", "originalName": "Cotton: Fantastic Night Dreams", "rank": 11 },
+    { "name": "gals fighters", "originalName": "Gals' Fighters", "rank": 12 },
+    { "name": "fatal fury first contact", "originalName": "Fatal Fury: First Contact", "rank": 13 },
     {
       "name": "snk vs capcom card fighters clash 2 expand edition",
       "originalName": "SNK vs. Capcom: Card Fighters' Clash 2 Expand Edition",
       "rank": 14
     },
-    {
-      "name": "puzzle bobble mini",
-      "originalName": "Puzzle Bobble Mini",
-      "rank": 15
-    },
-    {
-      "name": "biomotor unitron",
-      "originalName": "Biomotor Unitron",
-      "rank": 16
-    },
-    {
-      "name": "dive alert beckys version",
-      "originalName": "Dive Alert: Becky's Version",
-      "rank": 17
-    },
-    {
-      "name": "dive alert matts version",
-      "originalName": "Dive Alert: Matt's Version",
-      "rank": 18
-    },
-    {
-      "name": "baseball stars color",
-      "originalName": "Baseball Stars Color",
-      "rank": 19
-    },
-    {
-      "name": "neo turf masters",
-      "originalName": "Neo Turf Masters",
-      "rank": 20
-    },
-    {
-      "name": "big tournament golf",
-      "originalName": "Big Tournament Golf",
-      "rank": 21
-    },
-    {
-      "name": "pocket tennis color",
-      "originalName": "Pocket Tennis Color",
-      "rank": 22
-    },
-    {
-      "name": "crush roller",
-      "originalName": "Crush Roller",
-      "rank": 23
-    },
-    {
-      "name": "pac man",
-      "originalName": "Pac-Man",
-      "rank": 24
-    },
-    {
-      "name": "mega man battle and fighters",
-      "originalName": "Mega Man Battle & Fighters",
-      "rank": 25
-    },
-    {
-      "name": "rockman battle and fighters",
-      "originalName": "Rockman: Battle & Fighters",
-      "rank": 26
-    },
+    { "name": "puzzle bobble mini", "originalName": "Puzzle Bobble Mini", "rank": 15 },
+    { "name": "biomotor unitron", "originalName": "Biomotor Unitron", "rank": 16 },
+    { "name": "dive alert beckys version", "originalName": "Dive Alert: Becky's Version", "rank": 17 },
+    { "name": "dive alert matts version", "originalName": "Dive Alert: Matt's Version", "rank": 18 },
+    { "name": "baseball stars color", "originalName": "Baseball Stars Color", "rank": 19 },
+    { "name": "neo turf masters", "originalName": "Neo Turf Masters", "rank": 20 },
+    { "name": "big tournament golf", "originalName": "Big Tournament Golf", "rank": 21 },
+    { "name": "pocket tennis color", "originalName": "Pocket Tennis Color", "rank": 22 },
+    { "name": "crush roller", "originalName": "Crush Roller", "rank": 23 },
+    { "name": "pac man", "originalName": "Pac-Man", "rank": 24 },
+    { "name": "mega man battle and fighters", "originalName": "Mega Man Battle & Fighters", "rank": 25 },
+    { "name": "rockman battle and fighters", "originalName": "Rockman: Battle & Fighters", "rank": 26 },
     {
       "name": "king of fighters battle de paradise",
       "originalName": "King of Fighters: Battle de Paradise",
       "rank": 27
     },
-    {
-      "name": "puyo pop",
-      "originalName": "Puyo Pop",
-      "rank": 28
-    },
-    {
-      "name": "puzzle link 2",
-      "originalName": "Puzzle Link 2",
-      "rank": 29
-    },
-    {
-      "name": "puzzle link",
-      "originalName": "Puzzle Link",
-      "rank": 30
-    },
-    {
-      "name": "snk gals fighters",
-      "originalName": "SNK Gals' Fighters",
-      "rank": 31
-    },
-    {
-      "name": "cool cool jam",
-      "originalName": "Cool Cool Jam",
-      "rank": 32
-    },
-    {
-      "name": "evolution eternal dungeons",
-      "originalName": "Evolution: Eternal Dungeons",
-      "rank": 33
-    },
+    { "name": "puyo pop", "originalName": "Puyo Pop", "rank": 28 },
+    { "name": "puzzle link 2", "originalName": "Puzzle Link 2", "rank": 29 },
+    { "name": "puzzle link", "originalName": "Puzzle Link", "rank": 30 },
+    { "name": "snk gals fighters", "originalName": "SNK Gals' Fighters", "rank": 31 },
+    { "name": "cool cool jam", "originalName": "Cool Cool Jam", "rank": 32 },
+    { "name": "evolution eternal dungeons", "originalName": "Evolution: Eternal Dungeons", "rank": 33 },
     {
       "name": "ogre battle gaiden prince of zenobia",
       "originalName": "Ogre Battle Gaiden: Prince of Zenobia",
       "rank": 34
     },
-    {
-      "name": "delta warp",
-      "originalName": "Delta Warp",
-      "rank": 35
-    },
-    {
-      "name": "dynamite slugger",
-      "originalName": "Dynamite Slugger",
-      "rank": 36
-    },
-    {
-      "name": "neo cherry master color",
-      "originalName": "Neo Cherry Master Color",
-      "rank": 37
-    },
-    {
-      "name": "neo dragons wild",
-      "originalName": "Neo Dragon's Wild",
-      "rank": 38
-    },
-    {
-      "name": "party mail",
-      "originalName": "Party Mail",
-      "rank": 39
-    },
-    {
-      "name": "densha de go 2",
-      "originalName": "Densha de Go! 2",
-      "rank": 40
-    },
-    {
-      "name": "ganbare neo poke kun",
-      "originalName": "Ganbare Neo Poke-Kun",
-      "rank": 41
-    },
-    {
-      "name": "memories off pure",
-      "originalName": "Memories Off: Pure",
-      "rank": 42
-    },
-    {
-      "name": "dokodemo mahjong",
-      "originalName": "Dokodemo Mahjong",
-      "rank": 43
-    },
-    {
-      "name": "magical drop pocket",
-      "originalName": "Magical Drop Pocket",
-      "rank": 44
-    },
-    {
-      "name": "neo poke pro yakyuu",
-      "originalName": "Neo Poke Pro Yakyuu",
-      "rank": 45
-    },
-    {
-      "name": "dive alert rebecca version",
-      "originalName": "Dive Alert: Rebecca Version",
-      "rank": 46
-    },
-    {
-      "name": "shanghai mini",
-      "originalName": "Shanghai Mini",
-      "rank": 47
-    },
-    {
-      "name": "bust a move pocket",
-      "originalName": "Bust-a-Move Pocket",
-      "rank": 48
-    },
-    {
-      "name": "picture puzzle",
-      "originalName": "Picture Puzzle",
-      "rank": 49
-    },
-    {
-      "name": "infinity cure",
-      "originalName": "Infinity Cure",
-      "rank": 50
-    }
+    { "name": "delta warp", "originalName": "Delta Warp", "rank": 35 },
+    { "name": "dynamite slugger", "originalName": "Dynamite Slugger", "rank": 36 },
+    { "name": "neo cherry master color", "originalName": "Neo Cherry Master Color", "rank": 37 },
+    { "name": "neo dragons wild", "originalName": "Neo Dragon's Wild", "rank": 38 },
+    { "name": "party mail", "originalName": "Party Mail", "rank": 39 },
+    { "name": "densha de go 2", "originalName": "Densha de Go! 2", "rank": 40 },
+    { "name": "ganbare neo poke kun", "originalName": "Ganbare Neo Poke-Kun", "rank": 41 },
+    { "name": "memories off pure", "originalName": "Memories Off: Pure", "rank": 42 },
+    { "name": "dokodemo mahjong", "originalName": "Dokodemo Mahjong", "rank": 43 },
+    { "name": "magical drop pocket", "originalName": "Magical Drop Pocket", "rank": 44 },
+    { "name": "neo poke pro yakyuu", "originalName": "Neo Poke Pro Yakyuu", "rank": 45 },
+    { "name": "dive alert rebecca version", "originalName": "Dive Alert: Rebecca Version", "rank": 46 },
+    { "name": "shanghai mini", "originalName": "Shanghai Mini", "rank": 47 },
+    { "name": "bust a move pocket", "originalName": "Bust-a-Move Pocket", "rank": 48 },
+    { "name": "picture puzzle", "originalName": "Picture Puzzle", "rank": 49 },
+    { "name": "infinity cure", "originalName": "Infinity Cure", "rank": 50 }
   ],
   "pcengine": [
-    {
-      "name": "castlevania rondo of blood",
-      "originalName": "Castlevania: Rondo of Blood",
-      "rank": 1
-    },
-    {
-      "name": "ys book i and ii",
-      "originalName": "Ys Book I & II",
-      "rank": 2
-    },
-    {
-      "name": "bonks adventure",
-      "originalName": "Bonk's Adventure",
-      "rank": 3
-    },
-    {
-      "name": "blazing lazers",
-      "originalName": "Blazing Lazers",
-      "rank": 4
-    },
-    {
-      "name": "military madness",
-      "originalName": "Military Madness",
-      "rank": 5
-    },
-    {
-      "name": "r type",
-      "originalName": "R-Type",
-      "rank": 6
-    },
-    {
-      "name": "gate of thunder",
-      "originalName": "Gate of Thunder",
-      "rank": 7
-    },
-    {
-      "name": "lords of thunder",
-      "originalName": "Lords of Thunder",
-      "rank": 8
-    },
-    {
-      "name": "soldier blade",
-      "originalName": "Soldier Blade",
-      "rank": 9
-    },
-    {
-      "name": "air zonk",
-      "originalName": "Air Zonk",
-      "rank": 10
-    },
-    {
-      "name": "bonks revenge",
-      "originalName": "Bonk's Revenge",
-      "rank": 11
-    },
-    {
-      "name": "neutopia",
-      "originalName": "Neutopia",
-      "rank": 12
-    },
-    {
-      "name": "neutopia ii",
-      "originalName": "Neutopia II",
-      "rank": 13
-    },
-    {
-      "name": "dungeon explorer",
-      "originalName": "Dungeon Explorer",
-      "rank": 14
-    },
-    {
-      "name": "devils crush",
-      "originalName": "Devil's Crush",
-      "rank": 15
-    },
-    {
-      "name": "splatterhouse",
-      "originalName": "Splatterhouse",
-      "rank": 16
-    },
-    {
-      "name": "ninja spirit",
-      "originalName": "Ninja Spirit",
-      "rank": 17
-    },
-    {
-      "name": "legendary axe",
-      "originalName": "Legendary Axe",
-      "rank": 18
-    },
-    {
-      "name": "legendary axe ii",
-      "originalName": "Legendary Axe II",
-      "rank": 19
-    },
-    {
-      "name": "ys iii wanderers from ys",
-      "originalName": "Ys III: Wanderers from Ys",
-      "rank": 20
-    },
-    {
-      "name": "ys iv the dawn of ys",
-      "originalName": "Ys IV: The Dawn of Ys",
-      "rank": 21
-    },
-    {
-      "name": "bomberman 93",
-      "originalName": "Bomberman '93",
-      "rank": 22
-    },
-    {
-      "name": "bomberman 94",
-      "originalName": "Bomberman '94",
-      "rank": 23
-    },
-    {
-      "name": "super star soldier",
-      "originalName": "Super Star Soldier",
-      "rank": 24
-    },
-    {
-      "name": "final soldier",
-      "originalName": "Final Soldier",
-      "rank": 25
-    },
-    {
-      "name": "galaga 90",
-      "originalName": "Galaga '90",
-      "rank": 26
-    },
-    {
-      "name": "alien crush",
-      "originalName": "Alien Crush",
-      "rank": 27
-    },
-    {
-      "name": "dragons curse",
-      "originalName": "Dragon's Curse",
-      "rank": 28
-    },
-    {
-      "name": "cadash",
-      "originalName": "Cadash",
-      "rank": 29
-    },
-    {
-      "name": "keith courage in alpha zones",
-      "originalName": "Keith Courage in Alpha Zones",
-      "rank": 30
-    },
-    {
-      "name": "magical chase",
-      "originalName": "Magical Chase",
-      "rank": 31
-    },
-    {
-      "name": "sapphire",
-      "originalName": "Sapphire",
-      "rank": 32
-    },
-    {
-      "name": "dracula x rondo of blood",
-      "originalName": "Dracula X: Rondo of Blood",
-      "rank": 33
-    },
-    {
-      "name": "snatcher",
-      "originalName": "Snatcher",
-      "rank": 34
-    },
-    {
-      "name": "super darius",
-      "originalName": "Super Darius",
-      "rank": 35
-    },
-    {
-      "name": "gradius",
-      "originalName": "Gradius",
-      "rank": 36
-    },
-    {
-      "name": "fantasy zone",
-      "originalName": "Fantasy Zone",
-      "rank": 37
-    },
-    {
-      "name": "parodius da",
-      "originalName": "Parodius Da!",
-      "rank": 38
-    },
-    {
-      "name": "cotton fantastic night dreams",
-      "originalName": "Cotton: Fantastic Night Dreams",
-      "rank": 39
-    },
-    {
-      "name": "salamander",
-      "originalName": "Salamander",
-      "rank": 40
-    },
-    {
-      "name": "image fight",
-      "originalName": "Image Fight",
-      "rank": 41
-    },
-    {
-      "name": "dragon saber",
-      "originalName": "Dragon Saber",
-      "rank": 42
-    },
-    {
-      "name": "sidearms",
-      "originalName": "Sidearms",
-      "rank": 43
-    },
-    {
-      "name": "aero blasters",
-      "originalName": "Aero Blasters",
-      "rank": 44
-    },
-    {
-      "name": "psycho chaser",
-      "originalName": "Psycho Chaser",
-      "rank": 45
-    },
-    {
-      "name": "valis ii",
-      "originalName": "Valis II",
-      "rank": 46
-    },
-    {
-      "name": "valis iii",
-      "originalName": "Valis III",
-      "rank": 47
-    },
-    {
-      "name": "valis iv",
-      "originalName": "Valis IV",
-      "rank": 48
-    },
-    {
-      "name": "the dynastic hero",
-      "originalName": "The Dynastic Hero",
-      "rank": 49
-    },
-    {
-      "name": "shockman",
-      "originalName": "Shockman",
-      "rank": 50
-    },
-    {
-      "name": "bloody wolf",
-      "originalName": "Bloody Wolf",
-      "rank": 51
-    },
-    {
-      "name": "ninja warriors",
-      "originalName": "Ninja Warriors",
-      "rank": 52
-    },
-    {
-      "name": "jackie chans action kung fu",
-      "originalName": "Jackie Chan's Action Kung Fu",
-      "rank": 53
-    },
-    {
-      "name": "son son ii",
-      "originalName": "Son Son II",
-      "rank": 54
-    },
-    {
-      "name": "new adventure island",
-      "originalName": "New Adventure Island",
-      "rank": 55
-    },
-    {
-      "name": "adventure island",
-      "originalName": "Adventure Island",
-      "rank": 56
-    },
-    {
-      "name": "parasol stars",
-      "originalName": "Parasol Stars",
-      "rank": 57
-    },
-    {
-      "name": "the legend of hero tonma",
-      "originalName": "The Legend of Hero Tonma",
-      "rank": 58
-    },
-    {
-      "name": "world court tennis",
-      "originalName": "World Court Tennis",
-      "rank": 59
-    },
-    {
-      "name": "power golf",
-      "originalName": "Power Golf",
-      "rank": 60
-    },
-    {
-      "name": "jj and jeff",
-      "originalName": "J.J. & Jeff",
-      "rank": 61
-    },
-    {
-      "name": "moto roader",
-      "originalName": "Moto Roader",
-      "rank": 62
-    },
-    {
-      "name": "victory run",
-      "originalName": "Victory Run",
-      "rank": 63
-    },
-    {
-      "name": "ballistix",
-      "originalName": "Ballistix",
-      "rank": 64
-    },
-    {
-      "name": "chew man fu",
-      "originalName": "Chew Man Fu",
-      "rank": 65
-    },
-    {
-      "name": "cratermaze",
-      "originalName": "Cratermaze",
-      "rank": 66
-    },
-    {
-      "name": "battle royale",
-      "originalName": "Battle Royale",
-      "rank": 67
-    },
-    {
-      "name": "order of the griffon",
-      "originalName": "Order of the Griffon",
-      "rank": 68
-    },
-    {
-      "name": "exile",
-      "originalName": "Exile",
-      "rank": 69
-    },
-    {
-      "name": "exile wicked phenomenon",
-      "originalName": "Exile: Wicked Phenomenon",
-      "rank": 70
-    },
-    {
-      "name": "tengai makyou ziria",
-      "originalName": "Tengai Makyou: Ziria",
-      "rank": 71
-    },
-    {
-      "name": "tengai makyou ii manji maru",
-      "originalName": "Tengai Makyou II: Manji Maru",
-      "rank": 72
-    },
-    {
-      "name": "tengai makyou fuun kabuki den",
-      "originalName": "Tengai Makyou: Fuun Kabuki Den",
-      "rank": 73
-    },
-    {
-      "name": "emerald dragon",
-      "originalName": "Emerald Dragon",
-      "rank": 74
-    },
-    {
-      "name": "linda cube",
-      "originalName": "Linda Cube",
-      "rank": 75
-    },
-    {
-      "name": "xak iii the eternal recurrence",
-      "originalName": "Xak III: The Eternal Recurrence",
-      "rank": 76
-    },
-    {
-      "name": "dragon slayer the legend of heroes",
-      "originalName": "Dragon Slayer: The Legend of Heroes",
-      "rank": 77
-    },
+    { "name": "castlevania rondo of blood", "originalName": "Castlevania: Rondo of Blood", "rank": 1 },
+    { "name": "ys book i and ii", "originalName": "Ys Book I & II", "rank": 2 },
+    { "name": "bonks adventure", "originalName": "Bonk's Adventure", "rank": 3 },
+    { "name": "blazing lazers", "originalName": "Blazing Lazers", "rank": 4 },
+    { "name": "military madness", "originalName": "Military Madness", "rank": 5 },
+    { "name": "r type", "originalName": "R-Type", "rank": 6 },
+    { "name": "gate of thunder", "originalName": "Gate of Thunder", "rank": 7 },
+    { "name": "lords of thunder", "originalName": "Lords of Thunder", "rank": 8 },
+    { "name": "soldier blade", "originalName": "Soldier Blade", "rank": 9 },
+    { "name": "air zonk", "originalName": "Air Zonk", "rank": 10 },
+    { "name": "bonks revenge", "originalName": "Bonk's Revenge", "rank": 11 },
+    { "name": "neutopia", "originalName": "Neutopia", "rank": 12 },
+    { "name": "neutopia ii", "originalName": "Neutopia II", "rank": 13 },
+    { "name": "dungeon explorer", "originalName": "Dungeon Explorer", "rank": 14 },
+    { "name": "devils crush", "originalName": "Devil's Crush", "rank": 15 },
+    { "name": "splatterhouse", "originalName": "Splatterhouse", "rank": 16 },
+    { "name": "ninja spirit", "originalName": "Ninja Spirit", "rank": 17 },
+    { "name": "legendary axe", "originalName": "Legendary Axe", "rank": 18 },
+    { "name": "legendary axe ii", "originalName": "Legendary Axe II", "rank": 19 },
+    { "name": "ys iii wanderers from ys", "originalName": "Ys III: Wanderers from Ys", "rank": 20 },
+    { "name": "ys iv the dawn of ys", "originalName": "Ys IV: The Dawn of Ys", "rank": 21 },
+    { "name": "bomberman 93", "originalName": "Bomberman '93", "rank": 22 },
+    { "name": "bomberman 94", "originalName": "Bomberman '94", "rank": 23 },
+    { "name": "super star soldier", "originalName": "Super Star Soldier", "rank": 24 },
+    { "name": "final soldier", "originalName": "Final Soldier", "rank": 25 },
+    { "name": "galaga 90", "originalName": "Galaga '90", "rank": 26 },
+    { "name": "alien crush", "originalName": "Alien Crush", "rank": 27 },
+    { "name": "dragons curse", "originalName": "Dragon's Curse", "rank": 28 },
+    { "name": "cadash", "originalName": "Cadash", "rank": 29 },
+    { "name": "keith courage in alpha zones", "originalName": "Keith Courage in Alpha Zones", "rank": 30 },
+    { "name": "magical chase", "originalName": "Magical Chase", "rank": 31 },
+    { "name": "sapphire", "originalName": "Sapphire", "rank": 32 },
+    { "name": "dracula x rondo of blood", "originalName": "Dracula X: Rondo of Blood", "rank": 33 },
+    { "name": "snatcher", "originalName": "Snatcher", "rank": 34 },
+    { "name": "super darius", "originalName": "Super Darius", "rank": 35 },
+    { "name": "gradius", "originalName": "Gradius", "rank": 36 },
+    { "name": "fantasy zone", "originalName": "Fantasy Zone", "rank": 37 },
+    { "name": "parodius da", "originalName": "Parodius Da!", "rank": 38 },
+    { "name": "cotton fantastic night dreams", "originalName": "Cotton: Fantastic Night Dreams", "rank": 39 },
+    { "name": "salamander", "originalName": "Salamander", "rank": 40 },
+    { "name": "image fight", "originalName": "Image Fight", "rank": 41 },
+    { "name": "dragon saber", "originalName": "Dragon Saber", "rank": 42 },
+    { "name": "sidearms", "originalName": "Sidearms", "rank": 43 },
+    { "name": "aero blasters", "originalName": "Aero Blasters", "rank": 44 },
+    { "name": "psycho chaser", "originalName": "Psycho Chaser", "rank": 45 },
+    { "name": "valis ii", "originalName": "Valis II", "rank": 46 },
+    { "name": "valis iii", "originalName": "Valis III", "rank": 47 },
+    { "name": "valis iv", "originalName": "Valis IV", "rank": 48 },
+    { "name": "the dynastic hero", "originalName": "The Dynastic Hero", "rank": 49 },
+    { "name": "shockman", "originalName": "Shockman", "rank": 50 },
+    { "name": "bloody wolf", "originalName": "Bloody Wolf", "rank": 51 },
+    { "name": "ninja warriors", "originalName": "Ninja Warriors", "rank": 52 },
+    { "name": "jackie chans action kung fu", "originalName": "Jackie Chan's Action Kung Fu", "rank": 53 },
+    { "name": "son son ii", "originalName": "Son Son II", "rank": 54 },
+    { "name": "new adventure island", "originalName": "New Adventure Island", "rank": 55 },
+    { "name": "adventure island", "originalName": "Adventure Island", "rank": 56 },
+    { "name": "parasol stars", "originalName": "Parasol Stars", "rank": 57 },
+    { "name": "the legend of hero tonma", "originalName": "The Legend of Hero Tonma", "rank": 58 },
+    { "name": "world court tennis", "originalName": "World Court Tennis", "rank": 59 },
+    { "name": "power golf", "originalName": "Power Golf", "rank": 60 },
+    { "name": "jj and jeff", "originalName": "J.J. & Jeff", "rank": 61 },
+    { "name": "moto roader", "originalName": "Moto Roader", "rank": 62 },
+    { "name": "victory run", "originalName": "Victory Run", "rank": 63 },
+    { "name": "ballistix", "originalName": "Ballistix", "rank": 64 },
+    { "name": "chew man fu", "originalName": "Chew Man Fu", "rank": 65 },
+    { "name": "cratermaze", "originalName": "Cratermaze", "rank": 66 },
+    { "name": "battle royale", "originalName": "Battle Royale", "rank": 67 },
+    { "name": "order of the griffon", "originalName": "Order of the Griffon", "rank": 68 },
+    { "name": "exile", "originalName": "Exile", "rank": 69 },
+    { "name": "exile wicked phenomenon", "originalName": "Exile: Wicked Phenomenon", "rank": 70 },
+    { "name": "tengai makyou ziria", "originalName": "Tengai Makyou: Ziria", "rank": 71 },
+    { "name": "tengai makyou ii manji maru", "originalName": "Tengai Makyou II: Manji Maru", "rank": 72 },
+    { "name": "tengai makyou fuun kabuki den", "originalName": "Tengai Makyou: Fuun Kabuki Den", "rank": 73 },
+    { "name": "emerald dragon", "originalName": "Emerald Dragon", "rank": 74 },
+    { "name": "linda cube", "originalName": "Linda Cube", "rank": 75 },
+    { "name": "xak iii the eternal recurrence", "originalName": "Xak III: The Eternal Recurrence", "rank": 76 },
+    { "name": "dragon slayer the legend of heroes", "originalName": "Dragon Slayer: The Legend of Heroes", "rank": 77 },
     {
       "name": "dragon slayer the legend of heroes ii",
       "originalName": "Dragon Slayer: The Legend of Heroes II",
       "rank": 78
     },
-    {
-      "name": "cosmic fantasy 2",
-      "originalName": "Cosmic Fantasy 2",
-      "rank": 79
-    },
-    {
-      "name": "startling odyssey ii",
-      "originalName": "Startling Odyssey II",
-      "rank": 80
-    },
-    {
-      "name": "popful mail",
-      "originalName": "Popful Mail",
-      "rank": 81
-    },
-    {
-      "name": "langrisser",
-      "originalName": "Langrisser",
-      "rank": 82
-    },
-    {
-      "name": "vasteel",
-      "originalName": "Vasteel",
-      "rank": 83
-    },
-    {
-      "name": "nexzr",
-      "originalName": "Nexzr",
-      "rank": 84
-    },
-    {
-      "name": "spriggan",
-      "originalName": "Spriggan",
-      "rank": 85
-    },
-    {
-      "name": "spriggan mark 2",
-      "originalName": "Spriggan Mark 2",
-      "rank": 86
-    },
-    {
-      "name": "download",
-      "originalName": "Download",
-      "rank": 87
-    },
-    {
-      "name": "star parodier",
-      "originalName": "Star Parodier",
-      "rank": 88
-    },
-    {
-      "name": "coryoon child of dragon",
-      "originalName": "Coryoon: Child of Dragon",
-      "rank": 89
-    },
-    {
-      "name": "detana twinbee",
-      "originalName": "Detana!! TwinBee",
-      "rank": 90
-    },
-    {
-      "name": "hana taaka daka?",
-      "originalName": "Hana Taaka Daka!?",
-      "rank": 91
-    },
-    {
-      "name": "rainbow islands",
-      "originalName": "Rainbow Islands",
-      "rank": 92
-    },
-    {
-      "name": "chase hq",
-      "originalName": "Chase H.Q.",
-      "rank": 93
-    },
-    {
-      "name": "outrun",
-      "originalName": "Outrun",
-      "rank": 94
-    },
-    {
-      "name": "dead moon",
-      "originalName": "Dead Moon",
-      "rank": 95
-    },
-    {
-      "name": "kaze kiri",
-      "originalName": "Kaze Kiri",
-      "rank": 96
-    },
-    {
-      "name": "renny blaster",
-      "originalName": "Renny Blaster",
-      "rank": 97
-    },
-    {
-      "name": "macross 2036",
-      "originalName": "Macross 2036",
-      "rank": 98
-    },
-    {
-      "name": "forgotten worlds",
-      "originalName": "Forgotten Worlds",
-      "rank": 99
-    },
-    {
-      "name": "toilet kids",
-      "originalName": "Toilet Kids",
-      "rank": 100
-    }
+    { "name": "cosmic fantasy 2", "originalName": "Cosmic Fantasy 2", "rank": 79 },
+    { "name": "startling odyssey ii", "originalName": "Startling Odyssey II", "rank": 80 },
+    { "name": "popful mail", "originalName": "Popful Mail", "rank": 81 },
+    { "name": "langrisser", "originalName": "Langrisser", "rank": 82 },
+    { "name": "vasteel", "originalName": "Vasteel", "rank": 83 },
+    { "name": "nexzr", "originalName": "Nexzr", "rank": 84 },
+    { "name": "spriggan", "originalName": "Spriggan", "rank": 85 },
+    { "name": "spriggan mark 2", "originalName": "Spriggan Mark 2", "rank": 86 },
+    { "name": "download", "originalName": "Download", "rank": 87 },
+    { "name": "star parodier", "originalName": "Star Parodier", "rank": 88 },
+    { "name": "coryoon child of dragon", "originalName": "Coryoon: Child of Dragon", "rank": 89 },
+    { "name": "detana twinbee", "originalName": "Detana!! TwinBee", "rank": 90 },
+    { "name": "hana taaka daka?", "originalName": "Hana Taaka Daka!?", "rank": 91 },
+    { "name": "rainbow islands", "originalName": "Rainbow Islands", "rank": 92 },
+    { "name": "chase hq", "originalName": "Chase H.Q.", "rank": 93 },
+    { "name": "outrun", "originalName": "Outrun", "rank": 94 },
+    { "name": "dead moon", "originalName": "Dead Moon", "rank": 95 },
+    { "name": "kaze kiri", "originalName": "Kaze Kiri", "rank": 96 },
+    { "name": "renny blaster", "originalName": "Renny Blaster", "rank": 97 },
+    { "name": "macross 2036", "originalName": "Macross 2036", "rank": 98 },
+    { "name": "forgotten worlds", "originalName": "Forgotten Worlds", "rank": 99 },
+    { "name": "toilet kids", "originalName": "Toilet Kids", "rank": 100 }
   ],
   "sfc": [
     {
@@ -3521,241 +937,81 @@
       "originalName": "The Legend of Zelda: A Link to the Past",
       "rank": 1
     },
-    {
-      "name": "super metroid",
-      "originalName": "Super Metroid",
-      "rank": 2
-    },
-    {
-      "name": "chrono trigger",
-      "originalName": "Chrono Trigger",
-      "rank": 3
-    },
-    {
-      "name": "super mario world",
-      "originalName": "Super Mario World",
-      "rank": 4
-    },
-    {
-      "name": "final fantasy vi",
-      "originalName": "Final Fantasy VI",
-      "rank": 5
-    },
+    { "name": "super metroid", "originalName": "Super Metroid", "rank": 2 },
+    { "name": "chrono trigger", "originalName": "Chrono Trigger", "rank": 3 },
+    { "name": "super mario world", "originalName": "Super Mario World", "rank": 4 },
+    { "name": "final fantasy vi", "originalName": "Final Fantasy VI", "rank": 5 },
     {
       "name": "super mario rpg legend of the seven stars",
       "originalName": "Super Mario RPG: Legend of the Seven Stars",
       "rank": 6
     },
-    {
-      "name": "earthbound",
-      "originalName": "EarthBound",
-      "rank": 7
-    },
-    {
-      "name": "secret of mana",
-      "originalName": "Secret of Mana",
-      "rank": 8
-    },
+    { "name": "earthbound", "originalName": "EarthBound", "rank": 7 },
+    { "name": "secret of mana", "originalName": "Secret of Mana", "rank": 8 },
     {
       "name": "donkey kong country 2 diddys kong quest",
       "originalName": "Donkey Kong Country 2: Diddy's Kong Quest",
       "rank": 9
     },
-    {
-      "name": "super mario world 2 yoshis island",
-      "originalName": "Super Mario World 2: Yoshi's Island",
-      "rank": 10
-    },
-    {
-      "name": "mega man x",
-      "originalName": "Mega Man X",
-      "rank": 11
-    },
+    { "name": "super mario world 2 yoshis island", "originalName": "Super Mario World 2: Yoshi's Island", "rank": 10 },
+    { "name": "mega man x", "originalName": "Mega Man X", "rank": 11 },
     {
       "name": "street fighter ii turbo hyper fighting",
       "originalName": "Street Fighter II Turbo: Hyper Fighting",
       "rank": 12
     },
-    {
-      "name": "final fantasy iv",
-      "originalName": "Final Fantasy IV",
-      "rank": 13
-    },
-    {
-      "name": "donkey kong country",
-      "originalName": "Donkey Kong Country",
-      "rank": 14
-    },
-    {
-      "name": "super castlevania iv",
-      "originalName": "Super Castlevania IV",
-      "rank": 15
-    },
-    {
-      "name": "contra iii the alien wars",
-      "originalName": "Contra III: The Alien Wars",
-      "rank": 16
-    },
-    {
-      "name": "kirby super star",
-      "originalName": "Kirby Super Star",
-      "rank": 17
-    },
-    {
-      "name": "star fox",
-      "originalName": "Star Fox",
-      "rank": 18
-    },
-    {
-      "name": "f zero",
-      "originalName": "F-Zero",
-      "rank": 19
-    },
-    {
-      "name": "super mario kart",
-      "originalName": "Super Mario Kart",
-      "rank": 20
-    },
-    {
-      "name": "tetris attack",
-      "originalName": "Tetris Attack",
-      "rank": 21
-    },
-    {
-      "name": "kirbys dream land 3",
-      "originalName": "Kirby's Dream Land 3",
-      "rank": 22
-    },
-    {
-      "name": "actraiser",
-      "originalName": "ActRaiser",
-      "rank": 23
-    },
+    { "name": "final fantasy iv", "originalName": "Final Fantasy IV", "rank": 13 },
+    { "name": "donkey kong country", "originalName": "Donkey Kong Country", "rank": 14 },
+    { "name": "super castlevania iv", "originalName": "Super Castlevania IV", "rank": 15 },
+    { "name": "contra iii the alien wars", "originalName": "Contra III: The Alien Wars", "rank": 16 },
+    { "name": "kirby super star", "originalName": "Kirby Super Star", "rank": 17 },
+    { "name": "star fox", "originalName": "Star Fox", "rank": 18 },
+    { "name": "f zero", "originalName": "F-Zero", "rank": 19 },
+    { "name": "super mario kart", "originalName": "Super Mario Kart", "rank": 20 },
+    { "name": "tetris attack", "originalName": "Tetris Attack", "rank": 21 },
+    { "name": "kirbys dream land 3", "originalName": "Kirby's Dream Land 3", "rank": 22 },
+    { "name": "actraiser", "originalName": "ActRaiser", "rank": 23 },
     {
       "name": "donkey kong country 3 dixie kongs double trouble",
       "originalName": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
       "rank": 24
     },
-    {
-      "name": "mega man x2",
-      "originalName": "Mega Man X2",
-      "rank": 25
-    },
-    {
-      "name": "mega man x3",
-      "originalName": "Mega Man X3",
-      "rank": 26
-    },
-    {
-      "name": "super punch out",
-      "originalName": "Super Punch-Out!!",
-      "rank": 27
-    },
+    { "name": "mega man x2", "originalName": "Mega Man X2", "rank": 25 },
+    { "name": "mega man x3", "originalName": "Mega Man X3", "rank": 26 },
+    { "name": "super punch out", "originalName": "Super Punch-Out!!", "rank": 27 },
     {
       "name": "teenage mutant ninja turtles iv turtles in time",
       "originalName": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
       "rank": 28
     },
-    {
-      "name": "harvest moon",
-      "originalName": "Harvest Moon",
-      "rank": 29
-    },
-    {
-      "name": "illusion of gaia",
-      "originalName": "Illusion of Gaia",
-      "rank": 30
-    },
-    {
-      "name": "terranigma",
-      "originalName": "Terranigma",
-      "rank": 31
-    },
-    {
-      "name": "soul blazer",
-      "originalName": "Soul Blazer",
-      "rank": 32
-    },
-    {
-      "name": "lufia ii rise of the sinistrals",
-      "originalName": "Lufia II: Rise of the Sinistrals",
-      "rank": 33
-    },
-    {
-      "name": "lufia and the fortress of doom",
-      "originalName": "Lufia & the Fortress of Doom",
-      "rank": 34
-    },
-    {
-      "name": "breath of fire ii",
-      "originalName": "Breath of Fire II",
-      "rank": 35
-    },
-    {
-      "name": "breath of fire",
-      "originalName": "Breath of Fire",
-      "rank": 36
-    },
+    { "name": "harvest moon", "originalName": "Harvest Moon", "rank": 29 },
+    { "name": "illusion of gaia", "originalName": "Illusion of Gaia", "rank": 30 },
+    { "name": "terranigma", "originalName": "Terranigma", "rank": 31 },
+    { "name": "soul blazer", "originalName": "Soul Blazer", "rank": 32 },
+    { "name": "lufia ii rise of the sinistrals", "originalName": "Lufia II: Rise of the Sinistrals", "rank": 33 },
+    { "name": "lufia and the fortress of doom", "originalName": "Lufia & the Fortress of Doom", "rank": 34 },
+    { "name": "breath of fire ii", "originalName": "Breath of Fire II", "rank": 35 },
+    { "name": "breath of fire", "originalName": "Breath of Fire", "rank": 36 },
     {
       "name": "ogre battle the march of the black queen",
       "originalName": "Ogre Battle: The March of the Black Queen",
       "rank": 37
     },
-    {
-      "name": "tactics ogre let us cling together",
-      "originalName": "Tactics Ogre: Let Us Cling Together",
-      "rank": 38
-    },
+    { "name": "tactics ogre let us cling together", "originalName": "Tactics Ogre: Let Us Cling Together", "rank": 38 },
     {
       "name": "fire emblem genealogy of the holy war",
       "originalName": "Fire Emblem: Genealogy of the Holy War",
       "rank": 39
     },
-    {
-      "name": "fire emblem thracia 776",
-      "originalName": "Fire Emblem: Thracia 776",
-      "rank": 40
-    },
-    {
-      "name": "fire emblem mystery of the emblem",
-      "originalName": "Fire Emblem: Mystery of the Emblem",
-      "rank": 41
-    },
-    {
-      "name": "front mission",
-      "originalName": "Front Mission",
-      "rank": 42
-    },
-    {
-      "name": "bahamut lagoon",
-      "originalName": "Bahamut Lagoon",
-      "rank": 43
-    },
-    {
-      "name": "live a live",
-      "originalName": "Live A Live",
-      "rank": 44
-    },
-    {
-      "name": "treasure of the rudras",
-      "originalName": "Treasure of the Rudras",
-      "rank": 45
-    },
-    {
-      "name": "seiken densetsu 3",
-      "originalName": "Seiken Densetsu 3",
-      "rank": 46
-    },
-    {
-      "name": "star ocean",
-      "originalName": "Star Ocean",
-      "rank": 47
-    },
-    {
-      "name": "tales of phantasia",
-      "originalName": "Tales of Phantasia",
-      "rank": 48
-    },
+    { "name": "fire emblem thracia 776", "originalName": "Fire Emblem: Thracia 776", "rank": 40 },
+    { "name": "fire emblem mystery of the emblem", "originalName": "Fire Emblem: Mystery of the Emblem", "rank": 41 },
+    { "name": "front mission", "originalName": "Front Mission", "rank": 42 },
+    { "name": "bahamut lagoon", "originalName": "Bahamut Lagoon", "rank": 43 },
+    { "name": "live a live", "originalName": "Live A Live", "rank": 44 },
+    { "name": "treasure of the rudras", "originalName": "Treasure of the Rudras", "rank": 45 },
+    { "name": "seiken densetsu 3", "originalName": "Seiken Densetsu 3", "rank": 46 },
+    { "name": "star ocean", "originalName": "Star Ocean", "rank": 47 },
+    { "name": "tales of phantasia", "originalName": "Tales of Phantasia", "rank": 48 },
     {
       "name": "dragon quest v hand of the heavenly bride",
       "originalName": "Dragon Quest V: Hand of the Heavenly Bride",
@@ -3766,166 +1022,38 @@
       "originalName": "Dragon Quest VI: Realms of Revelation",
       "rank": 50
     },
-    {
-      "name": "dragon quest iii",
-      "originalName": "Dragon Quest III",
-      "rank": 51
-    },
-    {
-      "name": "final fantasy v",
-      "originalName": "Final Fantasy V",
-      "rank": 52
-    },
-    {
-      "name": "romancing saga 3",
-      "originalName": "Romancing SaGa 3",
-      "rank": 53
-    },
-    {
-      "name": "romancing saga 2",
-      "originalName": "Romancing SaGa 2",
-      "rank": 54
-    },
-    {
-      "name": "shin megami tensei",
-      "originalName": "Shin Megami Tensei",
-      "rank": 55
-    },
-    {
-      "name": "shin megami tensei ii",
-      "originalName": "Shin Megami Tensei II",
-      "rank": 56
-    },
-    {
-      "name": "shin megami tensei if",
-      "originalName": "Shin Megami Tensei if...",
-      "rank": 57
-    },
-    {
-      "name": "super ghouls n ghosts",
-      "originalName": "Super Ghouls 'n Ghosts",
-      "rank": 58
-    },
-    {
-      "name": "axelay",
-      "originalName": "Axelay",
-      "rank": 59
-    },
-    {
-      "name": "gradius iii",
-      "originalName": "Gradius III",
-      "rank": 60
-    },
-    {
-      "name": "r type iii the third lightning",
-      "originalName": "R-Type III: The Third Lightning",
-      "rank": 61
-    },
-    {
-      "name": "space megaforce",
-      "originalName": "Space Megaforce",
-      "rank": 62
-    },
-    {
-      "name": "un squadron",
-      "originalName": "U.N. Squadron",
-      "rank": 63
-    },
-    {
-      "name": "pocky and rocky",
-      "originalName": "Pocky & Rocky",
-      "rank": 64
-    },
-    {
-      "name": "pocky and rocky 2",
-      "originalName": "Pocky & Rocky 2",
-      "rank": 65
-    },
-    {
-      "name": "wild guns",
-      "originalName": "Wild Guns",
-      "rank": 66
-    },
-    {
-      "name": "sunset riders",
-      "originalName": "Sunset Riders",
-      "rank": 67
-    },
-    {
-      "name": "the legend of the mystical ninja",
-      "originalName": "The Legend of the Mystical Ninja",
-      "rank": 68
-    },
-    {
-      "name": "goemon 2",
-      "originalName": "Goemon 2",
-      "rank": 69
-    },
-    {
-      "name": "goemon 3",
-      "originalName": "Goemon 3",
-      "rank": 70
-    },
-    {
-      "name": "super bomberman 2",
-      "originalName": "Super Bomberman 2",
-      "rank": 71
-    },
-    {
-      "name": "super bomberman",
-      "originalName": "Super Bomberman",
-      "rank": 72
-    },
-    {
-      "name": "zombies ate my neighbors",
-      "originalName": "Zombies Ate My Neighbors",
-      "rank": 73
-    },
-    {
-      "name": "secret of evermore",
-      "originalName": "Secret of Evermore",
-      "rank": 74
-    },
-    {
-      "name": "shadowrun",
-      "originalName": "Shadowrun",
-      "rank": 75
-    },
-    {
-      "name": "demons crest",
-      "originalName": "Demon's Crest",
-      "rank": 76
-    },
-    {
-      "name": "mega man 7",
-      "originalName": "Mega Man 7",
-      "rank": 77
-    },
-    {
-      "name": "sparkster",
-      "originalName": "Sparkster",
-      "rank": 78
-    },
-    {
-      "name": "hagane the final conflict",
-      "originalName": "Hagane: The Final Conflict",
-      "rank": 79
-    },
-    {
-      "name": "umihara kawase",
-      "originalName": "Umihara Kawase",
-      "rank": 80
-    },
-    {
-      "name": "nba jam tournament edition",
-      "originalName": "NBA Jam: Tournament Edition",
-      "rank": 81
-    },
-    {
-      "name": "madden nfl 94",
-      "originalName": "Madden NFL '94",
-      "rank": 82
-    },
+    { "name": "dragon quest iii", "originalName": "Dragon Quest III", "rank": 51 },
+    { "name": "final fantasy v", "originalName": "Final Fantasy V", "rank": 52 },
+    { "name": "romancing saga 3", "originalName": "Romancing SaGa 3", "rank": 53 },
+    { "name": "romancing saga 2", "originalName": "Romancing SaGa 2", "rank": 54 },
+    { "name": "shin megami tensei", "originalName": "Shin Megami Tensei", "rank": 55 },
+    { "name": "shin megami tensei ii", "originalName": "Shin Megami Tensei II", "rank": 56 },
+    { "name": "shin megami tensei if", "originalName": "Shin Megami Tensei if...", "rank": 57 },
+    { "name": "super ghouls n ghosts", "originalName": "Super Ghouls 'n Ghosts", "rank": 58 },
+    { "name": "axelay", "originalName": "Axelay", "rank": 59 },
+    { "name": "gradius iii", "originalName": "Gradius III", "rank": 60 },
+    { "name": "r type iii the third lightning", "originalName": "R-Type III: The Third Lightning", "rank": 61 },
+    { "name": "space megaforce", "originalName": "Space Megaforce", "rank": 62 },
+    { "name": "un squadron", "originalName": "U.N. Squadron", "rank": 63 },
+    { "name": "pocky and rocky", "originalName": "Pocky & Rocky", "rank": 64 },
+    { "name": "pocky and rocky 2", "originalName": "Pocky & Rocky 2", "rank": 65 },
+    { "name": "wild guns", "originalName": "Wild Guns", "rank": 66 },
+    { "name": "sunset riders", "originalName": "Sunset Riders", "rank": 67 },
+    { "name": "the legend of the mystical ninja", "originalName": "The Legend of the Mystical Ninja", "rank": 68 },
+    { "name": "goemon 2", "originalName": "Goemon 2", "rank": 69 },
+    { "name": "goemon 3", "originalName": "Goemon 3", "rank": 70 },
+    { "name": "super bomberman 2", "originalName": "Super Bomberman 2", "rank": 71 },
+    { "name": "super bomberman", "originalName": "Super Bomberman", "rank": 72 },
+    { "name": "zombies ate my neighbors", "originalName": "Zombies Ate My Neighbors", "rank": 73 },
+    { "name": "secret of evermore", "originalName": "Secret of Evermore", "rank": 74 },
+    { "name": "shadowrun", "originalName": "Shadowrun", "rank": 75 },
+    { "name": "demons crest", "originalName": "Demon's Crest", "rank": 76 },
+    { "name": "mega man 7", "originalName": "Mega Man 7", "rank": 77 },
+    { "name": "sparkster", "originalName": "Sparkster", "rank": 78 },
+    { "name": "hagane the final conflict", "originalName": "Hagane: The Final Conflict", "rank": 79 },
+    { "name": "umihara kawase", "originalName": "Umihara Kawase", "rank": 80 },
+    { "name": "nba jam tournament edition", "originalName": "NBA Jam: Tournament Edition", "rank": 81 },
+    { "name": "madden nfl 94", "originalName": "Madden NFL '94", "rank": 82 },
     {
       "name": "ken griffey jr presents major league baseball",
       "originalName": "Ken Griffey Jr. Presents Major League Baseball",
@@ -3936,86 +1064,30 @@
       "originalName": "International Superstar Soccer Deluxe",
       "rank": 84
     },
-    {
-      "name": "super tennis",
-      "originalName": "Super Tennis",
-      "rank": 85
-    },
-    {
-      "name": "simcity",
-      "originalName": "SimCity",
-      "rank": 86
-    },
-    {
-      "name": "pilotwings",
-      "originalName": "Pilotwings",
-      "rank": 87
-    },
-    {
-      "name": "super star wars",
-      "originalName": "Super Star Wars",
-      "rank": 88
-    },
+    { "name": "super tennis", "originalName": "Super Tennis", "rank": 85 },
+    { "name": "simcity", "originalName": "SimCity", "rank": 86 },
+    { "name": "pilotwings", "originalName": "Pilotwings", "rank": 87 },
+    { "name": "super star wars", "originalName": "Super Star Wars", "rank": 88 },
     {
       "name": "super star wars the empire strikes back",
       "originalName": "Super Star Wars: The Empire Strikes Back",
       "rank": 89
     },
-    {
-      "name": "super star wars return of the jedi",
-      "originalName": "Super Star Wars: Return of the Jedi",
-      "rank": 90
-    },
-    {
-      "name": "batman returns",
-      "originalName": "Batman Returns",
-      "rank": 91
-    },
-    {
-      "name": "aladdin",
-      "originalName": "Aladdin",
-      "rank": 92
-    },
+    { "name": "super star wars return of the jedi", "originalName": "Super Star Wars: Return of the Jedi", "rank": 90 },
+    { "name": "batman returns", "originalName": "Batman Returns", "rank": 91 },
+    { "name": "aladdin", "originalName": "Aladdin", "rank": 92 },
     {
       "name": "the magical quest starring mickey mouse",
       "originalName": "The Magical Quest Starring Mickey Mouse",
       "rank": 93
     },
-    {
-      "name": "super double dragon",
-      "originalName": "Super Double Dragon",
-      "rank": 94
-    },
-    {
-      "name": "final fight 3",
-      "originalName": "Final Fight 3",
-      "rank": 95
-    },
-    {
-      "name": "final fight 2",
-      "originalName": "Final Fight 2",
-      "rank": 96
-    },
-    {
-      "name": "gundam wing endless duel",
-      "originalName": "Gundam Wing: Endless Duel",
-      "rank": 97
-    },
-    {
-      "name": "dragon ball z hyper dimension",
-      "originalName": "Dragon Ball Z: Hyper Dimension",
-      "rank": 98
-    },
-    {
-      "name": "clock tower",
-      "originalName": "Clock Tower",
-      "rank": 99
-    },
-    {
-      "name": "rendering ranger r2",
-      "originalName": "Rendering Ranger R2",
-      "rank": 100
-    }
+    { "name": "super double dragon", "originalName": "Super Double Dragon", "rank": 94 },
+    { "name": "final fight 3", "originalName": "Final Fight 3", "rank": 95 },
+    { "name": "final fight 2", "originalName": "Final Fight 2", "rank": 96 },
+    { "name": "gundam wing endless duel", "originalName": "Gundam Wing: Endless Duel", "rank": 97 },
+    { "name": "dragon ball z hyper dimension", "originalName": "Dragon Ball Z: Hyper Dimension", "rank": 98 },
+    { "name": "clock tower", "originalName": "Clock Tower", "rank": 99 },
+    { "name": "rendering ranger r2", "originalName": "Rendering Ranger R2", "rank": 100 }
   ],
   "snes": [
     {
@@ -4023,241 +1095,81 @@
       "originalName": "The Legend of Zelda: A Link to the Past",
       "rank": 1
     },
-    {
-      "name": "super metroid",
-      "originalName": "Super Metroid",
-      "rank": 2
-    },
-    {
-      "name": "chrono trigger",
-      "originalName": "Chrono Trigger",
-      "rank": 3
-    },
-    {
-      "name": "super mario world",
-      "originalName": "Super Mario World",
-      "rank": 4
-    },
-    {
-      "name": "final fantasy vi",
-      "originalName": "Final Fantasy VI",
-      "rank": 5
-    },
+    { "name": "super metroid", "originalName": "Super Metroid", "rank": 2 },
+    { "name": "chrono trigger", "originalName": "Chrono Trigger", "rank": 3 },
+    { "name": "super mario world", "originalName": "Super Mario World", "rank": 4 },
+    { "name": "final fantasy vi", "originalName": "Final Fantasy VI", "rank": 5 },
     {
       "name": "super mario rpg legend of the seven stars",
       "originalName": "Super Mario RPG: Legend of the Seven Stars",
       "rank": 6
     },
-    {
-      "name": "earthbound",
-      "originalName": "EarthBound",
-      "rank": 7
-    },
-    {
-      "name": "secret of mana",
-      "originalName": "Secret of Mana",
-      "rank": 8
-    },
+    { "name": "earthbound", "originalName": "EarthBound", "rank": 7 },
+    { "name": "secret of mana", "originalName": "Secret of Mana", "rank": 8 },
     {
       "name": "donkey kong country 2 diddys kong quest",
       "originalName": "Donkey Kong Country 2: Diddy's Kong Quest",
       "rank": 9
     },
-    {
-      "name": "super mario world 2 yoshis island",
-      "originalName": "Super Mario World 2: Yoshi's Island",
-      "rank": 10
-    },
-    {
-      "name": "mega man x",
-      "originalName": "Mega Man X",
-      "rank": 11
-    },
+    { "name": "super mario world 2 yoshis island", "originalName": "Super Mario World 2: Yoshi's Island", "rank": 10 },
+    { "name": "mega man x", "originalName": "Mega Man X", "rank": 11 },
     {
       "name": "street fighter ii turbo hyper fighting",
       "originalName": "Street Fighter II Turbo: Hyper Fighting",
       "rank": 12
     },
-    {
-      "name": "final fantasy iv",
-      "originalName": "Final Fantasy IV",
-      "rank": 13
-    },
-    {
-      "name": "donkey kong country",
-      "originalName": "Donkey Kong Country",
-      "rank": 14
-    },
-    {
-      "name": "super castlevania iv",
-      "originalName": "Super Castlevania IV",
-      "rank": 15
-    },
-    {
-      "name": "contra iii the alien wars",
-      "originalName": "Contra III: The Alien Wars",
-      "rank": 16
-    },
-    {
-      "name": "kirby super star",
-      "originalName": "Kirby Super Star",
-      "rank": 17
-    },
-    {
-      "name": "star fox",
-      "originalName": "Star Fox",
-      "rank": 18
-    },
-    {
-      "name": "f zero",
-      "originalName": "F-Zero",
-      "rank": 19
-    },
-    {
-      "name": "super mario kart",
-      "originalName": "Super Mario Kart",
-      "rank": 20
-    },
-    {
-      "name": "tetris attack",
-      "originalName": "Tetris Attack",
-      "rank": 21
-    },
-    {
-      "name": "kirbys dream land 3",
-      "originalName": "Kirby's Dream Land 3",
-      "rank": 22
-    },
-    {
-      "name": "actraiser",
-      "originalName": "ActRaiser",
-      "rank": 23
-    },
+    { "name": "final fantasy iv", "originalName": "Final Fantasy IV", "rank": 13 },
+    { "name": "donkey kong country", "originalName": "Donkey Kong Country", "rank": 14 },
+    { "name": "super castlevania iv", "originalName": "Super Castlevania IV", "rank": 15 },
+    { "name": "contra iii the alien wars", "originalName": "Contra III: The Alien Wars", "rank": 16 },
+    { "name": "kirby super star", "originalName": "Kirby Super Star", "rank": 17 },
+    { "name": "star fox", "originalName": "Star Fox", "rank": 18 },
+    { "name": "f zero", "originalName": "F-Zero", "rank": 19 },
+    { "name": "super mario kart", "originalName": "Super Mario Kart", "rank": 20 },
+    { "name": "tetris attack", "originalName": "Tetris Attack", "rank": 21 },
+    { "name": "kirbys dream land 3", "originalName": "Kirby's Dream Land 3", "rank": 22 },
+    { "name": "actraiser", "originalName": "ActRaiser", "rank": 23 },
     {
       "name": "donkey kong country 3 dixie kongs double trouble",
       "originalName": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
       "rank": 24
     },
-    {
-      "name": "mega man x2",
-      "originalName": "Mega Man X2",
-      "rank": 25
-    },
-    {
-      "name": "mega man x3",
-      "originalName": "Mega Man X3",
-      "rank": 26
-    },
-    {
-      "name": "super punch out",
-      "originalName": "Super Punch-Out!!",
-      "rank": 27
-    },
+    { "name": "mega man x2", "originalName": "Mega Man X2", "rank": 25 },
+    { "name": "mega man x3", "originalName": "Mega Man X3", "rank": 26 },
+    { "name": "super punch out", "originalName": "Super Punch-Out!!", "rank": 27 },
     {
       "name": "teenage mutant ninja turtles iv turtles in time",
       "originalName": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
       "rank": 28
     },
-    {
-      "name": "harvest moon",
-      "originalName": "Harvest Moon",
-      "rank": 29
-    },
-    {
-      "name": "illusion of gaia",
-      "originalName": "Illusion of Gaia",
-      "rank": 30
-    },
-    {
-      "name": "terranigma",
-      "originalName": "Terranigma",
-      "rank": 31
-    },
-    {
-      "name": "soul blazer",
-      "originalName": "Soul Blazer",
-      "rank": 32
-    },
-    {
-      "name": "lufia ii rise of the sinistrals",
-      "originalName": "Lufia II: Rise of the Sinistrals",
-      "rank": 33
-    },
-    {
-      "name": "lufia and the fortress of doom",
-      "originalName": "Lufia & the Fortress of Doom",
-      "rank": 34
-    },
-    {
-      "name": "breath of fire ii",
-      "originalName": "Breath of Fire II",
-      "rank": 35
-    },
-    {
-      "name": "breath of fire",
-      "originalName": "Breath of Fire",
-      "rank": 36
-    },
+    { "name": "harvest moon", "originalName": "Harvest Moon", "rank": 29 },
+    { "name": "illusion of gaia", "originalName": "Illusion of Gaia", "rank": 30 },
+    { "name": "terranigma", "originalName": "Terranigma", "rank": 31 },
+    { "name": "soul blazer", "originalName": "Soul Blazer", "rank": 32 },
+    { "name": "lufia ii rise of the sinistrals", "originalName": "Lufia II: Rise of the Sinistrals", "rank": 33 },
+    { "name": "lufia and the fortress of doom", "originalName": "Lufia & the Fortress of Doom", "rank": 34 },
+    { "name": "breath of fire ii", "originalName": "Breath of Fire II", "rank": 35 },
+    { "name": "breath of fire", "originalName": "Breath of Fire", "rank": 36 },
     {
       "name": "ogre battle the march of the black queen",
       "originalName": "Ogre Battle: The March of the Black Queen",
       "rank": 37
     },
-    {
-      "name": "tactics ogre let us cling together",
-      "originalName": "Tactics Ogre: Let Us Cling Together",
-      "rank": 38
-    },
+    { "name": "tactics ogre let us cling together", "originalName": "Tactics Ogre: Let Us Cling Together", "rank": 38 },
     {
       "name": "fire emblem genealogy of the holy war",
       "originalName": "Fire Emblem: Genealogy of the Holy War",
       "rank": 39
     },
-    {
-      "name": "fire emblem thracia 776",
-      "originalName": "Fire Emblem: Thracia 776",
-      "rank": 40
-    },
-    {
-      "name": "fire emblem mystery of the emblem",
-      "originalName": "Fire Emblem: Mystery of the Emblem",
-      "rank": 41
-    },
-    {
-      "name": "front mission",
-      "originalName": "Front Mission",
-      "rank": 42
-    },
-    {
-      "name": "bahamut lagoon",
-      "originalName": "Bahamut Lagoon",
-      "rank": 43
-    },
-    {
-      "name": "live a live",
-      "originalName": "Live A Live",
-      "rank": 44
-    },
-    {
-      "name": "treasure of the rudras",
-      "originalName": "Treasure of the Rudras",
-      "rank": 45
-    },
-    {
-      "name": "seiken densetsu 3",
-      "originalName": "Seiken Densetsu 3",
-      "rank": 46
-    },
-    {
-      "name": "star ocean",
-      "originalName": "Star Ocean",
-      "rank": 47
-    },
-    {
-      "name": "tales of phantasia",
-      "originalName": "Tales of Phantasia",
-      "rank": 48
-    },
+    { "name": "fire emblem thracia 776", "originalName": "Fire Emblem: Thracia 776", "rank": 40 },
+    { "name": "fire emblem mystery of the emblem", "originalName": "Fire Emblem: Mystery of the Emblem", "rank": 41 },
+    { "name": "front mission", "originalName": "Front Mission", "rank": 42 },
+    { "name": "bahamut lagoon", "originalName": "Bahamut Lagoon", "rank": 43 },
+    { "name": "live a live", "originalName": "Live A Live", "rank": 44 },
+    { "name": "treasure of the rudras", "originalName": "Treasure of the Rudras", "rank": 45 },
+    { "name": "seiken densetsu 3", "originalName": "Seiken Densetsu 3", "rank": 46 },
+    { "name": "star ocean", "originalName": "Star Ocean", "rank": 47 },
+    { "name": "tales of phantasia", "originalName": "Tales of Phantasia", "rank": 48 },
     {
       "name": "dragon quest v hand of the heavenly bride",
       "originalName": "Dragon Quest V: Hand of the Heavenly Bride",
@@ -4268,166 +1180,38 @@
       "originalName": "Dragon Quest VI: Realms of Revelation",
       "rank": 50
     },
-    {
-      "name": "dragon quest iii",
-      "originalName": "Dragon Quest III",
-      "rank": 51
-    },
-    {
-      "name": "final fantasy v",
-      "originalName": "Final Fantasy V",
-      "rank": 52
-    },
-    {
-      "name": "romancing saga 3",
-      "originalName": "Romancing SaGa 3",
-      "rank": 53
-    },
-    {
-      "name": "romancing saga 2",
-      "originalName": "Romancing SaGa 2",
-      "rank": 54
-    },
-    {
-      "name": "shin megami tensei",
-      "originalName": "Shin Megami Tensei",
-      "rank": 55
-    },
-    {
-      "name": "shin megami tensei ii",
-      "originalName": "Shin Megami Tensei II",
-      "rank": 56
-    },
-    {
-      "name": "shin megami tensei if",
-      "originalName": "Shin Megami Tensei if...",
-      "rank": 57
-    },
-    {
-      "name": "super ghouls n ghosts",
-      "originalName": "Super Ghouls 'n Ghosts",
-      "rank": 58
-    },
-    {
-      "name": "axelay",
-      "originalName": "Axelay",
-      "rank": 59
-    },
-    {
-      "name": "gradius iii",
-      "originalName": "Gradius III",
-      "rank": 60
-    },
-    {
-      "name": "r type iii the third lightning",
-      "originalName": "R-Type III: The Third Lightning",
-      "rank": 61
-    },
-    {
-      "name": "space megaforce",
-      "originalName": "Space Megaforce",
-      "rank": 62
-    },
-    {
-      "name": "un squadron",
-      "originalName": "U.N. Squadron",
-      "rank": 63
-    },
-    {
-      "name": "pocky and rocky",
-      "originalName": "Pocky & Rocky",
-      "rank": 64
-    },
-    {
-      "name": "pocky and rocky 2",
-      "originalName": "Pocky & Rocky 2",
-      "rank": 65
-    },
-    {
-      "name": "wild guns",
-      "originalName": "Wild Guns",
-      "rank": 66
-    },
-    {
-      "name": "sunset riders",
-      "originalName": "Sunset Riders",
-      "rank": 67
-    },
-    {
-      "name": "the legend of the mystical ninja",
-      "originalName": "The Legend of the Mystical Ninja",
-      "rank": 68
-    },
-    {
-      "name": "goemon 2",
-      "originalName": "Goemon 2",
-      "rank": 69
-    },
-    {
-      "name": "goemon 3",
-      "originalName": "Goemon 3",
-      "rank": 70
-    },
-    {
-      "name": "super bomberman 2",
-      "originalName": "Super Bomberman 2",
-      "rank": 71
-    },
-    {
-      "name": "super bomberman",
-      "originalName": "Super Bomberman",
-      "rank": 72
-    },
-    {
-      "name": "zombies ate my neighbors",
-      "originalName": "Zombies Ate My Neighbors",
-      "rank": 73
-    },
-    {
-      "name": "secret of evermore",
-      "originalName": "Secret of Evermore",
-      "rank": 74
-    },
-    {
-      "name": "shadowrun",
-      "originalName": "Shadowrun",
-      "rank": 75
-    },
-    {
-      "name": "demons crest",
-      "originalName": "Demon's Crest",
-      "rank": 76
-    },
-    {
-      "name": "mega man 7",
-      "originalName": "Mega Man 7",
-      "rank": 77
-    },
-    {
-      "name": "sparkster",
-      "originalName": "Sparkster",
-      "rank": 78
-    },
-    {
-      "name": "hagane the final conflict",
-      "originalName": "Hagane: The Final Conflict",
-      "rank": 79
-    },
-    {
-      "name": "umihara kawase",
-      "originalName": "Umihara Kawase",
-      "rank": 80
-    },
-    {
-      "name": "nba jam tournament edition",
-      "originalName": "NBA Jam: Tournament Edition",
-      "rank": 81
-    },
-    {
-      "name": "madden nfl 94",
-      "originalName": "Madden NFL '94",
-      "rank": 82
-    },
+    { "name": "dragon quest iii", "originalName": "Dragon Quest III", "rank": 51 },
+    { "name": "final fantasy v", "originalName": "Final Fantasy V", "rank": 52 },
+    { "name": "romancing saga 3", "originalName": "Romancing SaGa 3", "rank": 53 },
+    { "name": "romancing saga 2", "originalName": "Romancing SaGa 2", "rank": 54 },
+    { "name": "shin megami tensei", "originalName": "Shin Megami Tensei", "rank": 55 },
+    { "name": "shin megami tensei ii", "originalName": "Shin Megami Tensei II", "rank": 56 },
+    { "name": "shin megami tensei if", "originalName": "Shin Megami Tensei if...", "rank": 57 },
+    { "name": "super ghouls n ghosts", "originalName": "Super Ghouls 'n Ghosts", "rank": 58 },
+    { "name": "axelay", "originalName": "Axelay", "rank": 59 },
+    { "name": "gradius iii", "originalName": "Gradius III", "rank": 60 },
+    { "name": "r type iii the third lightning", "originalName": "R-Type III: The Third Lightning", "rank": 61 },
+    { "name": "space megaforce", "originalName": "Space Megaforce", "rank": 62 },
+    { "name": "un squadron", "originalName": "U.N. Squadron", "rank": 63 },
+    { "name": "pocky and rocky", "originalName": "Pocky & Rocky", "rank": 64 },
+    { "name": "pocky and rocky 2", "originalName": "Pocky & Rocky 2", "rank": 65 },
+    { "name": "wild guns", "originalName": "Wild Guns", "rank": 66 },
+    { "name": "sunset riders", "originalName": "Sunset Riders", "rank": 67 },
+    { "name": "the legend of the mystical ninja", "originalName": "The Legend of the Mystical Ninja", "rank": 68 },
+    { "name": "goemon 2", "originalName": "Goemon 2", "rank": 69 },
+    { "name": "goemon 3", "originalName": "Goemon 3", "rank": 70 },
+    { "name": "super bomberman 2", "originalName": "Super Bomberman 2", "rank": 71 },
+    { "name": "super bomberman", "originalName": "Super Bomberman", "rank": 72 },
+    { "name": "zombies ate my neighbors", "originalName": "Zombies Ate My Neighbors", "rank": 73 },
+    { "name": "secret of evermore", "originalName": "Secret of Evermore", "rank": 74 },
+    { "name": "shadowrun", "originalName": "Shadowrun", "rank": 75 },
+    { "name": "demons crest", "originalName": "Demon's Crest", "rank": 76 },
+    { "name": "mega man 7", "originalName": "Mega Man 7", "rank": 77 },
+    { "name": "sparkster", "originalName": "Sparkster", "rank": 78 },
+    { "name": "hagane the final conflict", "originalName": "Hagane: The Final Conflict", "rank": 79 },
+    { "name": "umihara kawase", "originalName": "Umihara Kawase", "rank": 80 },
+    { "name": "nba jam tournament edition", "originalName": "NBA Jam: Tournament Edition", "rank": 81 },
+    { "name": "madden nfl 94", "originalName": "Madden NFL '94", "rank": 82 },
     {
       "name": "ken griffey jr presents major league baseball",
       "originalName": "Ken Griffey Jr. Presents Major League Baseball",
@@ -4438,587 +1222,131 @@
       "originalName": "International Superstar Soccer Deluxe",
       "rank": 84
     },
-    {
-      "name": "super tennis",
-      "originalName": "Super Tennis",
-      "rank": 85
-    },
-    {
-      "name": "simcity",
-      "originalName": "SimCity",
-      "rank": 86
-    },
-    {
-      "name": "pilotwings",
-      "originalName": "Pilotwings",
-      "rank": 87
-    },
-    {
-      "name": "super star wars",
-      "originalName": "Super Star Wars",
-      "rank": 88
-    },
+    { "name": "super tennis", "originalName": "Super Tennis", "rank": 85 },
+    { "name": "simcity", "originalName": "SimCity", "rank": 86 },
+    { "name": "pilotwings", "originalName": "Pilotwings", "rank": 87 },
+    { "name": "super star wars", "originalName": "Super Star Wars", "rank": 88 },
     {
       "name": "super star wars the empire strikes back",
       "originalName": "Super Star Wars: The Empire Strikes Back",
       "rank": 89
     },
-    {
-      "name": "super star wars return of the jedi",
-      "originalName": "Super Star Wars: Return of the Jedi",
-      "rank": 90
-    },
-    {
-      "name": "batman returns",
-      "originalName": "Batman Returns",
-      "rank": 91
-    },
-    {
-      "name": "aladdin",
-      "originalName": "Aladdin",
-      "rank": 92
-    },
+    { "name": "super star wars return of the jedi", "originalName": "Super Star Wars: Return of the Jedi", "rank": 90 },
+    { "name": "batman returns", "originalName": "Batman Returns", "rank": 91 },
+    { "name": "aladdin", "originalName": "Aladdin", "rank": 92 },
     {
       "name": "the magical quest starring mickey mouse",
       "originalName": "The Magical Quest Starring Mickey Mouse",
       "rank": 93
     },
-    {
-      "name": "super double dragon",
-      "originalName": "Super Double Dragon",
-      "rank": 94
-    },
-    {
-      "name": "final fight 3",
-      "originalName": "Final Fight 3",
-      "rank": 95
-    },
-    {
-      "name": "final fight 2",
-      "originalName": "Final Fight 2",
-      "rank": 96
-    },
-    {
-      "name": "gundam wing endless duel",
-      "originalName": "Gundam Wing: Endless Duel",
-      "rank": 97
-    },
-    {
-      "name": "dragon ball z hyper dimension",
-      "originalName": "Dragon Ball Z: Hyper Dimension",
-      "rank": 98
-    },
-    {
-      "name": "clock tower",
-      "originalName": "Clock Tower",
-      "rank": 99
-    },
-    {
-      "name": "rendering ranger r2",
-      "originalName": "Rendering Ranger R2",
-      "rank": 100
-    }
+    { "name": "super double dragon", "originalName": "Super Double Dragon", "rank": 94 },
+    { "name": "final fight 3", "originalName": "Final Fight 3", "rank": 95 },
+    { "name": "final fight 2", "originalName": "Final Fight 2", "rank": 96 },
+    { "name": "gundam wing endless duel", "originalName": "Gundam Wing: Endless Duel", "rank": 97 },
+    { "name": "dragon ball z hyper dimension", "originalName": "Dragon Ball Z: Hyper Dimension", "rank": 98 },
+    { "name": "clock tower", "originalName": "Clock Tower", "rank": 99 },
+    { "name": "rendering ranger r2", "originalName": "Rendering Ranger R2", "rank": 100 }
   ],
   "ps1": [
-    {
-      "name": "ace combat 2",
-      "originalName": "Ace Combat 2",
-      "rank": 1
-    },
-    {
-      "name": "alundra",
-      "originalName": "Alundra",
-      "rank": 2
-    },
-    {
-      "name": "ape escape",
-      "originalName": "Ape Escape",
-      "rank": 3
-    },
-    {
-      "name": "blood omen legacy of kain",
-      "originalName": "Blood Omen: Legacy of Kain",
-      "rank": 4
-    },
-    {
-      "name": "brave fencer musashi",
-      "originalName": "Brave Fencer Musashi",
-      "rank": 5
-    },
-    {
-      "name": "breath of fire iii",
-      "originalName": "Breath of Fire III",
-      "rank": 6
-    },
-    {
-      "name": "breath of fire iv",
-      "originalName": "Breath of Fire IV",
-      "rank": 7
-    },
-    {
-      "name": "bushido blade",
-      "originalName": "Bushido Blade",
-      "rank": 8
-    },
-    {
-      "name": "castlevania symphony of the night",
-      "originalName": "Castlevania: Symphony of the Night",
-      "rank": 9
-    },
-    {
-      "name": "chocobo racing",
-      "originalName": "Chocobo Racing",
-      "rank": 10
-    },
-    {
-      "name": "chrono cross",
-      "originalName": "Chrono Cross",
-      "rank": 11
-    },
-    {
-      "name": "colony wars",
-      "originalName": "Colony Wars",
-      "rank": 12
-    },
-    {
-      "name": "cool boarders 2",
-      "originalName": "Cool Boarders 2",
-      "rank": 13
-    },
-    {
-      "name": "crash bandicoot",
-      "originalName": "Crash Bandicoot",
-      "rank": 14
-    },
-    {
-      "name": "crash bandicoot 2 cortex strikes back",
-      "originalName": "Crash Bandicoot 2: Cortex Strikes Back",
-      "rank": 15
-    },
-    {
-      "name": "crash bandicoot warped",
-      "originalName": "Crash Bandicoot: Warped",
-      "rank": 16
-    },
-    {
-      "name": "crash team racing",
-      "originalName": "Crash Team Racing",
-      "rank": 17
-    },
-    {
-      "name": "destruction derby 2",
-      "originalName": "Destruction Derby 2",
-      "rank": 18
-    },
-    {
-      "name": "dino crisis",
-      "originalName": "Dino Crisis",
-      "rank": 19
-    },
-    {
-      "name": "dino crisis 2",
-      "originalName": "Dino Crisis 2",
-      "rank": 20
-    },
-    {
-      "name": "doom",
-      "originalName": "Doom",
-      "rank": 21
-    },
-    {
-      "name": "driver",
-      "originalName": "Driver",
-      "rank": 22
-    },
-    {
-      "name": "einhander",
-      "originalName": "Einhander",
-      "rank": 23
-    },
-    {
-      "name": "fear effect",
-      "originalName": "Fear Effect",
-      "rank": 24
-    },
-    {
-      "name": "final fantasy ix",
-      "originalName": "Final Fantasy IX",
-      "rank": 25
-    },
-    {
-      "name": "final fantasy tactics",
-      "originalName": "Final Fantasy Tactics",
-      "rank": 26
-    },
-    {
-      "name": "final fantasy vii",
-      "originalName": "Final Fantasy VII",
-      "rank": 27
-    },
-    {
-      "name": "final fantasy viii",
-      "originalName": "Final Fantasy VIII",
-      "rank": 28
-    },
-    {
-      "name": "front mission 3",
-      "originalName": "Front Mission 3",
-      "rank": 29
-    },
-    {
-      "name": "gran turismo",
-      "originalName": "Gran Turismo",
-      "rank": 30
-    },
-    {
-      "name": "gran turismo 2",
-      "originalName": "Gran Turismo 2",
-      "rank": 31
-    },
-    {
-      "name": "grand theft auto 2",
-      "originalName": "Grand Theft Auto 2",
-      "rank": 32
-    },
-    {
-      "name": "harvest moon back to nature",
-      "originalName": "Harvest Moon: Back to Nature",
-      "rank": 33
-    },
-    {
-      "name": "hot shots golf 2",
-      "originalName": "Hot Shots Golf 2",
-      "rank": 34
-    },
-    {
-      "name": "intelligent qube",
-      "originalName": "Intelligent Qube",
-      "rank": 35
-    },
-    {
-      "name": "jet moto 2",
-      "originalName": "Jet Moto 2",
-      "rank": 36
-    },
-    {
-      "name": "klonoa door to phantomile",
-      "originalName": "Klonoa: Door to Phantomile",
-      "rank": 37
-    },
-    {
-      "name": "legacy of kain soul reaver",
-      "originalName": "Legacy of Kain: Soul Reaver",
-      "rank": 38
-    },
-    {
-      "name": "legend of mana",
-      "originalName": "Legend of Mana",
-      "rank": 39
-    },
-    {
-      "name": "lunar 2 eternal blue complete",
-      "originalName": "Lunar 2: Eternal Blue Complete",
-      "rank": 40
-    },
-    {
-      "name": "lunar silver star story complete",
-      "originalName": "Lunar: Silver Star Story Complete",
-      "rank": 41
-    },
-    {
-      "name": "marvel vs capcom clash of super heroes",
-      "originalName": "Marvel vs. Capcom: Clash of Super Heroes",
-      "rank": 42
-    },
-    {
-      "name": "medal of honor",
-      "originalName": "Medal of Honor",
-      "rank": 43
-    },
-    {
-      "name": "medal of honor underground",
-      "originalName": "Medal of Honor: Underground",
-      "rank": 44
-    },
-    {
-      "name": "mega man legends",
-      "originalName": "Mega Man Legends",
-      "rank": 45
-    },
-    {
-      "name": "mega man x5",
-      "originalName": "Mega Man X5",
-      "rank": 46
-    },
-    {
-      "name": "metal gear solid",
-      "originalName": "Metal Gear Solid",
-      "rank": 47
-    },
-    {
-      "name": "metal slug x",
-      "originalName": "Metal Slug X",
-      "rank": 48
-    },
-    {
-      "name": "monster rancher 2",
-      "originalName": "Monster Rancher 2",
-      "rank": 49
-    },
-    {
-      "name": "oddworld abes exoddus",
-      "originalName": "Oddworld: Abe's Exoddus",
-      "rank": 50
-    },
-    {
-      "name": "oddworld abes oddysee",
-      "originalName": "Oddworld: Abe's Oddysee",
-      "rank": 51
-    },
-    {
-      "name": "omega boost",
-      "originalName": "Omega Boost",
-      "rank": 52
-    },
-    {
-      "name": "parappa the rapper",
-      "originalName": "PaRappa the Rapper",
-      "rank": 53
-    },
-    {
-      "name": "pac man world",
-      "originalName": "Pac-Man World",
-      "rank": 54
-    },
-    {
-      "name": "parasite eve",
-      "originalName": "Parasite Eve",
-      "rank": 55
-    },
-    {
-      "name": "parasite eve ii",
-      "originalName": "Parasite Eve II",
-      "rank": 56
-    },
-    {
-      "name": "persona 2 eternal punishment",
-      "originalName": "Persona 2: Eternal Punishment",
-      "rank": 57
-    },
-    {
-      "name": "r type delta",
-      "originalName": "R-Type Delta",
-      "rank": 58
-    },
-    {
-      "name": "rayman",
-      "originalName": "Rayman",
-      "rank": 59
-    },
-    {
-      "name": "resident evil",
-      "originalName": "Resident Evil",
-      "rank": 60
-    },
-    {
-      "name": "resident evil 2",
-      "originalName": "Resident Evil 2",
-      "rank": 61
-    },
-    {
-      "name": "resident evil 3 nemesis",
-      "originalName": "Resident Evil 3: Nemesis",
-      "rank": 62
-    },
-    {
-      "name": "ridge racer type 4",
-      "originalName": "Ridge Racer Type 4",
-      "rank": 63
-    },
-    {
-      "name": "saga frontier",
-      "originalName": "SaGa Frontier",
-      "rank": 64
-    },
-    {
-      "name": "silent hill",
-      "originalName": "Silent Hill",
-      "rank": 65
-    },
-    {
-      "name": "spider man",
-      "originalName": "Spider-Man",
-      "rank": 66
-    },
-    {
-      "name": "spyro 2 riptos rage",
-      "originalName": "Spyro 2: Ripto's Rage!",
-      "rank": 67
-    },
-    {
-      "name": "spyro the dragon",
-      "originalName": "Spyro the Dragon",
-      "rank": 68
-    },
-    {
-      "name": "spyro year of the dragon",
-      "originalName": "Spyro: Year of the Dragon",
-      "rank": 69
-    },
-    {
-      "name": "star ocean the second story",
-      "originalName": "Star Ocean: The Second Story",
-      "rank": 70
-    },
-    {
-      "name": "street fighter alpha 3",
-      "originalName": "Street Fighter Alpha 3",
-      "rank": 71
-    },
-    {
-      "name": "suikoden",
-      "originalName": "Suikoden",
-      "rank": 72
-    },
-    {
-      "name": "suikoden ii",
-      "originalName": "Suikoden II",
-      "rank": 73
-    },
-    {
-      "name": "syphon filter",
-      "originalName": "Syphon Filter",
-      "rank": 74
-    },
-    {
-      "name": "syphon filter 2",
-      "originalName": "Syphon Filter 2",
-      "rank": 75
-    },
-    {
-      "name": "tekken 3",
-      "originalName": "Tekken 3",
-      "rank": 76
-    },
-    {
-      "name": "tenchu stealth assassins",
-      "originalName": "Tenchu: Stealth Assassins",
-      "rank": 77
-    },
-    {
-      "name": "the legend of dragoon",
-      "originalName": "The Legend of Dragoon",
-      "rank": 78
-    },
-    {
-      "name": "theme hospital",
-      "originalName": "Theme Hospital",
-      "rank": 79
-    },
-    {
-      "name": "threads of fate",
-      "originalName": "Threads of Fate",
-      "rank": 80
-    },
-    {
-      "name": "time crisis",
-      "originalName": "Time Crisis",
-      "rank": 81
-    },
-    {
-      "name": "tomb raider",
-      "originalName": "Tomb Raider",
-      "rank": 82
-    },
-    {
-      "name": "tomb raider ii",
-      "originalName": "Tomb Raider II",
-      "rank": 83
-    },
-    {
-      "name": "tomb raider iii",
-      "originalName": "Tomb Raider III",
-      "rank": 84
-    },
-    {
-      "name": "tomba",
-      "originalName": "Tomba!",
-      "rank": 85
-    },
-    {
-      "name": "tony hawks pro skater",
-      "originalName": "Tony Hawk's Pro Skater",
-      "rank": 86
-    },
-    {
-      "name": "tony hawks pro skater 2",
-      "originalName": "Tony Hawk's Pro Skater 2",
-      "rank": 87
-    },
-    {
-      "name": "twisted metal",
-      "originalName": "Twisted Metal",
-      "rank": 88
-    },
-    {
-      "name": "twisted metal 2",
-      "originalName": "Twisted Metal 2",
-      "rank": 89
-    },
-    {
-      "name": "um jammer lammy",
-      "originalName": "Um Jammer Lammy",
-      "rank": 90
-    },
-    {
-      "name": "vagrant story",
-      "originalName": "Vagrant Story",
-      "rank": 91
-    },
-    {
-      "name": "valkyrie profile",
-      "originalName": "Valkyrie Profile",
-      "rank": 92
-    },
-    {
-      "name": "vandal hearts",
-      "originalName": "Vandal Hearts",
-      "rank": 93
-    },
-    {
-      "name": "wwf smackdown 2 know your role",
-      "originalName": "WWF SmackDown! 2: Know Your Role",
-      "rank": 94
-    },
-    {
-      "name": "wild arms",
-      "originalName": "Wild Arms",
-      "rank": 95
-    },
-    {
-      "name": "wipeout xl",
-      "originalName": "WipEout XL",
-      "rank": 96
-    },
-    {
-      "name": "wipeout 3",
-      "originalName": "Wipeout 3",
-      "rank": 97
-    },
-    {
-      "name": "worms armageddon",
-      "originalName": "Worms Armageddon",
-      "rank": 98
-    },
-    {
-      "name": "x men vs street fighter",
-      "originalName": "X-Men vs. Street Fighter",
-      "rank": 99
-    },
-    {
-      "name": "xenogears",
-      "originalName": "Xenogears",
-      "rank": 100
-    }
+    { "name": "metal gear solid", "originalName": "Metal Gear Solid", "rank": 1 },
+    { "name": "gran turismo 2", "originalName": "Gran Turismo 2", "rank": 2 },
+    { "name": "final fantasy vii", "originalName": "Final Fantasy VII", "rank": 3 },
+    { "name": "tekken 3", "originalName": "Tekken 3", "rank": 4 },
+    { "name": "castlevania symphony of the night", "originalName": "Castlevania: Symphony of the Night", "rank": 5 },
+    { "name": "xenogears", "originalName": "Xenogears", "rank": 6 },
+    { "name": "soul reaver", "originalName": "Soul Reaver", "rank": 7 },
+    { "name": "ridge racer type 4", "originalName": "Ridge Racer Type 4", "rank": 8 },
+    { "name": "ape escape", "originalName": "Ape Escape", "rank": 9 },
+    { "name": "civilisation 2", "originalName": "Civilisation 2", "rank": 10 },
+    { "name": "final fantasy viii", "originalName": "Final Fantasy VIII", "rank": 11 },
+    { "name": "resident evil 2", "originalName": "Resident Evil 2", "rank": 12 },
+    { "name": "driver", "originalName": "Driver", "rank": 13 },
+    { "name": "chrono cross", "originalName": "Chrono Cross", "rank": 14 },
+    { "name": "crash bandicoot warped", "originalName": "Crash Bandicoot: Warped", "rank": 15 },
+    { "name": "final fantasy ix", "originalName": "Final Fantasy IX", "rank": 16 },
+    { "name": "tony hawks pro skater 2", "originalName": "Tony Hawk's Pro Skater 2", "rank": 17 },
+    { "name": "grand theft auto 2", "originalName": "Grand Theft Auto 2", "rank": 18 },
+    { "name": "street fighter alpha 3", "originalName": "Street Fighter Alpha 3", "rank": 19 },
+    { "name": "medal of honor underground", "originalName": "Medal of Honor: Underground", "rank": 20 },
+    { "name": "vagrant story", "originalName": "Vagrant Story", "rank": 21 },
+    { "name": "command and conquer red alert", "originalName": "Command & Conquer: Red Alert", "rank": 22 },
+    { "name": "silent hill", "originalName": "Silent Hill", "rank": 23 },
+    { "name": "wipeout 3", "originalName": "Wipeout 3", "rank": 24 },
+    { "name": "spyro year of the dragon", "originalName": "Spyro: Year of the Dragon", "rank": 25 },
+    { "name": "front mission 3", "originalName": "Front Mission 3", "rank": 26 },
+    { "name": "crash team racing", "originalName": "Crash Team Racing", "rank": 27 },
+    { "name": "kurushi final", "originalName": "Kurushi Final", "rank": 28 },
+    { "name": "grandia", "originalName": "Grandia", "rank": 29 },
+    { "name": "quake ii", "originalName": "Quake II", "rank": 30 },
+    { "name": "colin mcrae rally 20", "originalName": "Colin McRae Rally 2.0", "rank": 31 },
+    { "name": "final fantasy tactics", "originalName": "Final Fantasy Tactics", "rank": 32 },
+    { "name": "tobal 2", "originalName": "Tobal 2", "rank": 33 },
+    { "name": "super puzzle fighter ii", "originalName": "Super Puzzle Fighter II", "rank": 34 },
+    { "name": "threads of fate", "originalName": "Threads of Fate", "rank": 35 },
+    { "name": "syphon filter 2", "originalName": "Syphon Filter 2", "rank": 36 },
+    { "name": "r type delta", "originalName": "R-Type Delta", "rank": 37 },
+    { "name": "time crisis", "originalName": "Time Crisis", "rank": 38 },
+    { "name": "rayman 2", "originalName": "Rayman 2", "rank": 39 },
+    { "name": "darkstalkers 3", "originalName": "Darkstalkers 3", "rank": 40 },
+    { "name": "tomb raider the last revelation", "originalName": "Tomb Raider: The Last Revelation", "rank": 41 },
+    { "name": "valkyrie profile", "originalName": "Valkyrie Profile", "rank": 42 },
+    { "name": "dodonpachi", "originalName": "DoDonPachi", "rank": 43 },
+    { "name": "dino crisis 2", "originalName": "Dino Crisis 2", "rank": 44 },
+    { "name": "silent bomber", "originalName": "Silent Bomber", "rank": 45 },
+    { "name": "persona 2 eternal punishment", "originalName": "Persona 2: Eternal Punishment", "rank": 46 },
+    { "name": "mega man x4", "originalName": "Mega Man X4", "rank": 47 },
+    { "name": "devil dice", "originalName": "Devil Dice", "rank": 48 },
+    { "name": "rival schools", "originalName": "Rival Schools", "rank": 49 },
+    { "name": "einhander", "originalName": "Einhander", "rank": 50 },
+    { "name": "x com terror from the deep", "originalName": "X-Com: Terror from the Deep", "rank": 51 },
+    { "name": "colony wars vengeance", "originalName": "Colony Wars: Vengeance", "rank": 52 },
+    { "name": "soul blade", "originalName": "Soul Blade", "rank": 53 },
+    { "name": "spider man", "originalName": "Spider-Man", "rank": 54 },
+    { "name": "toca touring cars", "originalName": "TOCA Touring Cars", "rank": 55 },
+    { "name": "exhumed", "originalName": "Exhumed", "rank": 56 },
+    { "name": "tenchu 2", "originalName": "Tenchu 2", "rank": 57 },
+    { "name": "dead or alive", "originalName": "Dead or Alive", "rank": 58 },
+    { "name": "tomba 2", "originalName": "Tomba 2", "rank": 59 },
+    { "name": "suikoden ii", "originalName": "Suikoden II", "rank": 60 },
+    { "name": "warcraft ii dark saga", "originalName": "Warcraft II: Dark Saga", "rank": 61 },
+    { "name": "parappa the rapper", "originalName": "PaRappa the Rapper", "rank": 62 },
+    { "name": "abes exodus", "originalName": "Abe's Exodus", "rank": 63 },
+    { "name": "fear effect 2", "originalName": "Fear Effect 2", "rank": 64 },
+    { "name": "future cop lapd", "originalName": "Future Cop: LAPD", "rank": 65 },
+    { "name": "g darius", "originalName": "G-Darius", "rank": 66 },
+    { "name": "point blank", "originalName": "Point Blank", "rank": 67 },
+    { "name": "klonoa", "originalName": "Klonoa", "rank": 68 },
+    { "name": "gradius gaiden", "originalName": "Gradius Gaiden", "rank": 69 },
+    { "name": "iss pro evolution", "originalName": "ISS Pro Evolution", "rank": 70 },
+    { "name": "mdk", "originalName": "MDK", "rank": 71 },
+    { "name": "micro machines v3", "originalName": "Micro Machines V3", "rank": 72 },
+    { "name": "mr driller", "originalName": "Mr. Driller", "rank": 73 },
+    { "name": "vigilante 8 2nd offense", "originalName": "Vigilante 8: 2nd Offense", "rank": 74 },
+    { "name": "breath of fire iv", "originalName": "Breath of Fire IV", "rank": 75 },
+    { "name": "smash court tennis", "originalName": "Smash Court Tennis", "rank": 76 },
+    { "name": "raycrisis", "originalName": "RayCrisis", "rank": 77 },
+    { "name": "star ocean the second story", "originalName": "Star Ocean: The Second Story", "rank": 78 },
+    { "name": "rollcage stage 2", "originalName": "Rollcage Stage 2", "rank": 79 },
+    { "name": "alundra", "originalName": "Alundra", "rank": 80 },
+    { "name": "doom", "originalName": "Doom", "rank": 81 },
+    { "name": "need for speed hot pursuit", "originalName": "Need for Speed: Hot Pursuit", "rank": 82 },
+    { "name": "worms armageddon", "originalName": "Worms Armageddon", "rank": 83 },
+    { "name": "silhouette mirage", "originalName": "Silhouette Mirage", "rank": 84 },
+    { "name": "real bout dominated mind", "originalName": "Real Bout Dominated Mind", "rank": 85 },
+    { "name": "nhl 2000", "originalName": "NHL 2000", "rank": 86 },
+    { "name": "speed freaks", "originalName": "Speed Freaks", "rank": 87 },
+    { "name": "team buddies", "originalName": "Team Buddies", "rank": 88 },
+    { "name": "bloody roar 2", "originalName": "Bloody Roar 2", "rank": 89 },
+    { "name": "jet moto 3", "originalName": "Jet Moto 3", "rank": 90 },
+    { "name": "syndicate wars", "originalName": "Syndicate Wars", "rank": 91 },
+    { "name": "wild 9", "originalName": "Wild 9", "rank": 92 },
+    { "name": "roll away", "originalName": "Roll Away", "rank": 93 },
+    { "name": "return fire", "originalName": "Return Fire", "rank": 94 },
+    { "name": "madden nfl 2000", "originalName": "Madden NFL 2000", "rank": 95 },
+    { "name": "no one can stop mr domino", "originalName": "No One Can Stop Mr. Domino", "rank": 96 },
+    { "name": "vanark", "originalName": "Vanark", "rank": 97 },
+    { "name": "gex", "originalName": "Gex", "rank": 98 },
+    { "name": "disruptor", "originalName": "Disruptor", "rank": 99 },
+    { "name": "ballistic", "originalName": "Ballistic", "rank": 100 }
   ]
 }
