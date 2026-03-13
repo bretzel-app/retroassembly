@@ -1,5 +1,5 @@
 import type { PlatformName } from '#@/constants/platform.ts'
-import data from './data.json'
+import data from './data.json' with { type: 'json' }
 
 export interface Top100Entry {
   name: string
