@@ -330,16 +330,21 @@ const basePlatformMap = {
     },
     libretroName: 'NEC - PC Engine - TurboGrafx 16',
   },
-  ps1: {
-    bioses: [{ md5: '490f666e1afb15b7362b406ed1cea246', name: 'scph5501.bin', required: true }],
+  psx: {
+    bioses: [
+      { md5: '6e3735ff4c7dc899ee98981385f6f3d0', name: 'scph101.bin' },
+      { md5: '1e68c231d0896b7eadcad1d7d8e76129', name: 'scph7001.bin' },
+      { md5: '924e392ed05558ffdb115408c263dccf', name: 'scph1001.bin' },
+      { md5: '490f666e1afb15b7362b406ed1cea246', name: 'scph5501.bin' },
+    ],
     cores: ['pcsx_rearmed'],
     displayName: 'PlayStation',
-    fileExtensions: ['.bin', '.cue', '.img', '.mdf', '.pbp', '.toc', '.cbn', '.m3u', '.ccd', '.chd', '.zip'],
+    fileExtensions: ['.chd'],
     info: {
       developer: 'Sony Computer Entertainment',
-      manufacturer: 'Sony Corporation',
-      notesI18nKey: 'platform_ps1_note',
-      releaseDate: '1994-12-03T00:00:00+09:00',
+      manufacturer: 'Sony Computer Entertainment',
+      notesI18nKey: 'platform_psx_note',
+      releaseDate: '1994-12-03T00:00:00-08:00',
     },
     libretroName: 'Sony - PlayStation',
   },
