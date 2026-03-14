@@ -1247,7 +1247,7 @@
     { "name": "clock tower", "originalName": "Clock Tower", "rank": 99 },
     { "name": "rendering ranger r2", "originalName": "Rendering Ranger R2", "rank": 100 }
   ],
-  "ps1": [
+  "psx": [
     { "name": "metal gear solid", "originalName": "Metal Gear Solid", "rank": 1 },
     { "name": "gran turismo 2", "originalName": "Gran Turismo 2", "rank": 2 },
     { "name": "final fantasy vii", "originalName": "Final Fantasy VII", "rank": 3 },

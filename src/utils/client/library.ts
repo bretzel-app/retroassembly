@@ -73,9 +73,7 @@ export function getRomLibretroThumbnail(
   return getLibretroThumbnail({ host, name, platform, type })
 }
 
-const localPlatformAssets: Record<string, { banner?: string; gameIcon?: string; icon?: string }> = {
-  ps1: { gameIcon: '/assets/platforms/contents/ps1.svg', icon: '/assets/platforms/icons/ps1.png' },
-}
+const localPlatformAssets: Record<string, { banner?: string; gameIcon?: string; icon?: string }> = {}
 
 export function getPlatformIcon(platform: string) {
   if (localPlatformAssets[platform]?.icon) {
