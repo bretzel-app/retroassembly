@@ -1,4 +1,4 @@
-import { and, count, countDistinct, desc, eq, inArray, isNotNull, max } from 'drizzle-orm'
+import { and, count, countDistinct, desc, eq, inArray, max } from 'drizzle-orm'
 import { getContext } from 'hono/context-storage'
 import { favoriteTable, launchRecordTable, romTable, statusEnum } from '#@/databases/schema.ts'
 
@@ -13,7 +13,6 @@ export async function getLaunchRecords({ page = 1, pageSize = 100 }: { page?: nu
     eq(launchRecordTable.userId, currentUser.id),
     eq(launchRecordTable.status, 1),
     inArray(launchRecordTable.platform, preference.ui.platforms),
-    isNotNull(romTable.id),
   )
 
   const romsRaw = await library
@@ -49,7 +48,9 @@ export async function getLaunchRecords({ page = 1, pageSize = 100 }: { page?: nu
     .offset(offset)
     .limit(pageSize)
 
-  const roms = romsRaw.map(({ isFavorite, ...rom }) => Object.assign(rom, { isFavorite: Boolean(isFavorite) }))
+  const roms = romsRaw
+    .filter(({ fileName }) => fileName)
+    .map(({ isFavorite, ...rom }) => Object.assign(rom, { isFavorite: Boolean(isFavorite) }))
 
   const [{ total }] = await library
     .select({ total: countDistinct(launchRecordTable.romId) })
