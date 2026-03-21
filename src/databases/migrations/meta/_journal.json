@@ -50,6 +50,13 @@
       "when": 1781540233996,
       "tag": "0006_giant_inhumans",
       "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1783874584889,
+      "tag": "0007_top100_ranking",
+      "breakpoints": true
     }
   ]
 }
