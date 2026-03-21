@@ -4,6 +4,7 @@
 .vite-hooks
 .wrangler
 data
+docs/superpowers
 dist
 inputs
 node_modules
