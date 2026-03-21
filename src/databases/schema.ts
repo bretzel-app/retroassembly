@@ -146,3 +146,18 @@ export const favoriteTable = sqliteTable(
     index('idx_favorites_user_status_created').on(table.userId, table.status, table.createdAt),
   ],
 )
+
+export const top100RankTable = sqliteTable(
+  'top100_ranks',
+  {
+    displayName: text().notNull(),
+    normalizedName: text().notNull(),
+    platform: text().notNull().$type<PlatformName>(),
+    rank: integer().notNull(),
+    ...baseSchema,
+  },
+  (table) => [
+    uniqueIndex('idx_top100_platform_name').on(table.platform, table.normalizedName),
+    index('idx_top100_platform_rank').on(table.platform, table.rank),
+  ],
+)
