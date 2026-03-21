@@ -29,6 +29,26 @@ export function useGamepadMapping() {
   const { preference } = usePreference()
   const { gamepad } = useGamepads()
   const userGamepadMapping = gamepad?.id ? preference.input.gamepadMappings[gamepad.id] : null
-  const gamepadMapping = useMemo(() => userGamepadMapping || { ...defaultGamepadMapping }, [userGamepadMapping])
+  const gamepadMapping = useMemo(() => {
+    const mapping = userGamepadMapping || defaultGamepadMapping
+    const buttonNameMap = {
+      L1: mapping.input_player1_l1_btn,
+      L2: mapping.input_player1_l2_btn,
+      L3: mapping.input_player1_l3_btn,
+      R1: mapping.input_player1_r1_btn,
+      R2: mapping.input_player1_r2_btn,
+      R3: mapping.input_player1_r3_btn,
+      Select: mapping.input_player1_select_btn,
+      Start: mapping.input_player1_start_btn,
+    }
+    const [hotkey, fastForwardKey] = mapping.$fast_forward.split(/\s+\+\s/)
+    const [, rewindKey] = mapping.$rewind.split(/\s+\+\s/)
+    return {
+      ...mapping,
+      input_enable_hotkey_btn: buttonNameMap[hotkey],
+      input_hold_fast_forward_btn: buttonNameMap[fastForwardKey],
+      input_rewind_btn: buttonNameMap[rewindKey],
+    }
+  }, [userGamepadMapping])
   return gamepadMapping
 }

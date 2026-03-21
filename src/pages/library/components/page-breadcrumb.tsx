@@ -1,5 +1,4 @@
 import { Button } from '@radix-ui/themes'
-import { clsx } from 'clsx'
 import { Fragment } from 'react'
 import { useTranslation } from 'react-i18next'
 import { generatePath, useLocation } from 'react-router'
@@ -30,21 +29,21 @@ export function PageBreadcrumb() {
       case routes.libraryRoms:
         links.push({
           icon: <span className='icon-[mdi--bookshelf] size-5 p-0.5' />,
-          text: t('Games'),
+          text: t('common.games'),
           url: generatePath(routes.libraryRoms),
         })
         break
       case routes.libraryFavorites:
         links.push({
           icon: <span className='icon-[mdi--heart] size-5 p-0.5' />,
-          text: t('Favorites'),
+          text: t('nav.favorites'),
           url: generatePath(routes.libraryFavorites),
         })
         break
       case routes.libraryHistory:
         links.push({
           icon: <span className='icon-[mdi--history] size-5 p-0.5' />,
-          text: t('History'),
+          text: t('nav.history'),
           url: generatePath(routes.libraryHistory),
         })
         break
@@ -56,13 +55,13 @@ export function PageBreadcrumb() {
     links.push({
       icon: (
         <img
-          alt={t(platform.displayName)}
-          className={clsx('size-6', { invert: ['ngp', 'wonderswan'].includes(platform.name) })}
+          alt={t(platform.displayNameI18nKey)}
+          className='size-6'
           loading='lazy'
           src={getPlatformIcon(platform.name)}
         />
       ),
-      text: t(platform.displayName),
+      text: t(platform.displayNameI18nKey),
       url: generatePath(isDemo ? routes.demoPlatform : routes.libraryPlatform, { platform: platform.name }),
     })
 
@@ -70,7 +69,7 @@ export function PageBreadcrumb() {
       links.push({
         icon: (
           <img
-            alt={t(platform.displayName)}
+            alt={t(platform.displayNameI18nKey)}
             className='size-5 p-0.5'
             loading='lazy'
             src={getPlatformGameIcon(rom.platform)}

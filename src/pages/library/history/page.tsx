@@ -8,23 +8,23 @@ import { PageStats } from '../components/page-stats.tsx'
 export default function HistoryPage() {
   const { t } = useTranslation()
   const { page, pagination, roms, title } = useLoaderData<typeof loader>()
-  const gameLabel = t('game', { count: pagination.total })
+  const gameLabel = t('common.game', { count: pagination.total })
 
   if (page > 1 && roms.length === 0) {
-    return <>{t('404')}</>
+    return <>{t('error.notFoundCode')}</>
   }
 
   return (
     <LibraryLayout>
       <GameListMain>
-        <h1 className='text-5xl font-semibold text-rose-800/10'>{title}</h1>
+        <h1 className='text-5xl font-semibold'>{title}</h1>
         <PageStats>
           <span className='icon-[mdi--bar-chart] text-(--color-text)' />
           <Trans
             components={{
               1: <span className='font-bold text-(--accent-9)' />,
             }}
-            i18nKey='playedGamesStats'
+            i18nKey='stats.playedGames'
             values={{
               game: gameLabel,
               gameCount: pagination.total,

@@ -26,7 +26,7 @@ export function UploadSelectButton({ variant = 'soft' }: Readonly<{ variant?: Bu
         <DropdownMenu.Trigger>
           <Button variant={variant}>
             <span className='icon-[mdi--upload]' />
-            {t('Add')}
+            {t('common.add')}
             <DropdownMenu.TriggerIcon />
           </Button>
         </DropdownMenu.Trigger>
@@ -38,8 +38,12 @@ export function UploadSelectButton({ variant = 'soft' }: Readonly<{ variant?: Bu
                 handleClick(platform)
               }}
             >
-              <img alt={t(platformMap[platform].displayName)} className='size-6' src={getPlatformIcon(platform)} />
-              {t(platformMap[platform].displayName)}
+              <img
+                alt={t(platformMap[platform].displayNameI18nKey)}
+                className='size-6'
+                src={getPlatformIcon(platform)}
+              />
+              {t(platformMap[platform].displayNameI18nKey)}
             </DropdownMenu.Item>
           ))}
         </DropdownMenu.Content>

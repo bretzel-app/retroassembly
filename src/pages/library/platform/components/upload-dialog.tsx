@@ -110,9 +110,9 @@ export function UploadDialog({ platform, toggleOpen }: Readonly<{ platform: Plat
   function validateFiles(files: File[]) {
     let message = ''
     if (files.length > maxFiles) {
-      message = t('You can only upload up to {{maxFiles}} files at a time.', { maxFiles })
+      message = t('upload.maxFilesLimit', { maxFiles })
     } else if (files.some((file) => !platformMap[platform].fileExtensions.some((ext) => file.name.endsWith(ext)))) {
-      message = `${t('Please only upload files with the following extensions:')}\n${platformMap[platform].fileExtensions.join(', ')}`
+      message = `${t('upload.supportedExtensions')}\n${platformMap[platform].fileExtensions.join(', ')}`
     }
     return message
   }
@@ -130,7 +130,7 @@ export function UploadDialog({ platform, toggleOpen }: Readonly<{ platform: Plat
 
   async function onDrop(files: File[]) {
     if (files.length > maxFiles) {
-      alert(t('You can only upload up to {{maxFiles}} files at a time.', { maxFiles }))
+      alert(t('upload.maxFilesLimit', { maxFiles }))
       return
     }
     const message = validateFiles(files)
@@ -163,9 +163,9 @@ export function UploadDialog({ platform, toggleOpen }: Readonly<{ platform: Plat
       <Dialog.Title>
         {
           {
-            done: t('ROMs uploaded'),
-            initial: t('Select ROMs'),
-            loading: t('Uploading ROMs'),
+            done: t('upload.romsUploaded'),
+            initial: t('game.selectRoms'),
+            loading: t('upload.uploadingRoms'),
           }[status]
         }
       </Dialog.Title>
@@ -184,13 +184,13 @@ export function UploadDialog({ platform, toggleOpen }: Readonly<{ platform: Plat
                 )}
               >
                 {isDragActive ? (
-                  <span className='text-sm text-(--accent-9)'>{t('Drop files here')}</span>
+                  <span className='text-sm text-(--accent-9)'>{t('upload.dropFilesHere')}</span>
                 ) : (
                   <>
-                    <span className='text-sm text-(--accent-9)'>{t('Drag files here or')}</span>
+                    <span className='text-sm text-(--accent-9)'>{t('upload.dragFilesHereOr')}</span>
                     <Button onClick={handleClickSelect} size='2'>
                       <span className='icon-[mdi--folder-open]' />
-                      {t('Select files')}
+                      {t('upload.selectFiles')}
                     </Button>
                   </>
                 )}
@@ -198,13 +198,9 @@ export function UploadDialog({ platform, toggleOpen }: Readonly<{ platform: Plat
 
               {isOfficialHost ? (
                 <div className='mt-4 flex flex-col gap-1 text-xs text-(--accent-9)'>
+                  <p>{t('upload.legalDisclaimer')}</p>
                   <p>
-                    {t(
-                      'Please upload only ROMs you legally own, such as personal backups of games you purchased or homebrew titles. By uploading, you confirm compliance with all applicable laws.',
-                    )}
-                  </p>
-                  <p>
-                    {t('Useful links about dumping ROMs:')}{' '}
+                    {t('home.dumpingRomsLinks')}{' '}
                     <a className='underline' href='https://dumping.guide/' rel='noreferrer noopener' target='_blank'>
                       dumping.guide
                     </a>
@@ -226,7 +222,7 @@ export function UploadDialog({ platform, toggleOpen }: Readonly<{ platform: Plat
                 <Dialog.Close>
                   <Button variant='soft'>
                     <span className='icon-[mdi--close]' />
-                    {t('Cancel')}
+                    {t('common.cancel')}
                   </Button>
                 </Dialog.Close>
               </div>
@@ -247,10 +243,10 @@ export function UploadDialog({ platform, toggleOpen }: Readonly<{ platform: Plat
                 {files.length},
                 {uploadedFiles.failure.length > 0 ? (
                   <span>
-                    {uploadedFiles.failure.length} {t('Failed')}.
+                    {uploadedFiles.failure.length} {t('common.failed')}.
                   </span>
                 ) : null}
-                <span>{t('Please do not turn off your device!')}</span>
+                <span>{t('common.doNotTurnOffDevice')}</span>
               </div>
             </div>
           ),
@@ -258,7 +254,7 @@ export function UploadDialog({ platform, toggleOpen }: Readonly<{ platform: Plat
           done: (
             <div>
               <div className='py-10 text-center'>
-                {t('🎉 {{successCount}}/{{totalCount}} ROM(s) have been uploaded.', {
+                {t('upload.uploadSuccessMessage', {
                   successCount: uploadedFiles.success.length,
                   totalCount: files.length,
                 })}
@@ -268,7 +264,7 @@ export function UploadDialog({ platform, toggleOpen }: Readonly<{ platform: Plat
                 <Dialog.Close>
                   <Button onClick={handleClickDone} variant='soft'>
                     <span className='icon-[mdi--check]' />
-                    {t('Done')}
+                    {t('common.done')}
                   </Button>
                 </Dialog.Close>
               </div>

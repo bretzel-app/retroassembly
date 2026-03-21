@@ -1,7 +1,6 @@
 import { Button, DropdownMenu } from '@radix-ui/themes'
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
-import { links } from '#@/constants/links.ts'
 import { useSettingsDialogOpen, useSpatialNavigationPaused } from '../../../atoms.ts'
 import { useShowSearchModal } from '../atoms.ts'
 import { AboutDialog } from './about-dialog.tsx'
@@ -32,7 +31,7 @@ export function LayoutMenu() {
     <>
       <DropdownMenu.Root>
         <DropdownMenu.Trigger>
-          <Button aria-label={t('Menu')} type='button'>
+          <Button aria-label={t('common.menu')} type='button'>
             <span className='icon-[mdi--menu]' />
           </Button>
         </DropdownMenu.Trigger>
@@ -40,12 +39,12 @@ export function LayoutMenu() {
         <DropdownMenu.Content variant='solid'>
           <DropdownMenu.Item className='lg:hidden!' onClick={handleClickSearch}>
             <span className='icon-[mdi--search]' />
-            {t('Search')}
+            {t('common.search')}
           </DropdownMenu.Item>
 
           <DropdownMenu.Item onClick={handleClickSettings}>
             <span className='icon-[mdi--cog]' />
-            {t('Settings')}
+            {t('nav.settings')}
           </DropdownMenu.Item>
 
           <ThemeMenuItem />
@@ -54,26 +53,14 @@ export function LayoutMenu() {
 
           <DropdownMenu.Item onClick={() => setAboutDialogOpen(true)}>
             <span className='icon-[mdi--information]' />
-            {t('About')}
+            {t('common.about')}
           </DropdownMenu.Item>
-
-          {links.map((link) => (
-            <DropdownMenu.Item asChild key={link.name}>
-              <a href={link.url} rel='noopener noreferrer' target='_blank'>
-                <span className={link.icon} />
-                <span className='flex items-start gap-1'>
-                  {link.name}
-                  <sub className='icon-[mdi--open-in-new]' />
-                </span>
-              </a>
-            </DropdownMenu.Item>
-          ))}
 
           <DropdownMenu.Separator />
 
           <DropdownMenu.Item color='red' onClick={() => setLogoutDialogOpen(true)}>
             <span className='icon-[mdi--logout]' />
-            {t('Log out')}
+            {t('auth.logout')}
           </DropdownMenu.Item>
         </DropdownMenu.Content>
       </DropdownMenu.Root>

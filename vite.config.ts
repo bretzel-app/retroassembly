@@ -1,4 +1,5 @@
 import path from 'node:path'
+import { createConfig } from '@arianrhodsandlot/vite-plus-config'
 import { defaultOptions } from '@hono/vite-dev-server'
 import { reactRouter } from '@react-router/dev/vite'
 import tailwindcss from '@tailwindcss/vite'
@@ -8,8 +9,8 @@ import { $, execaNode } from 'execa'
 import fs from 'fs-extra'
 import serverAdapter from 'hono-react-router-adapter/vite'
 import { DateTime } from 'luxon'
-import { defineConfig, type Plugin, type UserConfig } from 'vite'
 import devtoolsJson from 'vite-plugin-devtools-json'
+import { defineConfig, type Plugin, type UserConfig } from 'vite-plus'
 import { getTargetRuntime, logServerInfo, prepareWranglerConfig } from './scripts/utils.ts'
 import { getDirectories } from './src/constants/env.ts'
 
@@ -47,6 +48,7 @@ function serverInfo() {
       const { httpServer } = server
       server.printUrls = noop
       server.bindCLIShortcuts = noop
+      server.config.logger.info = noop
       httpServer?.on('listening', () => {
         const address = httpServer?.address()
         if (address && typeof address === 'object') {
@@ -59,13 +61,15 @@ function serverInfo() {
   return plugin
 }
 
-export default defineConfig(async (env) => {
+const viteConfigForReactRouter = defineConfig(async (env) => {
   const envPort = process.env.RETROASSEMBLY_RUN_TIME_PORT || process.env.PORT
   const port = envPort ? Number.parseInt(envPort, 10) || 8000 : 8000
+  const plugins = [tailwindcss({ optimize: false }), reactRouter(), [devtoolsJson()], serverInfo()]
   const config: UserConfig = {
     build: { chunkSizeWarningLimit: 1024 },
+    clearScreen: false,
     envPrefix: 'RETROASSEMBLY_BUILD_TIME_VITE_',
-    plugins: [tailwindcss({ optimize: false }), reactRouter(), devtoolsJson(), serverInfo()],
+    plugins: plugins as UserConfig['plugins'],
     server: {
       allowedHosts: true,
       hmr: { overlay: true },
@@ -81,7 +85,7 @@ export default defineConfig(async (env) => {
     }
     await prepareWranglerConfig()
     const { cloudflare } = await import('@cloudflare/vite-plugin')
-    config.plugins?.push(cloudflare({ viteEnvironment: { name: 'ssr' } }))
+    plugins.push(cloudflare({ viteEnvironment: { name: 'ssr' } }))
     config.resolve = {
       alias: {
         '@entry.server.tsx': path.resolve(
@@ -114,7 +118,7 @@ export default defineConfig(async (env) => {
       }),
       ['handleHotUpdate'],
     )
-    config.plugins?.push(serverAdapterPlugin)
+    plugins.push([serverAdapterPlugin])
     config.resolve = {
       alias: {
         '@entry.server.tsx': path.resolve(
@@ -132,3 +136,15 @@ export default defineConfig(async (env) => {
 
   return config
 })
+
+const viteConfigForVP = createConfig({
+  staged: {
+    'pnpm-lock.yaml': 'node --run=check-lockfile',
+  },
+})
+
+const [_bin, script, arg] = process.argv
+const viteConfig =
+  script.includes('react-router') || ['dev', 'build'].includes(arg) ? viteConfigForReactRouter : viteConfigForVP
+
+export default viteConfig

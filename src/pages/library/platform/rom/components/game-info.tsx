@@ -1,14 +1,15 @@
 import { useTranslation } from 'react-i18next'
 import { platformMap } from '#@/constants/platform.ts'
+import type { Rom } from '#@/controllers/roms/get-roms.ts'
 import { useDate } from '#@/pages/library/hooks/use-date.ts'
 import { GameInfoDialog } from './game-info-dialog/game-info-dialog.tsx'
 
-export function GameInfo({ rom }) {
+export function GameInfo({ rom }: Readonly<{ rom: Rom }>) {
   const { t } = useTranslation()
   const { formatDate, formatDateRelative, isValidDate } = useDate()
   const launchboxGame = rom.rawGameMetadata?.launchbox || {}
 
-  const unknown = <span className='opacity-40'>{t('Unknown')}</span>
+  const unknown = <span className='opacity-40'>{t('common.unknown')}</span>
 
   const releaseDate = rom.gameReleaseDate ?? launchboxGame.releaseDate
 
@@ -16,13 +17,13 @@ export function GameInfo({ rom }) {
     {
       icon: 'icon-[mdi--computer-classic]',
       name: '',
-      title: t('platform'),
-      value: t(platformMap[rom.platform].displayName),
+      title: t('common.platform'),
+      value: t(platformMap[rom.platform].displayNameI18nKey),
     },
     {
       icon: 'icon-[mdi--calendar]',
       name: 'gameReleaseDate',
-      title: t('Released'),
+      title: t('common.released'),
       value: isValidDate(releaseDate) ? (
         <>
           {formatDate(releaseDate)}
@@ -35,25 +36,25 @@ export function GameInfo({ rom }) {
     {
       icon: 'icon-[mdi--tag-multiple]',
       name: 'gameGenres',
-      title: t('Genres'),
+      title: t('common.genres'),
       value: (rom.gameGenres ?? launchboxGame.genres)?.trim() || unknown,
     },
     {
       icon: 'icon-[mdi--person-multiple]',
       name: 'gamePlayers',
-      title: t('Players'),
+      title: t('common.players'),
       value: rom.gamePlayers ?? launchboxGame.maxPlayers ?? unknown,
     },
     {
       icon: 'icon-[mdi--chip]',
       name: 'gameDeveloper',
-      title: t('Developer'),
+      title: t('common.developer'),
       value: (rom.gameDeveloper ?? launchboxGame.developer)?.trim() || unknown,
     },
     {
       icon: 'icon-[mdi--earth]',
       name: 'gamePublisher',
-      title: t('Publisher'),
+      title: t('common.publisher'),
       value: (rom.gamePublisher ?? launchboxGame.publisher)?.trim() || unknown,
     },
   ]
