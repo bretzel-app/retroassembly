@@ -17,7 +17,7 @@ export function useGameListActions() {
   const searchParams = new URLSearchParams(search)
   const direction = searchParams.get('direction') || 'asc'
   const isViewingFavorites = searchParams.get('favorite') === '1'
-  const sort = searchParams.get('sort') || 'name'
+  const sort = searchParams.get('sort') || 'top100'
 
   const hasRoms = roms.length > 0
   const hasSelectedGames = selectedGames.length > 0

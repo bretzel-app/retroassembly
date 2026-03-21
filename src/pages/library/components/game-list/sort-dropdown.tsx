@@ -16,6 +16,7 @@ export function SortDropdown({ currentSort, currentDirection, buildSortLink }: S
     { icon: 'icon-[mdi--pencil]', label: t('common.name'), value: 'name' },
     { icon: 'icon-[mdi--clock]', label: t('common.dateAdded'), value: 'added' },
     { icon: 'icon-[mdi--calendar]', label: t('common.released'), value: 'released' },
+    { icon: 'icon-[mdi--trophy]', label: t('Top 100'), value: 'top100' },
   ]
 
   const directionOptions = [
