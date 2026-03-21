@@ -12,7 +12,7 @@ import { getFileUrl } from '../utils/file.ts'
 import { useIsDemo } from './use-demo.ts'
 
 const libretroThumbnailTypes = ['boxart', 'title', 'snap'] as const
-export function useRomCover(rom: Rom) {
+export function useRomCover(rom: Pick<Rom, 'fileName' | 'gameBoxartFileIds' | 'platform' | 'rawGameMetadata'>) {
   const isDemo = useIsDemo()
   const romCovers = isDemo
     ? [getDemoRomThumbnail(rom)]
