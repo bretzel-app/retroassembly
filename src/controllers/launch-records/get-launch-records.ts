@@ -48,7 +48,9 @@ export async function getLaunchRecords({ page = 1, pageSize = 100 }: { page?: nu
     .offset(offset)
     .limit(pageSize)
 
-  const roms = romsRaw.map(({ isFavorite, ...rom }) => Object.assign(rom, { isFavorite: Boolean(isFavorite) }))
+  const roms = romsRaw
+    .filter(({ fileName }) => fileName)
+    .map(({ isFavorite, ...rom }) => Object.assign(rom, { isFavorite: Boolean(isFavorite) }))
 
   const [{ total }] = await library
     .select({ total: countDistinct(launchRecordTable.romId) })
