@@ -10,6 +10,8 @@ pages.all('*', async (c) => {
   return requestHandler(c.req.raw, new RouterContextProvider())
 })
 
-app.route('', pages)
+if (app.router.name === 'SmartRouter') {
+  app.route('', pages)
+}
 
 export { default } from './app.ts'

@@ -46,7 +46,7 @@ export function GameInfoDialog({ autoFocusField, children = defaultTrigger }: Re
 
   async function handleSubmit(event: SubmitEvent<HTMLFormElement>) {
     event.preventDefault()
-    const formData = new FormData(event.target as HTMLFormElement)
+    const formData = new FormData(event.target)
     await trigger(Object.fromEntries(formData))
     setOpen(false)
     await reload()
