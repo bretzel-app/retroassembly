@@ -4,7 +4,7 @@ import fs from 'fs-extra'
 import { temporaryDirectory } from 'tempy'
 
 const envPort = process.env.RETROASSEMBLY_RUN_TIME_PORT || process.env.PORT
-const port = envPort ? Number.parseInt(envPort, 10) || 8000 : 8000
+const port = envPort ? Math.trunc(Number(envPort)) || 8000 : 8000
 const tmp = temporaryDirectory({ prefix: 'retroassembly-test-' })
 
 const cleanup = once(() => {

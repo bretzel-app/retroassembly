@@ -21,7 +21,7 @@ export function AutosaveSettings() {
   const interval = preference.emulator.autoSaveInterval
 
   async function handleIntervalChange(value: string) {
-    const newInterval = value === '0' ? 0 : Number.parseInt(value, 10)
+    const newInterval = value === '0' ? 0 : Math.trunc(Number(value))
     if (newInterval !== interval) {
       await update({
         emulator: {

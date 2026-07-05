@@ -76,7 +76,7 @@ export const roms = new Hono()
         : null
       const rom = {
         ...Object.fromEntries(Object.entries(form).map(([key, value]) => [key, value || null])),
-        gamePlayers: form.gamePlayers ? Number.parseInt(form.gamePlayers, 10) : null,
+        gamePlayers: form.gamePlayers ? Math.trunc(Number(form.gamePlayers)) : null,
         gameReleaseDate,
       }
 

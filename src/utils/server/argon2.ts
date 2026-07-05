@@ -30,9 +30,9 @@ function decodeHash(encoded: string) {
   }
 
   const params = parts[3].split(',')
-  const memory = Number.parseInt(params[0].split('=')[1], 10)
-  const passes = Number.parseInt(params[1].split('=')[1], 10)
-  const parallelism = Number.parseInt(params[2].split('=')[1], 10)
+  const memory = Math.trunc(Number(params[0].split('=')[1]))
+  const passes = Math.trunc(Number(params[1].split('=')[1]))
+  const parallelism = Math.trunc(Number(params[2].split('=')[1]))
 
   const salt = fromBase64(parts[4].replaceAll('-', '+').replaceAll('_', '/'))
   const hash = fromBase64(parts[5].replaceAll('-', '+').replaceAll('_', '/'))

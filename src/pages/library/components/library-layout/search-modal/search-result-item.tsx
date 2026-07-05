@@ -67,8 +67,9 @@ export function SearchResultItem({ keyword, rom }: Readonly<SearchResultItemProp
   }, [selected])
 
   return (
-    <li className='p-1' onMouseMove={handleMouseMove} ref={ref}>
+    <li className='p-1' ref={ref}>
       <Link
+        onMouseMove={handleMouseMove}
         className={clsx('flex items-center gap-2 rounded-sm p-1', {
           'bg-(--accent-3)': selected,
         })}

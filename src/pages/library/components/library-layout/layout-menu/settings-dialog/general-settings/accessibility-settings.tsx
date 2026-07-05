@@ -32,7 +32,7 @@ export function AccessibilitySettings() {
             </SettingsTitle>
             <Select.Root
               onValueChange={async (value) => {
-                const saturation = Number.parseInt(value, 10)
+                const saturation = Math.trunc(Number(value))
                 const resolvedPreference = await update({ ui: { saturation } })
                 if (resolvedPreference) {
                   updateGlobalSaturation(resolvedPreference)

@@ -65,7 +65,7 @@ export function GameInfoDataList({ autoFocusField }: Readonly<{ autoFocusField?:
     gameInfo.gameReleaseDate = isValidDate(gameInfo.gameReleaseDate) ? formatDate(gameInfo.gameReleaseDate) : ''
   }
   if (gameInfo.gamePlayers) {
-    gameInfo.gamePlayers = Number.parseInt(`${gameInfo.gamePlayers}`, 10) ? `${gameInfo.gamePlayers}` : 'unknown'
+    gameInfo.gamePlayers = Math.trunc(Number(`${gameInfo.gamePlayers}`)) ? `${gameInfo.gamePlayers}` : 'unknown'
   }
 
   return (

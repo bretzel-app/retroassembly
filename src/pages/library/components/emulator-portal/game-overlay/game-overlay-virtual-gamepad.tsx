@@ -106,7 +106,7 @@ export function GameOverlayVirtualGamepad() {
         className={twMerge('bottom-safe left-safe absolute flex flex-col gap-2 p-2', clsx({ hidden: !gamepadVisible }))}
       >
         <VirtualGamepadCommandButton command='REWIND' className='rounded px-2 py-1 ring ring-white/20' title='Rewind'>
-          <span className='icon-[mdi--rewind]' />
+          <span className='icon-[mdi--rewind] size-6' />
         </VirtualGamepadCommandButton>
         <div className='flex w-full gap-2'>
           <VirtualGamepadButton buttonName='l' className='flex-1 rounded px-2 py-1 ring ring-white/20'>
@@ -199,7 +199,7 @@ export function GameOverlayVirtualGamepad() {
           className='rounded px-2 py-1 ring ring-white/20'
           title='Fast forward'
         >
-          <span className='icon-[mdi--fast-forward]' />
+          <span className='icon-[mdi--fast-forward] size-6' />
         </VirtualGamepadCommandButton>
         <div className='flex w-full gap-2'>
           <VirtualGamepadButton buttonName='r2' className='flex-1 rounded px-2 py-1 ring ring-white/20'>

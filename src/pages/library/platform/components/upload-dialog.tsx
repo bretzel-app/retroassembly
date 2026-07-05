@@ -20,13 +20,13 @@ import { UploadInstruction } from './upload-instruction.tsx'
 export function UploadDialog({ platform, toggleOpen }: Readonly<{ platform: PlatformName; toggleOpen: () => void }>) {
   const { t } = useTranslation()
   const { currentUser, env, isOfficialHost } = useGlobalLoaderData()
-  const maxFiles = Number.parseInt(env.RETROASSEMBLY_RUN_TIME_MAX_UPLOAD_AT_ONCE, 10) || 1000
+  const maxFiles = Math.trunc(Number(env.RETROASSEMBLY_RUN_TIME_MAX_UPLOAD_AT_ONCE)) || 1000
   const cutoffDate = DateTime.fromISO('2026-01-01')
-  let maxRomCount = Number.parseInt(env.RETROASSEMBLY_RUN_TIME_MAX_ROM_COUNT, 10) || Infinity
+  let maxRomCount = Math.trunc(Number(env.RETROASSEMBLY_RUN_TIME_MAX_ROM_COUNT)) || Infinity
   if (currentUser && 'created_at' in currentUser && typeof currentUser.created_at === 'string') {
     const createdAt = DateTime.fromISO(currentUser.created_at)
     if (createdAt.isValid && createdAt >= cutoffDate) {
-      maxRomCount = Number.parseInt(env.RETROASSEMBLY_RUN_TIME_MAX_ROM_COUNT_2026, 10) || maxRomCount
+      maxRomCount = Math.trunc(Number(env.RETROASSEMBLY_RUN_TIME_MAX_ROM_COUNT_2026)) || maxRomCount
     }
   }
 

@@ -7,13 +7,11 @@ import type { ResolvedPreference } from '#@/constants/preference.ts'
 import { defaultLanguage } from './i18n.ts'
 
 export function restoreTitleForSorting(title: string) {
-  // Match titles ending with ", A", ", An", or ", The" followed by optional additional info
-  const match = /^(.*),\s*(A|An|The)(\s*(?:\S.*)?)$/u.exec(title)
-  if (match) {
-    // Reconstruct: article + space + main title + additional info
-    return `${match[2]} ${match[1]}${match[3]}`
+  const match = /^(?<mainTitle>.*),\s*(?<article>A|An|The)(?<additionalInfo>\s*(?:\S.*)?)$/u.exec(title)
+  if (match?.groups) {
+    const { additionalInfo, article, mainTitle } = match.groups
+    return `${article} ${mainTitle}${additionalInfo}`
   }
-  // Return original string if no match
   return title
 }
 

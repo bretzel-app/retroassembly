@@ -61,7 +61,7 @@ function serverInfo() {
 
 const viteConfigForReactRouter = defineConfig(async (env) => {
   const envPort = process.env.RETROASSEMBLY_RUN_TIME_PORT || process.env.PORT
-  const port = envPort ? Number.parseInt(envPort, 10) || 8000 : 8000
+  const port = envPort ? Math.trunc(Number(envPort)) || 8000 : 8000
   const plugins = [tailwindcss({ optimize: false }), reactRouter(), [devtoolsJson()], serverInfo()]
   const config: UserConfig = {
     build: { chunkSizeWarningLimit: 1024 },
@@ -131,6 +131,15 @@ const viteConfigForReactRouter = defineConfig(async (env) => {
 })
 
 const viteConfigForVP = createConfig({
+  lint: {
+    rules: {
+      'jsx-no-literals': 'off',
+      'max-nested-calls': 'off',
+      'node/no-sync': 'off',
+      'react/react-compiler': 'off',
+      'unicorn/prefer-export-from': 'off',
+    },
+  },
   staged: {
     'pnpm-lock.yaml': 'node --run=check-lockfile',
   },

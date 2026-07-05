@@ -37,7 +37,7 @@ const defaultRetroarchConfig: RetroarchConfig = {
   run_ahead_frames: 1,
   video_gpu_screenshot: true,
   // @ts-expect-error this option is not yet listed in types
-  video_viewport_bias_y: 0,
+  video_viewport_bias_y: 0.1,
 }
 
 const nativeConsoleError = console.error
