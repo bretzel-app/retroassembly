@@ -88,8 +88,7 @@ const viteConfigForReactRouter = defineConfig(async (env) => {
       alias: {
         '@entry.server.tsx': path.resolve(
           'node_modules',
-          'react-router-templates',
-          'cloudflare',
+          'react-router-hono-fullstack-template',
           'app',
           'entry.server.tsx',
         ),
