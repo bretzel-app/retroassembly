@@ -2,6 +2,7 @@ import { useTranslation } from 'react-i18next'
 import { useLoaderData } from 'react-router'
 import type { loader } from '#@/pages/routes/library-platform-rom.tsx'
 import { getRomGoodcodes } from '#@/utils/client/library.ts'
+import { AddToListButton } from '../../components/add-to-list-button.tsx'
 import { FavoriteButton } from '../../components/favorite-button.tsx'
 import { GameButtons } from '../../components/game-buttons/game-buttons.tsx'
 import LibraryLayout from '../../components/library-layout/library-layout.tsx'
@@ -44,6 +45,7 @@ export default function RomPage() {
             <div className='flex items-center gap-3 pt-4 lg:px-8'>
               <h1 className='text-3xl font-bold'>{goodcodes.rom}</h1>
               <FavoriteButton rom={rom} variant='inline' />
+              <AddToListButton rom={rom} />
             </div>
 
             <div className='flex flex-col gap-8 lg:flex-col-reverse'>

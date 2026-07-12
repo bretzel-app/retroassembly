@@ -3,6 +3,7 @@ import { useLocation } from 'react-router'
 import { metadata } from '#@/constants/metadata.ts'
 import { routes } from '#@/pages/routes.ts'
 import { getPlatformIcon } from '#@/utils/client/library.ts'
+import { useGameList } from '../../hooks/use-game-list.ts'
 import { usePlatform } from '../../hooks/use-platform.ts'
 import { UploadButton } from '../../platform/components/upload-button.tsx'
 import { UploadSelectButton } from '../../platform/components/upload-select-button.tsx'
@@ -12,6 +13,7 @@ export function GameListEmpty() {
   const { t } = useTranslation()
   const { pathname, search } = useLocation()
   const platform = usePlatform()
+  const gameList = useGameList()
 
   const isLibrary = pathname === routes.libraryRoms || pathname === routes.libraryHome
   const isHistory = pathname === routes.libraryHistory
@@ -49,6 +51,8 @@ export function GameListEmpty() {
       ) : null}
 
       {isFavorites ? <div className='text-(--gray-11)'>{t('empty.favoritesDescription')}</div> : null}
+
+      {gameList ? <div className='text-(--gray-11)'>{t('empty.gameListDescription')}</div> : null}
 
       {platform ? (
         <>

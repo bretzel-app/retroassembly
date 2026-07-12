@@ -5,6 +5,7 @@ import { generatePath, useLocation } from 'react-router'
 import { routes } from '#@/pages/routes.ts'
 import { getPlatformGameIcon, getPlatformIcon, getRomGoodcodes } from '#@/utils/client/library.ts'
 import { useIsDemo } from '../hooks/use-demo.ts'
+import { useGameList } from '../hooks/use-game-list.ts'
 import { usePlatform } from '../hooks/use-platform.ts'
 import { useRom } from '../hooks/use-rom.ts'
 import { NavigatableLink } from './navigatable-link.tsx'
@@ -12,6 +13,7 @@ import { NavigatableLink } from './navigatable-link.tsx'
 export function PageBreadcrumb() {
   const { t } = useTranslation()
   const rom = useRom()
+  const gameList = useGameList()
   const platform = usePlatform()
   const isDemo = useIsDemo()
   const location = useLocation()
@@ -40,6 +42,13 @@ export function PageBreadcrumb() {
           url: generatePath(routes.libraryFavorites),
         })
         break
+      case routes.libraryGameLists:
+        links.push({
+          icon: <span className='icon-[mdi--format-list-bulleted-square] size-5 p-0.5' />,
+          text: t('nav.lists'),
+          url: generatePath(routes.libraryGameLists),
+        })
+        break
       case routes.libraryHistory:
         links.push({
           icon: <span className='icon-[mdi--history] size-5 p-0.5' />,
@@ -48,6 +57,21 @@ export function PageBreadcrumb() {
         })
         break
       default:
+    }
+
+    if (gameList) {
+      links.push(
+        {
+          icon: <span className='icon-[mdi--format-list-bulleted-square] size-5 p-0.5' />,
+          text: t('nav.lists'),
+          url: generatePath(routes.libraryGameLists),
+        },
+        {
+          icon: <span className='icon-[mdi--format-list-bulleted-type] size-5 p-0.5' />,
+          text: gameList.name,
+          url: generatePath(routes.libraryGameList, { listId: gameList.id }),
+        },
+      )
     }
   }
 

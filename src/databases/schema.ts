@@ -155,6 +155,38 @@ export const favoriteTable = sqliteTable(
   ],
 )
 
+export const gameListTable = sqliteTable(
+  'game_lists',
+  {
+    description: text(),
+    name: text().notNull(),
+    userId: text().notNull(),
+    ...baseSchema,
+  },
+  (table) => [
+    // For get-game-lists.ts: list a user's lists ordered by creation time
+    index('idx_game_lists_user_status_created').on(table.userId, table.status, table.createdAt),
+  ],
+)
+
+export const gameListItemTable = sqliteTable(
+  'game_list_items',
+  {
+    listId: text().notNull(),
+    romId: text().notNull(),
+    sortOrder: integer().notNull().default(0),
+    userId: text().notNull(),
+    ...baseSchema,
+  },
+  (table) => [
+    uniqueIndex('idx_game_list_items_list_rom').on(table.listId, table.romId),
+    // For get-game-list-roms.ts: fetch a list's items in manual order
+    index('idx_game_list_items_list_status_order').on(table.listId, table.status, table.sortOrder),
+    // For get-game-lists.ts: compute which lists contain a given rom
+    index('idx_game_list_items_user_rom_status').on(table.userId, table.romId, table.status),
+  ],
+)
+
 export const top100RankTable = sqliteTable(
   'top100_ranks',
   {

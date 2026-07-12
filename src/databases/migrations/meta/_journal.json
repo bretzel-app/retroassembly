@@ -57,6 +57,13 @@
       "when": 1783874584889,
       "tag": "0007_top100_ranking",
       "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "6",
+      "when": 1783877450737,
+      "tag": "0008_add_game_lists",
+      "breakpoints": true
     }
   ]
 }
