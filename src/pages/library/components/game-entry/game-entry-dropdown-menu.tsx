@@ -2,12 +2,15 @@ import { Checkbox, DropdownMenu, IconButton } from '@radix-ui/themes'
 import { clsx } from 'clsx'
 import { useState } from 'react'
 import { useLocation } from 'react-router'
+import { client } from '#@/api/client.ts'
 import { libraryModeEnum } from '#@/databases/schema.ts'
 import { useGlobalLoaderData } from '#@/pages/hooks/use-global-loader-data.ts'
 import { routes } from '#@/pages/routes.ts'
 import { useSelectedGames } from '../../atoms.ts'
 import { useIsDemo } from '../../hooks/use-demo.ts'
 import { useGameActions } from '../../hooks/use-game-actions.ts'
+import { useGameList } from '../../hooks/use-game-list.ts'
+import { useRouter } from '../../hooks/use-router.ts'
 import { DeleteDialog } from './delete-dialog.tsx'
 
 export function GameEntryDropdownMenu({ rom }) {
@@ -15,6 +18,8 @@ export function GameEntryDropdownMenu({ rom }) {
   const isDemo = useIsDemo()
   const { currentUser } = useGlobalLoaderData()
   const { actions } = useGameActions()
+  const gameList = useGameList()
+  const { reload } = useRouter()
   const [menuOpen, setMenuOpen] = useState(false)
   const [deleteDialogOpen, setDeleteDialogOpen] = useState(false)
   const [selectedGames, setSelectedGames] = useSelectedGames()
@@ -31,8 +36,22 @@ export function GameEntryDropdownMenu({ rom }) {
     setDeleteDialogOpen(true)
   }
 
+  async function handleClickRemoveFromList() {
+    if (!gameList) {
+      return
+    }
+    await client.game_lists[':listId'].roms[':romId'].$delete({
+      param: { listId: gameList.id, romId: rom.id },
+    })
+    await reload()
+  }
+
   function handleClick(name: string) {
-    const handlers = { delete: handleClickDelete, select: handleClickSelect }
+    const handlers = {
+      delete: handleClickDelete,
+      removeFromList: handleClickRemoveFromList,
+      select: handleClickSelect,
+    }
     const handler = handlers[name]
     handler?.()
   }

@@ -62,6 +62,13 @@ export function useNavigationLinks() {
               to: generatePath(routes.libraryFavorites),
             },
             {
+              iconClass: 'icon-[mdi--format-list-bulleted-square]',
+              iconUrl: '',
+              name: 'lists',
+              text: t('nav.lists'),
+              to: generatePath(routes.libraryGameLists),
+            },
+            {
               iconClass: 'icon-[mdi--history]',
               iconUrl: '',
               name: 'history',

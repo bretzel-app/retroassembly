@@ -7,11 +7,40 @@ export function useGameActions() {
   const { t } = useTranslation()
   const { pathname } = useLocation()
   const { currentUser } = useGlobalLoaderData()
-  const pageType = pathname === '/library/history' ? 'history' : 'library'
+  let pageType: 'gameList' | 'history' | 'library' = 'library'
+  if (pathname === '/library/history') {
+    pageType = 'history'
+  } else if (pathname.startsWith('/library/lists/')) {
+    pageType = 'gameList'
+  }
 
   const isSharedLibrary = currentUser?.libraryMode === libraryModeEnum.shared
 
   const actionsMap = {
+    gameList: [
+      {
+        confirmDescription: '',
+        icon: 'icon-[mdi--playlist-remove]',
+        name: 'removeFromList',
+        text: t('gameList.removeFromList'),
+        type: 'game_lists',
+      },
+      {
+        confirmDescription: '',
+        icon: 'icon-[mdi--checkbox-multiple-marked]',
+        name: 'select',
+        text: t('common.select'),
+        type: '',
+      },
+      {
+        color: 'red',
+        confirmDescription: t('dialog.confirmDeleteRomsMessage'),
+        icon: 'icon-[mdi--delete]',
+        name: 'delete',
+        text: t('game.deleteRom'),
+        type: 'roms',
+      },
+    ],
     history: [
       {
         color: 'red',
