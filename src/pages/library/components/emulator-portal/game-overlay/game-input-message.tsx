@@ -8,13 +8,13 @@ import { GameInputMessageItem } from './game-input-message-item.tsx'
 export function GameInputMessage() {
   const { t } = useTranslation()
   const { connected } = useGamepads()
-  const { keyboard: keyboardMapping } = useInputMapping()
+  const { gamepad: gamepadMapping, keyboard: keyboardMapping } = useInputMapping()
 
   const messages: { keyNames: string[]; message: ReactNode }[] = connected
     ? [
-        { keyNames: ['L1', 'R1'], message: t('emulator.pause') },
-        { keyNames: ['Select', 'L2'], message: t('emulator.rewind') },
-        { keyNames: ['Select', 'R2'], message: t('emulator.fastForward') },
+        { keyNames: gamepadMapping.$pause.split(/\s+\+\s/u), message: t('emulator.pause') },
+        { keyNames: gamepadMapping.$rewind.split(/\s+\+\s/u), message: t('emulator.rewind') },
+        { keyNames: gamepadMapping.$fast_forward.split(/\s+\+\s/u), message: t('emulator.fastForward') },
       ]
     : [
         {
