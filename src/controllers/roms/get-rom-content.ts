@@ -9,10 +9,14 @@ export async function getRomContent(id: string) {
   const [result] = await db.library
     .select()
     .from(romTable)
-    .orderBy(romTable.fileName)
     .where(
       and(eq(romTable.id, id), eq(romTable.userId, effectiveLibraryUserId), eq(romTable.status, statusEnum.normal)),
     )
 
-  return getFileContent(result.fileId)
+  if (!result) {
+    return
+  }
+
+  const content = await getFileContent(result.fileId)
+  return { content, fileName: result.fileName }
 }

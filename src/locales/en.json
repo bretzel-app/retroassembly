@@ -193,6 +193,7 @@
   "game.deleteFromHistory": "Delete from history",
   "game.deleteRom": "Delete the ROM",
   "game.deleteSelectedItems": "Delete selected {{count}} {{items}}",
+  "game.download": "Download",
   "game.removeFromFavorites": "Remove from favorites",
   "game.resume": "Resume",
   "game.rom": "ROM",

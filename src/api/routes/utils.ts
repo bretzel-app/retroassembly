@@ -24,6 +24,7 @@ function getContentType(fileId: string) {
 export function createFileResponse(
   object: { body: Buffer<ArrayBuffer>; httpEtag: string; size: number } | R2ObjectBody,
   fileId?: string,
+  downloadFileName?: string,
 ) {
   const headers = new Headers()
   // this may fail when using miniflare
@@ -37,6 +38,13 @@ export function createFileResponse(
     if (contentType) {
       headers.set('Content-Type', contentType)
     }
+  }
+  if (downloadFileName) {
+    // RFC 5987: `filename*` carries the real (possibly non-ASCII) name; the
+    // plain `filename` is an ASCII fallback for older clients.
+    const asciiFallback = downloadFileName.replaceAll(/[^\u0020-\u007E]/gu, '_').replaceAll(/["\\]/gu, '_')
+    const encoded = encodeURIComponent(downloadFileName)
+    headers.set('Content-Disposition', `attachment; filename="${asciiFallback}"; filename*=UTF-8''${encoded}`)
   }
   headers.set('ETag', object.httpEtag)
   if ('range' in object && object.range && 'offset' in object.range && 'end' in object.range) {

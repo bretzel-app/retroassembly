@@ -193,6 +193,7 @@
   "game.deleteFromHistory": "Excluir do histórico",
   "game.deleteRom": "Excluir a ROM",
   "game.deleteSelectedItems": "Excluir {{count}} {{items}} selecionados",
+  "game.download": "Baixar",
   "game.removeFromFavorites": "Remover dos favoritos",
   "game.resume": "Retomar",
   "game.rom": "ROM",

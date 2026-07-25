@@ -193,6 +193,7 @@
   "game.deleteFromHistory": "Удалить из истории",
   "game.deleteRom": "Удалить ROM",
   "game.deleteSelectedItems": "Удалить выбранные {{count}} {{items}}",
+  "game.download": "Скачать",
   "game.removeFromFavorites": "Удалить из избранного",
   "game.resume": "Продолжить",
   "game.rom": "ROM",

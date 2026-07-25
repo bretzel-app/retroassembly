@@ -172,10 +172,12 @@ export const roms = new Hono()
   )
 
   .get(':id/content', async (c) => {
-    const object = await getRomContent(c.req.param('id'))
-    if (object) {
-      return createFileResponse(object)
+    const result = await getRomContent(c.req.param('id'))
+    if (!result?.content) {
+      return c.notFound()
     }
+    const download = c.req.query('download')
+    return createFileResponse(result.content, undefined, download ? result.fileName : undefined)
   })
 
   .get(
